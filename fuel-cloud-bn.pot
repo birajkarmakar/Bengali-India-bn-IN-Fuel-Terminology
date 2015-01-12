@@ -1,0 +1,1759 @@
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# fuel-cloud is a module that contains the frequently used entries of cloud technology that is important during localization of cloud. It will be helpful for translator while translating the docs and software related to Cloud Computing provided by any cloud service provider. Suggestions are welcome. - Chandan Kumar
+#
+# Ref: http://docs.openstack.org/glossary/content/glossary.html
+# http://docs.cloudstack.apache.org/en/latest/concepts.html
+# https://www.eucalyptus.com/docs/eucalyptus/4.0/index.html
+
+# Project Wiki: https://fedorahosted.org/fuel/wiki/fuel-terminology/fuel-cloud
+#
+# Reviewers:
+# Suraj Kawade
+# Parag Nemade
+# Chandrakant
+# Pravin Satpute
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-12-23 16:29+0530\n"
+"PO-Revision-Date: 2014-12-23 16:29+0530\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Applications: 
+#. Context: Defined rules for access and security of network
+msgid "Access and Security"
+msgstr ""
+
+#. Applications: 
+#. Context: User Account
+msgid "Account"
+msgstr ""
+
+#. Applications: 
+#. Context: Account Number of a cloud customer (unique identification number)
+msgid "Account Number"
+msgstr ""
+
+#. Applications: 
+#. Context: To acquire new IP
+msgid "Acquire New IP"
+msgstr ""
+
+#. Applications: 
+#. Context: Perform an activity like create or delete a key pair
+msgid "Actions"
+msgstr ""
+
+#. Applications: 
+#. Context: The image whose status is active
+msgid "Active"
+msgstr ""
+
+#. Applications: 
+#. Context: Instance that is active
+msgid "Active Instances"
+msgstr ""
+
+#. Applications: 
+#. Context: RAM that is active
+msgid "Active RAM"
+msgstr ""
+
+#. Applications: 
+#. Context: To add
+msgid "Add"
+msgstr ""
+
+#. Applications: 
+#. Context: To add a rule to security group
+msgid "Add Rule"
+msgstr ""
+
+#. Applications: 
+#. Context: To add subnet
+msgid "Add Subnet"
+msgstr ""
+
+#. Applications: 
+#. Context: Cloud Operator
+msgid "Admin"
+msgstr ""
+
+#. Applications: 
+#. Context: Password for operator
+msgid "Admin Password"
+msgstr ""
+
+#. Applications: 
+#. Context: The status of the network created by admin
+msgid "Admin State"
+msgstr ""
+
+#. Applications: 
+#. Context: All the instances
+msgid "All Instances"
+msgstr ""
+
+#. Applications: 
+#. Context: Allocate a floating IP from a given floating IP pool
+msgid "Allocate IP"
+msgstr ""
+
+#. Applications: 
+#. Context: To set an IP to the project so that it can be accessed
+msgid "Allocate IP to Project"
+msgstr ""
+
+#. Applications: 
+#. Context: Available IPs which can be used
+msgid "Allocation Pools"
+msgstr ""
+
+#. Applications: 
+#. Context: Access an API of any project by using user credential
+msgid "API Access"
+msgstr ""
+
+#. Applications: 
+#. Context: Address through which a user can communicate with service
+msgid "API Endpoint"
+msgstr ""
+
+#. Applications: 
+#. Context: Architecture of the cloud image (eg. 32 or 64 bit)
+msgctxt "Architecture of the cloud image (eg. 32 or 64 bit)"
+msgid "Architecture"
+msgstr ""
+
+#. Applications: 
+#. Context: Cloud architecture
+msgctxt "Cloud architecture"
+msgid "Architecture"
+msgstr ""
+
+#. Applications: 
+#. Context: To associate floating IP
+msgid "Associate Floating IP"
+msgstr ""
+
+#. Applications: 
+#. Context: Attached to ..(any instance)
+msgid "Attached to"
+msgstr ""
+
+#. Applications: 
+#. Context: A process that confirms that the user process or client is really who they say they are through private keys, secret token password, fingerprint
+msgid "Authentication"
+msgstr ""
+
+#. Applications: 
+#. Context: An isolated area 
+msgid "Availability Zone"
+msgstr ""
+
+#. Applications: 
+#. Context: Available (no of unused IPs)
+msgid "Available"
+msgstr ""
+
+#. Applications: 
+#. Context: Networks that are available to join
+msgid "Available Networks"
+msgstr ""
+
+#. Applications: 
+#. Context: Available Subscriptions
+msgid "Available Subscriptions"
+msgstr ""
+
+#. Applications: 
+#. Context: To browse or to browse a file
+msgid "Browse"
+msgstr ""
+
+#. Applications: 
+#. Context: To cancel
+msgid "Cancel"
+msgstr ""
+
+#. Applications: 
+#. Context: Certificate
+msgid "Certificate"
+msgstr ""
+
+#. Applications: 
+#. Context: status of certificate
+msgid "Certificate Status"
+msgstr ""
+
+#. Applications: 
+#. Context: To clear gateway
+msgid "Clear Gateway"
+msgstr ""
+
+#. Applications: 
+#. Context: The companies that provide cloud service
+msgid "Cloud Partner"
+msgstr ""
+
+#. Applications: 
+#. Context: provides computing service
+msgid "Compute"
+msgstr ""
+
+#. Applications: 
+#. Context: Configuration
+msgid "Configuration"
+msgstr ""
+
+#. Applications: 
+#. Context: To confirm the admin password
+msgid "Confirm Admin Pass"
+msgstr ""
+
+#. Applications: 
+#. Context: To confirm the password
+msgid "Confirm Password"
+msgstr ""
+
+#. Applications: 
+#. Context: Terminal of the instance
+msgid "Console"
+msgstr ""
+
+#. Applications: 
+#. Context: Console Log
+msgid "Console Log"
+msgstr ""
+
+#. Applications: 
+#. Context: Object storage directory
+msgid "Containers"
+msgstr ""
+
+#. Applications: 
+#. Context: To create containers
+msgid "Create Containers"
+msgstr ""
+
+#. Applications: 
+#. Context: To create a cloud image
+msgid "Create Image"
+msgstr ""
+
+#. Applications: 
+#. Context: To create networks
+msgid "Create Networks"
+msgstr ""
+
+#. Applications: 
+#. Context: To create project
+msgid "Create Project"
+msgstr ""
+
+#. Applications: 
+#. Context: To create a security group
+msgid "Create Security Groups"
+msgstr ""
+
+#. Applications: 
+#. Context: To create snapshot
+msgid "Create Snapshot"
+msgstr ""
+
+#. Applications: 
+#. Context: To create subnet
+msgid "Create Subnet"
+msgstr ""
+
+#. Applications: 
+#. Context: To create a storage volume
+msgid "Create Volume"
+msgstr ""
+
+#. Applications: 
+#. Context: To a create Volume Type
+msgid "Create Volume Type"
+msgstr ""
+
+#. Applications: 
+#. Context: summary in csv format
+msgid "csv Summary"
+msgstr ""
+
+#. Applications: 
+#. Context: a cloud service user
+msgid "Customer"
+msgstr ""
+
+#. Applications: 
+#. Context: Additional script to customize
+msgid "Customization Script"
+msgstr ""
+
+#. Applications: 
+#. Context: Opertaor User Interface of cloud service provider
+msgid "Dashboard"
+msgstr ""
+
+#. Applications: 
+#. Context: Data
+msgid "Data"
+msgstr ""
+
+#. Applications: 
+#. Context: Quota set by default (resources quota)
+msgid "Default Quotas"
+msgstr ""
+
+#. Applications: 
+#. Context: by deafult
+msgid "Defaults"
+msgstr ""
+
+#. Applications: 
+#. Context: To delete a flavor
+msgid "Delete Flavor"
+msgstr ""
+
+#. Applications: 
+#. Context: To delete image
+msgid "Delete Images"
+msgstr ""
+
+#. Applications: 
+#. Context: To delete key pairs
+msgid "Delete Key Pairs"
+msgstr ""
+
+#. Applications: 
+#. Context: To delete networks
+msgid "Delete Networks"
+msgstr ""
+
+#. Applications: 
+#. Context: To delete projects
+msgid "Delete Projects"
+msgstr ""
+
+#. Applications: 
+#. Context: To delete roles (admin/user)
+msgid "Delete Roles"
+msgstr ""
+
+#. Applications: 
+#. Context: To delete router
+msgid "Delete Router"
+msgstr ""
+
+#. Applications: 
+#. Context: To delete a rule
+msgid "Delete Rule"
+msgstr ""
+
+#. Applications: 
+#. Context: To delete a security group
+msgid "Delete Security Groups"
+msgstr ""
+
+#. Applications: 
+#. Context: To delete user
+msgid "Delete User"
+msgstr ""
+
+#. Applications: 
+#. Context: Installing a cloud service for production use
+msgid "Deployment"
+msgstr ""
+
+#. Applications: 
+#. Context: Description (of the cloud image)
+msgid "Description"
+msgstr ""
+
+#. Applications: 
+#. Context: Detail
+msgid "Detail"
+msgstr ""
+
+#. Applications: 
+#. Context: To dissociate floating ip
+msgid "Diassociate Floating IP"
+msgstr ""
+
+#. Applications: 
+#. Context: Flow of network traffic
+msgid "Direction"
+msgstr ""
+
+#. Applications: 
+#. Context: To disable gateway
+msgid "Disable Gateway"
+msgstr ""
+
+#. Applications: 
+#. Context: To disable user
+msgid "Disable User"
+msgstr ""
+
+#. Applications: 
+#. Context: Disk Image
+msgid "Disk"
+msgstr ""
+
+#. Applications: 
+#. Context: size of read on disk in bytes
+msgid "Disk Read Bytes"
+msgstr ""
+
+#. Applications: 
+#. Context: read of request on disk
+msgid "Disk Read Requests"
+msgstr ""
+
+#. Applications: 
+#. Context: How much disk is used
+msgid "Disk Usage"
+msgstr ""
+
+#. Applications: 
+#. Context: size of write on disk in bytes
+msgid "Disk Write Bytes"
+msgstr ""
+
+#. Applications: 
+#. Context: write of request on disk
+msgid "Disk Write Requests"
+msgstr ""
+
+#. Applications: 
+#. Context: name of the server in DNS format
+msgid "DNS Name Server"
+msgstr ""
+
+#. Applications: 
+#. Context: Group of domain
+msgid "Domain Groups"
+msgstr ""
+
+#. Applications: 
+#. Context: ID of the domain
+msgid "Domain ID"
+msgstr ""
+
+#. Applications: 
+#. Context: Domain information
+msgid "Domain Info"
+msgstr ""
+
+#. Applications: 
+#. Context: Number of Domains
+msgid "Domains"
+msgstr ""
+
+#. Applications: 
+#. Context: To download credential of an user
+msgid "Download Credential"
+msgstr ""
+
+#. Applications: 
+#. Context: To download a file
+msgid "Download File"
+msgstr ""
+
+#. Applications: 
+#. Context: Driver eg storage plugins or software driver
+msgid "Driver"
+msgstr ""
+
+#. Applications: 
+#. Context: To edit flavor
+msgid "Edit Flavor"
+msgstr ""
+
+#. Applications: 
+#. Context: To edit instance
+msgid "Edit Instances"
+msgstr ""
+
+#. Applications: 
+#. Context: To edit project
+msgid "Edit Project"
+msgstr ""
+
+#. Applications: 
+#. Context: To edit rules
+msgid "Edit Rules"
+msgstr ""
+
+#. Applications: 
+#. Context: To edit a security group
+msgid "Edit Security Groups"
+msgstr ""
+
+#. Applications: 
+#. Context: Outgoing Traffic
+msgid "Egress"
+msgstr ""
+
+#. Applications: 
+#. Context: Electronic mail
+msgid "Email"
+msgstr ""
+
+#. Applications: 
+#. Context: To enable dhcp
+msgid "Enable DHCP"
+msgstr ""
+
+#. Applications: 
+#. Context: To enable
+msgid "Enables"
+msgstr ""
+
+#. Applications: 
+#. Context: End date of subscription
+msgid "End Date"
+msgstr ""
+
+#. Applications: 
+#. Context: To give new title
+msgid "Entitlement"
+msgstr ""
+
+#. Applications: 
+#. Context: The source of environment on which orchestration is performed
+msgid "Environment Source"
+msgstr ""
+
+#. Applications: 
+#. Context: Temporary disk that does save changes
+msgid "Ephemeral Disk"
+msgstr ""
+
+#. Applications: 
+#. Context: Type of Ethernet (IPv4 or IPv6)
+msgid "Ether Type"
+msgstr ""
+
+#. Applications: 
+#. Context: Current Action of any user
+msgid "Events"
+msgstr ""
+
+#. Applications: 
+#. Context: External (floating IP pool)
+msgid "External"
+msgstr ""
+
+#. Applications: 
+#. Context: Network facing to public
+msgid "External Network"
+msgstr ""
+
+#. Applications: 
+#. Context: filter by (name/instance...)
+msgid "Filter"
+msgstr ""
+
+#. Applications: 
+#. Context: Fingerprint created on uploading of SSH keys
+msgid "Fingerprint"
+msgstr ""
+
+#. Applications: 
+#. Context: Firewall
+msgid "Firewall"
+msgstr ""
+
+#. Applications: 
+#. Context: name of the flavor
+msgid "Flavor name"
+msgstr ""
+
+#. Applications: 
+#. Context: Alternative term of VM instance type
+msgid "Flavors"
+msgstr ""
+
+#. Applications: 
+#. Context: Access to flavor to operator
+msgid "Flavors Access"
+msgstr ""
+
+#. Applications: 
+#. Context: An IP address that a project can associate with a VM so that the instance has the same public IP address each time that it boots.
+msgid "Floating IP"
+msgstr ""
+
+#. Applications: 
+#. Context: No of request for floating IP creation
+msgid "Floating IP Creation Requests"
+msgstr ""
+
+#. Applications: 
+#. Context: Duration of floating IP
+msgid "Floating IP Duration"
+msgstr ""
+
+#. Applications: 
+#. Context: A range of IP Address
+msgid "Floating IP Pool"
+msgstr ""
+
+#. Applications: 
+#. Context: Format of the cloud image (.qcow2, .iso etc)
+msgid "Format"
+msgstr ""
+
+#. Applications: 
+#. Context: Gateway IP
+msgid "Gateway IP"
+msgstr ""
+
+#. Applications: 
+#. Context: Usage of global disk
+msgid "Global Disk usage"
+msgstr ""
+
+#. Applications: 
+#. Context: Usage of global network traffic
+msgid "Global Network Traffic Usage"
+msgstr ""
+
+#. Applications: 
+#. Context: Usage of global network
+msgid "Global Network Usage"
+msgstr ""
+
+#. Applications: 
+#. Context: usage of global object store
+msgid "Global Object Store Usage"
+msgstr ""
+
+#. Applications: 
+#. Context: Sort by...
+msgid "Group by"
+msgstr ""
+
+#. Applications: 
+#. Context: any type of group eg security etc
+msgid "Groups"
+msgstr ""
+
+#. Applications: 
+#. Context: Guest Network
+msgid "Guest Network"
+msgstr ""
+
+#. Applications: 
+#. Context: Rebooting an instance forcibly by pressing button
+msgid "Hard Reboot instance"
+msgstr ""
+
+#. Applications: 
+#. Context: help
+msgid "Help"
+msgstr ""
+
+#. Applications: 
+#. Context: Host (eg. host operating system)
+msgid "Host"
+msgstr ""
+
+#. Applications: 
+#. Context: A method to further sub-divide availability zone into hypervisor pool
+msgid "Host Aggregate"
+msgstr ""
+
+#. Applications: 
+#. Context: sending data from one host to another through routable host
+msgid "Host routes"
+msgstr ""
+
+#. Applications: 
+#. Context: name of the host
+msgid "Hostname"
+msgstr ""
+
+#. Applications: 
+#. Context: summary of hypervisor
+msgid "Hypervisor summary"
+msgstr ""
+
+#. Applications: 
+#. Context: software layer which helps to host cloud image i.e. KVM
+msgid "Hypervisors"
+msgstr ""
+
+#. Applications: 
+#. Context: Infrastructure as a service
+msgid "IAAS"
+msgstr ""
+
+#. Applications: 
+#. Context: Unique Identification code
+msgid "ID"
+msgstr ""
+
+#. Applications: 
+#. Context: Authentication panel
+msgid "Identity Panel"
+msgstr ""
+
+#. Applications: 
+#. Context: Cloud imge i.e. fedora cloud image
+msgid "Image"
+msgstr ""
+
+#. Applications: 
+#. Context: A local image to upload
+msgid "Image File"
+msgstr ""
+
+#. Applications: 
+#. Context: Path of cloud image (directory name or URL)
+msgid "Image Location"
+msgstr ""
+
+#. Applications: 
+#. Context: Name of the cloud image
+msgid "Image Name"
+msgstr ""
+
+#. Applications: 
+#. Context: source of the cloud image
+msgid "Image Source"
+msgstr ""
+
+#. Applications: 
+#. Context: Images and Snapshots
+msgid "Images and Snapshots"
+msgstr ""
+
+#. Applications: 
+#. Context: To import certificate
+msgid "Import Certificate"
+msgstr ""
+
+#. Applications: 
+#. Context: Import a ssh key from the system
+msgid "Import Key Pair"
+msgstr ""
+
+#. Applications: 
+#. Context: Incoming Traffic
+msgid "Ingress"
+msgstr ""
+
+#. Applications: 
+#. Context: File content injected in bytes
+msgid "Injected File Content Bytes"
+msgstr ""
+
+#. Applications: 
+#. Context: files which are injected
+msgid "Injected Files"
+msgstr ""
+
+#. Applications: 
+#. Context: Installation
+msgid "Installation"
+msgstr ""
+
+#. Applications: 
+#. Context: Package ie is installed
+msgid "Installed Package"
+msgstr ""
+
+#. Applications: 
+#. Context: Resource for instance boot i.e. path from where instance is going to boot up
+msgid "Instance Boot resource"
+msgstr ""
+
+#. Applications: 
+#. Context: count of instance being created or created
+msgid "Instance Count"
+msgstr ""
+
+#. Applications: 
+#. Context: name of the instance
+msgid "Instance Name"
+msgstr ""
+
+#. Applications: 
+#. Context: virtual machine running on cloud
+msgid "Instances"
+msgstr ""
+
+#. Applications: 
+#. Context: Internet
+msgid "Internet"
+msgstr ""
+
+#. Applications: 
+#. Context: Invalid
+msgid "Invalid"
+msgstr ""
+
+#. Applications: 
+#. Context: IP Address
+msgid "IP Address"
+msgstr ""
+
+#. Applications: 
+#. Context: IP Protocol
+msgid "IP Protocol"
+msgstr ""
+
+#. Applications: 
+#. Context: version of the IP /IPv4 or IPv6
+msgid "IP Version"
+msgstr ""
+
+#. Applications: 
+#. Context: Isolated Network
+msgid "Isolated Network"
+msgstr ""
+
+#. Applications: 
+#. Context: Items Per Page
+msgid "Items Per Page"
+msgstr ""
+
+#. Applications: 
+#. Context: Kernel ID
+msgid "Kernel ID"
+msgstr ""
+
+#. Applications: 
+#. Context: Name of Key Pairs
+msgid "Key Pair Name"
+msgstr ""
+
+#. Applications: 
+#. Context: Key pairs are ssh credentials which are injected into images when they are launched.
+msgid "Key Pairs"
+msgstr ""
+
+#. Applications: 
+#. Context: Interface Language
+msgid "Language"
+msgstr ""
+
+#. Applications: 
+#. Context: To launch an item
+msgid "Launch"
+msgstr ""
+
+#. Applications: 
+#. Context: To launch an instance
+msgid "Launch Instances"
+msgstr ""
+
+#. Applications: 
+#. Context: License Agreement
+msgid "License Agreement"
+msgstr ""
+
+#. Applications: 
+#. Context: Device(software) used to distribute workloads
+msgid "Load Balancer"
+msgstr ""
+
+#. Applications: 
+#. Context: Logged in as <user type: admin/user>
+msgid "Logged in as:"
+msgstr ""
+
+#. Applications: 
+#. Context: login
+msgid "login"
+msgstr ""
+
+#. Applications: 
+#. Context: To manage networks
+msgid "Manage Networks"
+msgstr ""
+
+#. Applications: 
+#. Context: To Manage Security Groups Rule
+msgid "Manage Security Groups Rule"
+msgstr ""
+
+#. Applications: 
+#. Context: Association between project and service
+msgid "Membership"
+msgstr ""
+
+#. Applications: 
+#. Context: List of Membership
+msgid "Membership List"
+msgstr ""
+
+#. Applications: 
+#. Context: Usage of memory
+msgid "Memory Usage"
+msgstr ""
+
+#. Applications: 
+#. Context: Additional attribute of items
+msgid "Metadata Items"
+msgstr ""
+
+#. Applications: 
+#. Context: Metrics
+msgid "Metrics"
+msgstr ""
+
+#. Applications: 
+#. Context: To migrate instance
+msgid "Migrate Instance"
+msgstr ""
+
+#. Applications: 
+#. Context: Minimum Disc size required to boot the image
+msgid "Minimum Disk"
+msgstr ""
+
+#. Applications: 
+#. Context: Minimum memory size required to boot the image
+msgid "Minimum RAM"
+msgstr ""
+
+#. Applications: 
+#. Context: To modify access
+msgid "Modify Access"
+msgstr ""
+
+#. Applications: 
+#. Context: To modify groups
+msgid "Modify Groups"
+msgstr ""
+
+#. Applications: 
+#. Context: To modify quota
+msgid "Modify Quotas"
+msgstr ""
+
+#. Applications: 
+#. Context: Name (of the cloud image)
+msgid "Name"
+msgstr ""
+
+#. Applications: 
+#. Context: Netmask
+msgid "Netmask"
+msgstr ""
+
+#. Applications: 
+#. Context: Address of network
+msgid "Network Address"
+msgstr ""
+
+#. Applications: 
+#. Context: No of requests of network creation
+msgid "Network Creation Requests"
+msgstr ""
+
+#. Applications: 
+#. Context: Duration of the Network
+msgid "Network Duration"
+msgstr ""
+
+#. Applications: 
+#. Context: incoming traffic on a VM interface in bytes
+msgid "Network Incoming Bytes"
+msgstr ""
+
+#. Applications: 
+#. Context: incoming packets on a VM interface
+msgid "Network Incoming Packets"
+msgstr ""
+
+#. Applications: 
+#. Context: name of network
+msgid "Network Name"
+msgstr ""
+
+#. Applications: 
+#. Context: outgoing traffic on a VM interface in bytes
+msgid "Network outgoing Bytes"
+msgstr ""
+
+#. Applications: 
+#. Context: outgoing packets on a VM interface
+msgid "Network Outgoing Packets"
+msgstr ""
+
+#. Applications: 
+#. Context: Arrangement of nodes in the network
+msgid "Network Topology"
+msgstr ""
+
+#. Applications: 
+#. Context: Default networking
+msgid "Networking Default"
+msgstr ""
+
+#. Applications: 
+#. Context: Networks
+msgid "Networks"
+msgstr ""
+
+#. Applications: 
+#. Context: To move ahead
+msgid "Next"
+msgstr ""
+
+#. Applications: 
+#. Context: No file is selected
+msgid "No File Selected"
+msgstr ""
+
+#. Applications: 
+#. Context: No Items are available for Display
+msgid "No Items to Display"
+msgstr ""
+
+#. Applications: 
+#. Context: Number of Disk Volumes
+msgid "Number of Volumes"
+msgstr ""
+
+#. Applications: 
+#. Context: no of incoming bytes on object storage
+msgid "Object Storage Incoming Bytes"
+msgstr ""
+
+#. Applications: 
+#. Context: no of outgoing bytes on object storage
+msgid "Object Storage Outgoing Bytes"
+msgstr ""
+
+#. Applications: 
+#. Context: Storing data in unit like bytes
+msgid "Object Store"
+msgstr ""
+
+#. Applications: 
+#. Context: Services offered by cloud providers
+msgid "Offering"
+msgstr ""
+
+#. Applications: 
+#. Context: The port that is open
+msgid "Open Port"
+msgstr ""
+
+#. Applications: 
+#. Context: Operating System
+msgid "Operating System"
+msgstr ""
+
+#. Applications: 
+#. Context: A cloud administrator/user
+msgid "Operator"
+msgstr ""
+
+#. Applications: 
+#. Context: automated arrangement, coordination, and management of cloud services
+msgid "Orchestration"
+msgstr ""
+
+#. Applications: 
+#. Context: summary
+msgid "Overview"
+msgstr ""
+
+#. Applications: 
+#. Context: Password for operator
+msgid "PASS"
+msgstr ""
+
+#. Applications: 
+#. Context: Password for operator
+msgid "Password"
+msgstr ""
+
+#. Applications: 
+#. Context: To pause instance
+msgid "Pause Instance"
+msgstr ""
+
+#. Applications: 
+#. Context: To pause snapshot
+msgid "Pause Snapshot"
+msgstr ""
+
+#. Applications: 
+#. Context: duration
+msgid "Period"
+msgstr ""
+
+#. Applications: 
+#. Context: Name of the platform eg Fedora, Ubuntu
+msgid "Platform"
+msgstr ""
+
+#. Applications: 
+#. Context: Plug-ins (eg. Network plugin)
+msgid "Plug-ins"
+msgstr ""
+
+#. Applications: 
+#. Context: a set of resources
+msgid "Pool"
+msgstr ""
+
+#. Applications: 
+#. Context: A virtual network port within Networking
+msgid "Port"
+msgstr ""
+
+#. Applications: 
+#. Context: Creation of port
+msgid "Port Creation"
+msgstr ""
+
+#. Applications: 
+#. Context: Number of request for port creation
+msgid "Port Creation Requests"
+msgstr ""
+
+#. Applications: 
+#. Context: Range of ports
+msgid "Port Range"
+msgstr ""
+
+#. Applications: 
+#. Context: state of the VM when it is started
+msgid "Power State"
+msgstr ""
+
+#. Applications: 
+#. Context: go to previous
+msgid "Previous"
+msgstr ""
+
+#. Applications: 
+#. Context: main project
+msgid "Primary Project"
+msgstr ""
+
+#. Applications: 
+#. Context: Network that is private
+msgid "Private Network"
+msgstr ""
+
+#. Applications: 
+#. Context: Project
+msgid "Project"
+msgstr ""
+
+#. Applications: 
+#. Context: Project groups
+msgid "Project Groups"
+msgstr ""
+
+#. Applications: 
+#. Context: Members of that project
+msgid "Project Members"
+msgstr ""
+
+#. Applications: 
+#. Context: name of project
+msgid "Project Name"
+msgstr ""
+
+#. Applications: 
+#. Context: An item visible to limited group of people
+msgid "Protected"
+msgstr ""
+
+#. Applications: 
+#. Context: Item visible to all
+msgid "Public"
+msgstr ""
+
+#. Applications: 
+#. Context: Key generated from ssh keygen which is visible to all
+msgid "Public Key"
+msgstr ""
+
+#. Applications: 
+#. Context: Network that is public
+msgid "Public Network"
+msgstr ""
+
+#. Applications: 
+#. Context: To buy subscription
+msgid "Purchase Subscription"
+msgstr ""
+
+#. Applications: 
+#. Context: Item placed in a queue
+msgid "Queued"
+msgstr ""
+
+#. Applications: 
+#. Context: Ability to set resource limits on a per-project basis (compute and block storage)
+msgid "Quota"
+msgstr ""
+
+#. Applications: 
+#. Context: Name of the quota
+msgid "Quota Name"
+msgstr ""
+
+#. Applications: 
+#. Context: RAM
+msgid "RAM"
+msgstr ""
+
+#. Applications: 
+#. Context: size of RAM
+msgid "RAM (total)"
+msgstr ""
+
+#. Applications: 
+#. Context: ram used
+msgid "RAM (used)"
+msgstr ""
+
+#. Applications: 
+#. Context: ID of RAM disk
+msgid "Ramdisk ID"
+msgstr ""
+
+#. Applications: 
+#. Context: To build instance again
+msgid "Rebuild Instance"
+msgstr ""
+
+#. Applications: 
+#. Context: To refresh
+msgid "Refresh"
+msgstr ""
+
+#. Applications: 
+#. Context: region of the user
+msgid "Region"
+msgstr ""
+
+#. Applications: 
+#. Context: To register
+msgid "Register"
+msgstr ""
+
+#. Applications: 
+#. Context: Normal user
+msgid "Regular User"
+msgstr ""
+
+#. Applications: 
+#. Context: source of the traffic to be allowed via security group rules
+msgid "Remote"
+msgstr ""
+
+#. Applications: 
+#. Context: To set again
+msgid "Reset"
+msgstr ""
+
+#. Applications: 
+#. Context: To change the size of instance
+msgid "Resize Instance"
+msgstr ""
+
+#. Applications: 
+#. Context: Resource to create instance
+msgid "Resource"
+msgstr ""
+
+#. Applications: 
+#. Context: Usage of resource
+msgid "Resource Usage"
+msgstr ""
+
+#. Applications: 
+#. Context: summary of usage of resource
+msgid "Resource Usage Overview"
+msgstr ""
+
+#. Applications: 
+#. Context: ID of Role
+msgid "Role ID"
+msgstr ""
+
+#. Applications: 
+#. Context: name of role
+msgid "Role Name"
+msgstr ""
+
+#. Applications: 
+#. Context: Roles
+msgid "Roles"
+msgstr ""
+
+#. Applications: 
+#. Context: root disk
+msgid "Root Disk"
+msgstr ""
+
+#. Applications: 
+#. Context: Numbers of request for router creation
+msgid "Router Creation Requests"
+msgstr ""
+
+#. Applications: 
+#. Context: duration of forwarding data
+msgid "Router Duration"
+msgstr ""
+
+#. Applications: 
+#. Context: Routers
+msgid "Routers"
+msgstr ""
+
+#. Applications: 
+#. Context: Rules define which traffic is allowed to instances assigned to the security group
+msgid "Rule"
+msgstr ""
+
+#. Applications: 
+#. Context: Vms that are running
+msgid "Running Vms"
+msgstr ""
+
+#. Applications: 
+#. Context: Software as a service
+msgid "SAAS"
+msgstr ""
+
+#. Applications: 
+#. Context: To save
+msgid "Save"
+msgstr ""
+
+#. Applications: 
+#. Context: Being saved
+msgid "Saving"
+msgstr ""
+
+#. Applications: 
+#. Context: Schedule
+msgid "Schedule"
+msgstr ""
+
+#. Applications: 
+#. Context: A set of network traffic filtering rules that are applied to a instance.
+msgid "Security Groups"
+msgstr ""
+
+#. Applications: 
+#. Context: Rules under security group
+msgid "Security Groups Rules"
+msgstr ""
+
+#. Applications: 
+#. Context: To select template
+msgid "Select Template"
+msgstr ""
+
+#. Applications: 
+#. Context: Network that is selected
+msgid "Selected Networks"
+msgstr ""
+
+#. Applications: 
+#. Context: instance that is booted automatically
+msgid "Self Boot Instances"
+msgstr ""
+
+#. Applications: 
+#. Context: instance that is rebooted automatically
+msgid "Self Reboot Instance"
+msgstr ""
+
+#. Applications: 
+#. Context: A cloud service
+msgid "Service"
+msgstr ""
+
+#. Applications: 
+#. Context: Endpoint of the service (http://192.168.122.1:8080)
+msgid "Service Endpoint"
+msgstr ""
+
+#. Applications: 
+#. Context: User Settings
+msgid "Settings"
+msgstr ""
+
+#. Applications: 
+#. Context: Shared (eg resource)
+msgid "Shared"
+msgstr ""
+
+#. Applications: 
+#. Context: Items shared with the current logined user
+msgid "Shared with Me"
+msgstr ""
+
+#. Applications: 
+#. Context: To power off instance
+msgid "Shut Off Instance"
+msgstr ""
+
+#. Applications: 
+#. Context: Sign in
+msgid "Sign In"
+msgstr ""
+
+#. Applications: 
+#. Context: Sign Out
+msgid "Sign Out"
+msgstr ""
+
+#. Applications: 
+#. Context: size of volume
+msgid "Size"
+msgstr ""
+
+#. Applications: 
+#. Context: A copy of an cloud storage volume or image
+msgid "Snapshot"
+msgstr ""
+
+#. Applications: 
+#. Context: Rebooting an instance normally
+msgid "Soft Reboot Instance"
+msgstr ""
+
+#. Applications: 
+#. Context: a set of cloud resources created and managed by automated service
+msgid "Stack"
+msgstr ""
+
+#. Applications: 
+#. Context: Start Date of subscription
+msgid "Start Date"
+msgstr ""
+
+#. Applications: 
+#. Context: Statistics of all resources
+msgid "Statistics of All Resources"
+msgstr ""
+
+#. Applications: 
+#. Context: Statistics
+msgid "Stats"
+msgstr ""
+
+#. Applications: 
+#. Context: Current status of a VM image or instance
+msgid "Status"
+msgstr ""
+
+#. Applications: 
+#. Context: VM that is stopped
+msgid "Stopped Vms"
+msgstr ""
+
+#. Applications: 
+#. Context: A virtual place where data is stored
+msgid "Storage"
+msgstr ""
+
+#. Applications: 
+#. Context: Total storage
+msgid "Storage (total)"
+msgstr ""
+
+#. Applications: 
+#. Context: used storage
+msgid "Storage (Used)"
+msgstr ""
+
+#. Applications: 
+#. Context: Associated subnet
+msgid "Subnet Associated"
+msgstr ""
+
+#. Applications: 
+#. Context: No of request for subnet creation
+msgid "Subnet Creation Requests"
+msgstr ""
+
+#. Applications: 
+#. Context: time period for active subnet
+msgid "Subnet Durations"
+msgstr ""
+
+#. Applications: 
+#. Context: name of the subnet
+msgid "Subnet Name"
+msgstr ""
+
+#. Applications: 
+#. Context: To subscribe
+msgid "Subscribe"
+msgstr ""
+
+#. Applications: 
+#. Context: Subscription of cloud service
+msgid "Subscription"
+msgstr ""
+
+#. Applications: 
+#. Context: Subscription List
+msgid "Subscription List"
+msgstr ""
+
+#. Applications: 
+#. Context: Subscription Manager
+msgid "Subscription Manager"
+msgstr ""
+
+#. Applications: 
+#. Context: To suspend the instance
+msgid "Suspend instance"
+msgstr ""
+
+#. Applications: 
+#. Context: To suspend snapshot
+msgid "Suspend Snapshot"
+msgstr ""
+
+#. Applications: 
+#. Context: Swap disk (size)
+msgid "Swap Disk"
+msgstr ""
+
+#. Applications: 
+#. Context: System information
+msgid "System Info"
+msgstr ""
+
+#. Applications: 
+#. Context: Name of the system
+msgid "System Name"
+msgstr ""
+
+#. Applications: 
+#. Context: System panel
+msgid "System panel"
+msgstr ""
+
+#. Applications: 
+#. Context: System Registration
+msgid "System Registration"
+msgstr ""
+
+#. Applications: 
+#. Context: To take snapshot
+msgid "Take Snapshot"
+msgstr ""
+
+#. Applications: 
+#. Context: task
+msgid "Task"
+msgstr ""
+
+#. Applications: 
+#. Context: Template
+msgid "Template"
+msgstr ""
+
+#. Applications: 
+#. Context: Template File
+msgid "Template File"
+msgstr ""
+
+#. Applications: 
+#. Context: Source of the template
+msgid "Template Source"
+msgstr ""
+
+#. Applications: 
+#. Context: alternative of project
+msgid "Tenant"
+msgstr ""
+
+#. Applications: 
+#. Context: To terminate instances
+msgid "Terminate Instances"
+msgstr ""
+
+#. Applications: 
+#. Context: Time Zone
+msgid "Time Zone"
+msgstr ""
+
+#. Applications: 
+#. Context: Total number of item
+msgid "Total"
+msgstr ""
+
+#. Applications: 
+#. Context: Total number of objects
+msgid "Total number of objects"
+msgstr ""
+
+#. Applications: 
+#. Context: Total size of Objects
+msgid "Total size of Objects"
+msgstr ""
+
+#. Applications: 
+#. Context: Total number of VMs
+msgid "Total Vms"
+msgstr ""
+
+#. Applications: 
+#. Context: Type (of instance, volume etc)
+msgid "Type"
+msgstr ""
+
+#. Applications: 
+#. Context: To unsubscribe
+msgid "Unsubscribe"
+msgstr ""
+
+#. Applications: 
+#. Context: To update user
+msgid "Update User"
+msgstr ""
+
+#. Applications: 
+#. Context: uptime of instance
+msgid "Uptime"
+msgstr ""
+
+#. Applications: 
+#. Context: resource usage
+msgid "Usage"
+msgstr ""
+
+#. Applications: 
+#. Context: username and password of a operator
+msgid "User Credentials"
+msgstr ""
+
+#. Applications: 
+#. Context: Data of User
+msgid "User Data"
+msgstr ""
+
+#. Applications: 
+#. Context: name of the user
+msgid "User Name"
+msgstr ""
+
+#. Applications: 
+#. Context: User settings
+msgid "User Settings"
+msgstr ""
+
+#. Applications: 
+#. Context: username
+msgid "Username"
+msgstr ""
+
+#. Applications: 
+#. Context: users
+msgid "Users"
+msgstr ""
+
+#. Applications: 
+#. Context: Valid
+msgid "Valid"
+msgstr ""
+
+#. Applications: 
+#. Context: Value
+msgid "Value"
+msgstr ""
+
+#. Applications: 
+#. Context: Virtual CPU hours
+msgid "VCPU Hours"
+msgstr ""
+
+#. Applications: 
+#. Context: Virtual CPU usage
+msgid "VCPU Usage"
+msgstr ""
+
+#. Applications: 
+#. Context: Virtual CPU
+msgid "VCPUs"
+msgstr ""
+
+#. Applications: 
+#. Context: To view all
+msgid "View All"
+msgstr ""
+
+#. Applications: 
+#. Context: To additional specs
+msgid "View Extra Specs"
+msgstr ""
+
+#. Applications: 
+#. Context: To view logs
+msgid "View Logs"
+msgstr ""
+
+#. Applications: 
+#. Context: To view usage
+msgid "View Usage"
+msgstr ""
+
+#. Applications: 
+#. Context: Cloud Image
+msgid "Virtual Image"
+msgstr ""
+
+#. Applications: 
+#. Context: Virtual Machine
+msgid "Virtual Machine"
+msgstr ""
+
+#. Applications: 
+#. Context: Back-end storage device in cloud
+msgid "Volume"
+msgstr ""
+
+#. Applications: 
+#. Context: size limit of the volume
+msgid "Volume Limits"
+msgstr ""
+
+#. Applications: 
+#. Context: Name of volume
+msgid "Volume Name"
+msgstr ""
+
+#. Applications: 
+#. Context: Source of volume
+msgid "Volume Source"
+msgstr ""
+
+#. Applications: 
+#. Context: Type of volume
+msgid "Volume Type"
+msgstr ""
+
+
