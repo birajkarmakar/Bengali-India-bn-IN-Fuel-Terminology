@@ -1,28 +1,31 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-05-15 16:29+0530\n"
-"PO-Revision-Date: 2013-05-15 16:29+0530\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2015-02-09 08:58:00\n"
+"Last-Translator: Biraj  Karmakar <brnet00@gmail.com>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.11.4\n"
+"Language: bn-IN\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 
 #. Applications: Websites
-#. Context: Navigational and informational tool that make a website easier to use
+#. Context: Navigational and informational tool that make a website easier to
+#. use
 msgid "A-Z Index"
 msgstr ""
 
 #. Applications: Website, Wiki, Social Network
-#. Context: Relating to about button with information about the application, website
+#. Context: Relating to about button with information about the application,
+#. website
 msgid "About"
 msgstr ""
 
@@ -34,7 +37,7 @@ msgstr ""
 #. Applications: Websites
 #. Context: Menu of website that contains information relating to the website
 msgid "About Us"
-msgstr ""
+msgstr "আমাদের বিষয়ে"
 
 #. Applications: Websites
 #. Context: It contains content related to the level of web accessibility
@@ -42,17 +45,21 @@ msgid "Accessibility Statement"
 msgstr ""
 
 #. Applications: Social Network
-#. Context: An Internet-based entity owned by or assigned to a specific user but stored in an organization (Such as account at Facebook, or e-mail account
+#. Context: An Internet-based entity owned by or assigned to a specific user
+#. but stored in an organization (Such as account at Facebook, or e-mail
+#. account
 msgid "Account"
 msgstr ""
 
 #. Applications: Social Network
-#. Context: Account Security is way that is being used for user authentication to prove identity, or for access approval to gain access to a resource
+#. Context: Account Security is way that is being used for user authentication
+#. to prove identity, or for access approval to gain access to a resource
 msgid "Account Security"
 msgstr ""
 
 #. Applications: Websites
-#. Context: A menu item of any website where accomplishment, successful performance etc are mentioned
+#. Context: A menu item of any website where accomplishment, successful
+#. performance etc are mentioned
 msgid "Achievements"
 msgstr ""
 
@@ -67,7 +74,8 @@ msgid "Active Tenders"
 msgstr ""
 
 #. Applications: Social Network
-#. Context: section where a user of social networking site put their Activities and Interests
+#. Context: section where a user of social networking site put their
+#. Activities and Interests
 msgid "Activities and Interests"
 msgstr ""
 
@@ -87,7 +95,8 @@ msgid "Add New"
 msgstr ""
 
 #. Applications: Blog
-#. Context: In the Posts > Categories tab, user need to Add New Category area, fill in the information about his/her category.
+#. Context: In the Posts > Categories tab, user need to Add New Category area,
+#. fill in the information about his/her category.
 msgid "Add New Category"
 msgstr ""
 
@@ -112,7 +121,8 @@ msgid "Administration Theme"
 msgstr ""
 
 #. Applications: Social Network
-#. Context: Advertisements and Pages of a company or organization on a social network site
+#. Context: Advertisements and Pages of a company or organization on a social
+#. network site
 msgid "Ads and Pages"
 msgstr ""
 
@@ -122,7 +132,9 @@ msgid "Advanced"
 msgstr ""
 
 #. Applications: Websites
-#. Context: A menu of website where information related to advertisement rates etc are being put to attract probable client who can put advertisement on the website
+#. Context: A menu of website where information related to advertisement rates
+#. etc are being put to attract probable client who can put advertisement on
+#. the website
 msgid "Advertise with Us"
 msgstr ""
 
@@ -147,17 +159,25 @@ msgid "All Results"
 msgstr ""
 
 #. Applications: Websites
-#. Context: All rights reserved is a phrase that originated in copyright law as part of copyright notices and on a website it gives information related to copyright. It indicates that the copyright holder reserves, or holds for their own use, all the rights provided by copyright law, such as distribution, performance, and creation of derivative works that is, they have not waived any such right. Copyright law in most countries no longer requires such notices, but the phrase persists
+#. Context: All rights reserved is a phrase that originated in copyright law
+#. as part of copyright notices and on a website it gives information related
+#. to copyright. It indicates that the copyright holder reserves, or holds for
+#. their own use, all the rights provided by copyright law, such as
+#. distribution, performance, and creation of derivative works that is, they
+#. have not waived any such right. Copyright law in most countries no longer
+#. requires such notices, but the phrase persists
 msgid "All Rights Reserved"
 msgstr ""
 
 #. Applications: Websites
-#. Context: A section on website particularly on a website of educational institutions
+#. Context: A section on website particularly on a website of educational
+#. institutions
 msgid "Alumni"
 msgstr ""
 
 #. Applications: Websites
-#. Context: This section has recent announcements related to organizations or company
+#. Context: This section has recent announcements related to organizations or
+#. company
 msgid "Announcements"
 msgstr ""
 
@@ -167,7 +187,8 @@ msgid "Annual Reports"
 msgstr ""
 
 #. Applications: Blog
-#. Context: The Appearance Menus Screen enables a user to create custom navigation menu in place of a theme's default menu
+#. Context: The Appearance Menus Screen enables a user to create custom
+#. navigation menu in place of a theme's default menu
 msgid "Appearance"
 msgstr ""
 
@@ -202,7 +223,8 @@ msgid "Archives (by Tag)"
 msgstr ""
 
 #. Applications: CMS
-#. Context: Action to add articles that are used for time-sensitive content like news, press releases or blog posts.
+#. Context: Action to add articles that are used for time-sensitive content
+#. like news, press releases or blog posts.
 msgid "Article manager"
 msgstr ""
 
@@ -262,7 +284,8 @@ msgid "Basic Information"
 msgstr ""
 
 #. Applications: Websites
-#. Context: Benefits and Compensations is generally related to career or work page
+#. Context: Benefits and Compensations is generally related to career or work
+#. page
 msgid "Benefits and Compensations"
 msgstr ""
 
@@ -277,12 +300,14 @@ msgid "Birthday"
 msgstr ""
 
 #. Applications: CMS
-#. Context: Blocks are the boxes visible in various area of a website's screens. 
+#. Context: Blocks are the boxes visible in various area of a website's
+#. screens.
 msgid "Blocks"
 msgstr ""
 
 #. Applications: Blog
-#. Context: A blog, or weblog, is an online journal, diary, or serial published by a person or group of people. 
+#. Context: A blog, or weblog, is an online journal, diary, or serial
+#. published by a person or group of people.
 msgid "Blog"
 msgstr ""
 
@@ -297,7 +322,9 @@ msgid "Body"
 msgstr ""
 
 #. Applications: Websites
-#. Context: Bookmarks provides a unique (non-shared) menu to each user. The menu can be modified / updated by the individual users and by the site admin 
+#. Context: Bookmarks provides a unique (non-shared) menu to each user. The
+#. menu can be modified / updated by the individual users and by the site
+#. admin
 msgid "Bookmark"
 msgstr ""
 
@@ -312,7 +339,8 @@ msgid "Buy Online"
 msgstr ""
 
 #. Applications: Websites
-#. Context: a place to click for help when an user cannot access his or her account
+#. Context: a place to click for help when an user cannot access his or her
+#. account
 msgid "Can't access your account?"
 msgstr ""
 
@@ -327,7 +355,9 @@ msgid "Careers"
 msgstr ""
 
 #. Applications: Wiki, CMS
-#. Context: Each post in a blog can be filed under a category. Thoughtful categorization allows posts to be grouped with others of similar content and aids in the navigation of a site.
+#. Context: Each post in a blog can be filed under a category. Thoughtful
+#. categorization allows posts to be grouped with others of similar content
+#. and aids in the navigation of a site.
 msgid "Categories"
 msgstr ""
 
@@ -352,7 +382,7 @@ msgid "Choose File"
 msgstr ""
 
 #. Applications: Wiki
-#. Context:  To mention or bring forward 
+#. Context:  To mention or bring forward
 msgid "Cite"
 msgstr ""
 
@@ -377,12 +407,15 @@ msgid "Closed"
 msgstr ""
 
 #. Applications: CMS
-#. Context: Content Management System. In the context of a Web site. a collection of tools designed to allow the creation, modification, organization and removal of information. 
+#. Context: Content Management System. In the context of a Web site. a
+#. collection of tools designed to allow the creation, modification,
+#. organization and removal of information.
 msgid "CMS"
 msgstr ""
 
 #. Applications: Blog
-#. Context: comment spam protection and defense plugins and methods of a blog, website 
+#. Context: comment spam protection and defense plugins and methods of a blog,
+#. website
 msgid "Combating Spam"
 msgstr ""
 
@@ -392,7 +425,8 @@ msgid "Comment"
 msgstr ""
 
 #. Applications: Blog
-#. Context: Comment Moderation is a mechanism by which an admin can moderate the comments
+#. Context: Comment Moderation is a mechanism by which an admin can moderate
+#. the comments
 msgid "Comment Moderation"
 msgstr ""
 
@@ -412,12 +446,14 @@ msgid "Compare Selected Revisions"
 msgstr ""
 
 #. Applications: CMS
-#. Context: Module of CMS, this module provides several utility routines to allow themes to "pull in" any desired content in a template file
+#. Context: Module of CMS, this module provides several utility routines to
+#. allow themes to "pull in" any desired content in a template file
 msgid "Components"
 msgstr ""
 
 #. Applications: Websites
-#. Context: It mentions the information related to the persons or organizations whose concept it is 
+#. Context: It mentions the information related to the persons or
+#. organizations whose concept it is
 msgid "Concept by"
 msgstr ""
 
@@ -427,7 +463,8 @@ msgid "Configuration"
 msgstr ""
 
 #. Applications: Websites
-#. Context: A place to spread the words about the website on social networking sites
+#. Context: A place to spread the words about the website on social networking
+#. sites
 msgid "Connect"
 msgstr ""
 
@@ -457,7 +494,9 @@ msgid "Content"
 msgstr ""
 
 #. Applications: Blog
-#. Context: Content Management System. In the context of a Web site. a collection of tools designed to allow the creation, modification, organization and removal of information. 
+#. Context: Content Management System. In the context of a Web site. a
+#. collection of tools designed to allow the creation, modification,
+#. organization and removal of information.
 msgid "Content Management System"
 msgstr ""
 
@@ -482,12 +521,16 @@ msgid "Contributors"
 msgstr ""
 
 #. Applications: CMS
-#. Context: A control panel, in web hosting, is a web-based interface provided by the hosting company that allows customers to manage their various hosted services in a single place.
+#. Context: A control panel, in web hosting, is a web-based interface provided
+#. by the hosting company that allows customers to manage their various hosted
+#. services in a single place.
 msgid "Control Panel"
 msgstr ""
 
 #. Applications: Websites
-#. Context: Menu where copyright information is being given. Copyright is a legal concept, enacted by most governments, giving the creator of an original work exclusive rights to it, usually for a limited time. 
+#. Context: Menu where copyright information is being given. Copyright is a
+#. legal concept, enacted by most governments, giving the creator of an
+#. original work exclusive rights to it, usually for a limited time.
 msgid "Copyrights"
 msgstr ""
 
@@ -497,12 +540,17 @@ msgid "Corporate Profile"
 msgstr ""
 
 #. Applications: Websites
-#. Context: A menu item where Corporate Social Responsibility information is given. Corporate Social Responsibility is a form of corporate self-regulation integrated into a business model. CSR policy functions as a built-in, self-regulating mechanism whereby a business monitors and ensures its active compliance with the spirit of the law, ethical standards, and international norms.
+#. Context: A menu item where Corporate Social Responsibility information is
+#. given. Corporate Social Responsibility is a form of corporate self-
+#. regulation integrated into a business model. CSR policy functions as a
+#. built-in, self-regulating mechanism whereby a business monitors and ensures
+#. its active compliance with the spirit of the law, ethical standards, and
+#. international norms.
 msgid "Corporate Social Responsibility"
 msgstr ""
 
 #. Applications: Wiki
-#. Context: Action to create a book out of the content on wiki 
+#. Context: Action to create a book out of the content on wiki
 msgid "Create a Book"
 msgstr ""
 
@@ -552,17 +600,19 @@ msgid "Custom Fields"
 msgstr ""
 
 #. Applications: Blog
-#. Context: Custom post types are new post types user can create. 
+#. Context: Custom post types are new post types user can create.
 msgid "Custom Post Types"
 msgstr ""
 
 #. Applications: Blog
-#. Context: Taxonomy is a way to group things together. With this help, an user is able to create own custom taxonomies
+#. Context: Taxonomy is a way to group things together. With this help, an
+#. user is able to create own custom taxonomies
 msgid "Custom Taxonomies"
 msgstr ""
 
 #. Applications: CMS
-#. Context: The Dashboard is a tool to quickly access the most used areas of blog or cms' Administration and to provide glimpses into other areas
+#. Context: The Dashboard is a tool to quickly access the most used areas of
+#. blog or cms' Administration and to provide glimpses into other areas
 msgid "Dashboard"
 msgstr ""
 
@@ -602,7 +652,8 @@ msgid "Design"
 msgstr ""
 
 #. Applications: Websites
-#. Context: A section on website to put information related to the designer and developer of a website
+#. Context: A section on website to put information related to the designer
+#. and developer of a website
 msgid "Designed and Developed by"
 msgstr ""
 
@@ -627,7 +678,8 @@ msgid "Disabled Themes"
 msgstr ""
 
 #. Applications: Websites
-#. Context: A menu where Disclaimer & Policies related information is present on the site
+#. Context: A menu where Disclaimer & Policies related information is present
+#. on the site
 msgid "Disclaimer & Policies"
 msgstr ""
 
@@ -637,7 +689,8 @@ msgid "Disclaimers"
 msgstr ""
 
 #. Applications: Websites
-#. Context: A menu where Disclosures related information is present on the site
+#. Context: A menu where Disclosures related information is present on the
+#. site
 msgid "Disclosures"
 msgstr ""
 
@@ -752,7 +805,8 @@ msgid "Enter Title Here"
 msgstr ""
 
 #. Applications: Social Network
-#. Context: Section where events that are being organized is listed on a social network site
+#. Context: Section where events that are being organized is listed on a
+#. social network site
 msgid "Events"
 msgstr ""
 
@@ -762,7 +816,7 @@ msgid "Everyone"
 msgstr ""
 
 #. Applications: CMS
-#. Context: Extensions is an alternative method of plug-able object creation 
+#. Context: Extensions is an alternative method of plug-able object creation
 msgid "Extension"
 msgstr ""
 
@@ -772,7 +826,8 @@ msgid "Extension Manager"
 msgstr ""
 
 #. Applications: Wiki
-#. Context: Links present on articles or content of an web page may include links to web pages outside of the website, called external links
+#. Context: Links present on articles or content of an web page may include
+#. links to web pages outside of the website, called external links
 msgid "External Links"
 msgstr ""
 
@@ -807,7 +862,8 @@ msgid "Featured Image"
 msgstr ""
 
 #. Applications: Social Network
-#. Context: It shows the person who is featured, new profile of social networking sites
+#. Context: It shows the person who is featured, new profile of social
+#. networking sites
 msgid "Featured People"
 msgstr ""
 
@@ -822,7 +878,9 @@ msgid "Field List"
 msgstr ""
 
 #. Applications: Blog
-#. Context: Filters are the hooks that a blog site launches to modify text of various types before adding it to the database or sending it to the browser screen
+#. Context: Filters are the hooks that a blog site launches to modify text of
+#. various types before adding it to the database or sending it to the browser
+#. screen
 msgid "Filter"
 msgstr ""
 
@@ -842,7 +900,8 @@ msgid "Find People"
 msgstr ""
 
 #. Applications: Websites
-#. Context: Links present on the website by which user can follow that organization on social networking sites, links.
+#. Context: Links present on the website by which user can follow that
+#. organization on social networking sites, links.
 msgid "Follow Us on"
 msgstr ""
 
@@ -867,7 +926,8 @@ msgid "Forgot Your Password"
 msgstr ""
 
 #. Applications: Websites
-#. Context: Forum is online discussion site where people can hold conversations in the form of posted messages
+#. Context: Forum is online discussion site where people can hold
+#. conversations in the form of posted messages
 msgid "Forum"
 msgstr ""
 
@@ -937,17 +997,22 @@ msgid "Go"
 msgstr ""
 
 #. Applications: CMS
-#. Context: Header of site is typically the first thing people see located on the top of the page.
+#. Context: Header of site is typically the first thing people see located on
+#. the top of the page.
 msgid "Header"
 msgstr ""
 
 #. Applications: Blog
-#. Context: Header of site is typically the first thing people see located on the top of the page. From this masthead or header art across the top of page, people make sweeping judgements about what they are about to see and read. 
+#. Context: Header of site is typically the first thing people see located on
+#. the top of the page. From this masthead or header art across the top of
+#. page, people make sweeping judgements about what they are about to see and
+#. read.
 msgid "Headers"
 msgstr ""
 
 #. Applications: Wiki
-#. Context: A section on a website where help related information is shared with the users
+#. Context: A section on a website where help related information is shared
+#. with the users
 msgid "Help"
 msgstr ""
 
@@ -977,7 +1042,8 @@ msgid "Home"
 msgstr ""
 
 #. Applications: Social Network
-#. Context: Place where a social network site's user put information of home town
+#. Context: Place where a social network site's user put information of home
+#. town
 msgid "Home Town"
 msgstr ""
 
@@ -1012,12 +1078,15 @@ msgid "Interaction"
 msgstr ""
 
 #. Applications: Social Network
-#. Context: A section on social networking site where users put their preference about their interest eg, one is interested in men/women
+#. Context: A section on social networking site where users put their
+#. preference about their interest eg, one is interested in men/women
 msgid "Interested In"
 msgstr ""
 
 #. Applications: Websites
-#. Context: An intranet is a computer network that uses Internet Protocol technology to share information, this will take user to intranet site of the organization
+#. Context: An intranet is a computer network that uses Internet Protocol
+#. technology to share information, this will take user to intranet site of
+#. the organization
 msgid "Intranet"
 msgstr ""
 
@@ -1137,7 +1206,8 @@ msgid "Location"
 msgstr ""
 
 #. Applications: Social Network
-#. Context: login or logon refers to the credentials required to obtain access to an website or other restricted area
+#. Context: login or logon refers to the credentials required to obtain access
+#. to an website or other restricted area
 msgid "Log In"
 msgstr ""
 
@@ -1147,7 +1217,9 @@ msgid "Log me In Globally"
 msgstr ""
 
 #. Applications: CMS
-#. Context: A logo is a graphic mark or emblem commonly used by commercial enterprises, organizations and even individuals to aid and promote instant public recognition. 
+#. Context: A logo is a graphic mark or emblem commonly used by commercial
+#. enterprises, organizations and even individuals to aid and promote instant
+#. public recognition.
 msgid "Logo"
 msgstr ""
 
@@ -1157,7 +1229,8 @@ msgid "Logo Image Settings"
 msgstr ""
 
 #. Applications: Social Network
-#. Context: Log out is to close off one's access to a computer system after having previously logged in.
+#. Context: Log out is to close off one's access to a computer system after
+#. having previously logged in.
 msgid "Log Out"
 msgstr ""
 
@@ -1167,7 +1240,9 @@ msgid "Lost Password"
 msgstr ""
 
 #. Applications: CMS
-#. Context: The Main menu's links drive the main navigation structure for your site, and are often displayed prominently across the top or side of the site
+#. Context: The Main menu's links drive the main navigation structure for your
+#. site, and are often displayed prominently across the top or side of the
+#. site
 msgid "Main Menu"
 msgstr ""
 
@@ -1182,7 +1257,8 @@ msgid "Manage"
 msgstr ""
 
 #. Applications: Websites
-#. Context: A menu where Mandatory Disclosures related information is present on the site
+#. Context: A menu where Mandatory Disclosures related information is present
+#. on the site
 msgid "Mandatory Disclosures"
 msgstr ""
 
@@ -1192,7 +1268,8 @@ msgid "Map and Location"
 msgstr ""
 
 #. Applications: Blog
-#. Context: A section from where to select which media is going to be inserted in the blog or website
+#. Context: A section from where to select which media is going to be inserted
+#. in the blog or website
 msgid "Media"
 msgstr ""
 
@@ -1207,12 +1284,13 @@ msgid "Membership"
 msgstr ""
 
 #. Applications: Social Network
-#. Context: Place in social network where a person selects his/her choice whether s/he is interested in Men/Women
+#. Context: Place in social network where a person selects his/her choice
+#. whether s/he is interested in Men/Women
 msgid "Men"
 msgstr ""
 
 #. Applications: CMS
-#. Context: A small module that enables the population of the menu link title 
+#. Context: A small module that enables the population of the menu link title
 msgid "Menu Link Title"
 msgstr ""
 
@@ -1227,17 +1305,20 @@ msgid "Menu Settings"
 msgstr ""
 
 #. Applications: CMS
-#. Context: Menus are a collection of links (menu items) used to navigate a website. 
+#. Context: Menus are a collection of links (menu items) used to navigate a
+#. website.
 msgid "Menus"
 msgstr ""
 
 #. Applications: Social Network
-#. Context: A section on social networking site where users' messages are located
+#. Context: A section on social networking site where users' messages are
+#. located
 msgid "Messages"
 msgstr ""
 
 #. Applications: Social Network
-#. Context: A section on social networking site where users' put their mobile number
+#. Context: A section on social networking site where users' put their mobile
+#. number
 msgid "Mobile"
 msgstr ""
 
@@ -1247,12 +1328,14 @@ msgid "Module Manager"
 msgstr ""
 
 #. Applications: CMS
-#. Context: Modules are boxes that can be moved around on the screen, closed to save space, or hidden completely.
+#. Context: Modules are boxes that can be moved around on the screen, closed
+#. to save space, or hidden completely.
 msgid "Modules"
 msgstr ""
 
 #. Applications: Websites
-#. Context: Generally put as a link by clicking on the same user will get more information
+#. Context: Generally put as a link by clicking on the same user will get more
+#. information
 msgid "More"
 msgstr ""
 
@@ -1357,7 +1440,8 @@ msgid "Options"
 msgstr ""
 
 #. Applications: Websites
-#. Context: A chart where people of an organization are being show hierarchical order
+#. Context: A chart where people of an organization are being show
+#. hierarchical order
 msgid "Organization Chart"
 msgstr ""
 
@@ -1387,12 +1471,15 @@ msgid "Page View Statistics"
 msgstr ""
 
 #. Applications: Blog
-#. Context: A Page is often used to present "static" information about oneself or own site.
+#. Context: A Page is often used to present "static" information about oneself
+#. or own site.
 msgid "Pages"
 msgstr ""
 
 #. Applications: Blog
-#. Context: A blog application has an option on the Edit / Add New Page screen under the heading Page Attributes. From here, one can easily choose a “Parent” page from a drop-down of published pages. 
+#. Context: A blog application has an option on the Edit / Add New Page screen
+#. under the heading Page Attributes. From here, one can easily choose a
+#. “Parent” page from a drop-down of published pages.
 msgid "Parent"
 msgstr ""
 
@@ -1412,12 +1499,16 @@ msgid "Partner Programs"
 msgstr ""
 
 #. Applications: Websites
-#. Context: A section where information is put for having partnership with the organization of which site is
+#. Context: A section where information is put for having partnership with the
+#. organization of which site is
 msgid "Partner with Us"
 msgstr ""
 
 #. Applications: Social Network
-#. Context: A password is a secret word or string of characters that is used for user authentication to prove identity, or for access approval to gain access to a resource, here password of any website or social networking site
+#. Context: A password is a secret word or string of characters that is used
+#. for user authentication to prove identity, or for access approval to gain
+#. access to a resource, here password of any website or social networking
+#. site
 msgid "Password"
 msgstr ""
 
@@ -1432,17 +1523,20 @@ msgid "People"
 msgstr ""
 
 #. Applications: Social Network
-#. Context: Place where a social network site shows probable person whom user may know
+#. Context: Place where a social network site shows probable person whom user
+#. may know
 msgid "People You May Know"
 msgstr ""
 
 #. Applications: Blog
-#. Context: Permanent link is a URL that points to a specific blog or forum entry after it has passed from the front page to the archives.
+#. Context: Permanent link is a URL that points to a specific blog or forum
+#. entry after it has passed from the front page to the archives.
 msgid "Permalinks"
 msgstr ""
 
 #. Applications: Wiki
-#. Context: Permanent link is a URL that points to a specific blog or forum entry after it has passed from the front page to the archives.
+#. Context: Permanent link is a URL that points to a specific blog or forum
+#. entry after it has passed from the front page to the archives.
 msgid "Permanent Link"
 msgstr ""
 
@@ -1462,7 +1556,8 @@ msgid "Photo"
 msgstr ""
 
 #. Applications: Blog
-#. Context: Plugins are tools that extend the functionality of a cms, blog tools etc.
+#. Context: Plugins are tools that extend the functionality of a cms, blog
+#. tools etc.
 msgid "Plugins"
 msgstr ""
 
@@ -1472,7 +1567,8 @@ msgid "Poke Back"
 msgstr ""
 
 #. Applications: Social Network
-#. Context: Section on Social Network site where we can see who all have poked us
+#. Context: Section on Social Network site where we can see who all have poked
+#. us
 msgid "Pokes"
 msgstr ""
 
@@ -1482,7 +1578,8 @@ msgid "Portfolio"
 msgstr ""
 
 #. Applications: Blog
-#. Context: The post meta data is the "administrative" information one provides to viewers about each post. 
+#. Context: The post meta data is the "administrative" information one
+#. provides to viewers about each post.
 msgid "Post Meta Data"
 msgstr ""
 
@@ -1547,12 +1644,15 @@ msgid "Printable Version"
 msgstr ""
 
 #. Applications: Social Network
-#. Context: Privacy is a legal thing that says how a party gathers, uses, discloses and manages a customer or client's data. 
+#. Context: Privacy is a legal thing that says how a party gathers, uses,
+#. discloses and manages a customer or client's data.
 msgid "Privacy"
 msgstr ""
 
 #. Applications: Wiki
-#. Context: Privacy policy is a statement or a legal document (privacy law) that discloses some or all of the ways a party gathers, uses, discloses and manages a customer or client's data. 
+#. Context: Privacy policy is a statement or a legal document (privacy law)
+#. that discloses some or all of the ways a party gathers, uses, discloses and
+#. manages a customer or client's data.
 msgid "Privacy Policy"
 msgstr ""
 
@@ -1692,7 +1792,8 @@ msgid "References"
 msgstr ""
 
 #. Applications: CMS
-#. Context: This settings allows to put information related to own region like timezone, locale
+#. Context: This settings allows to put information related to own region like
+#. timezone, locale
 msgid "Regional Settings"
 msgstr ""
 
@@ -1747,7 +1848,7 @@ msgid "Reports"
 msgstr ""
 
 #. Applications: Websites
-#. Context: Research & Development 
+#. Context: Research & Development
 msgid "Research & Development "
 msgstr ""
 
@@ -1762,7 +1863,7 @@ msgid "Resources"
 msgstr ""
 
 #. Applications: Wiki
-#. Context: Search for Revision History 
+#. Context: Search for Revision History
 msgid "Revision History Search"
 msgstr ""
 
@@ -1817,12 +1918,14 @@ msgid "Save Draft"
 msgstr ""
 
 #. Applications: Blog
-#. Context: Screen Option can be used to show/hide modules on some screens and show/hide columns on other screens
+#. Context: Screen Option can be used to show/hide modules on some screens and
+#. show/hide columns on other screens
 msgid "Screen Option"
 msgstr ""
 
 #. Applications: Websites
-#. Context: This is an attempt to enable people with visual impairment access this website, using assistive technologies, such as screen readers
+#. Context: This is an attempt to enable people with visual impairment access
+#. this website, using assistive technologies, such as screen readers
 msgid "Screen Reader Access"
 msgstr ""
 
@@ -1942,7 +2045,8 @@ msgid "Sidebars"
 msgstr ""
 
 #. Applications: Websites
-#. Context: Through this credentials, a user uses it to gain access to a website
+#. Context: Through this credentials, a user uses it to gain access to a
+#. website
 msgid "Sign In"
 msgstr ""
 
@@ -1977,7 +2081,8 @@ msgid "Site Title"
 msgstr ""
 
 #. Applications: Websites
-#. Context: A site map (or sitemap) is a list of pages of a web site accessible to crawlers or users. 
+#. Context: A site map (or sitemap) is a list of pages of a web site
+#. accessible to crawlers or users.
 msgid "Sitemap"
 msgstr ""
 
@@ -1992,17 +2097,20 @@ msgid "Skip to Navigation"
 msgstr ""
 
 #. Applications: Websites
-#. Context: A slug is the part of a URL which identifies a page using human-readable keywords
+#. Context: A slug is the part of a URL which identifies a page using human-
+#. readable keywords
 msgid "Slug"
 msgstr ""
 
 #. Applications: Websites
-#. Context: A menu where information related to solutions is present which the site provides
+#. Context: A menu where information related to solutions is present which the
+#. site provides
 msgid "Solutions"
 msgstr ""
 
 #. Applications: Blog
-#. Context: Spam is the use of electronic messaging systems to send unsolicited bulk messages, especially advertising, indiscriminately. 
+#. Context: Spam is the use of electronic messaging systems to send
+#. unsolicited bulk messages, especially advertising, indiscriminately.
 msgid "Spam"
 msgstr ""
 
@@ -2012,7 +2120,8 @@ msgid "Special Characters"
 msgstr ""
 
 #. Applications: Wiki
-#. Context: A special page that is generated due to searching something or other reason that cannot be edited on wiki
+#. Context: A special page that is generated due to searching something or
+#. other reason that cannot be edited on wiki
 msgid "Special Pages"
 msgstr ""
 
@@ -2092,7 +2201,8 @@ msgid "Support"
 msgstr ""
 
 #. Applications: Websites
-#. Context: Syndication.module offers a web page which centralizes all of the RSS feeds
+#. Context: Syndication.module offers a web page which centralizes all of the
+#. RSS feeds
 msgid "Syndicate"
 msgstr ""
 
@@ -2112,7 +2222,9 @@ msgid "Take a Picture"
 msgstr ""
 
 #. Applications: CMS
-#. Context: Taxonomy, a powerful core module, gives sites use of the organizational keywords known in other systems as categories, tags, or metadata
+#. Context: Taxonomy, a powerful core module, gives sites use of the
+#. organizational keywords known in other systems as categories, tags, or
+#. metadata
 msgid "Taxonomy"
 msgstr ""
 
@@ -2132,17 +2244,20 @@ msgid "Telephone Directory"
 msgstr ""
 
 #. Applications: Blog
-#. Context: Hierarchy of Template 
+#. Context: Hierarchy of Template
 msgid "Template Hierarchy"
 msgstr ""
 
 #. Applications: Blog
-#. Context: A template tag is code that instructs blog tools to "do" or "get" something. In the case of the header.php template tag for your WordPress site's name, it looks like this: 
+#. Context: A template tag is code that instructs blog tools to "do" or "get"
+#. something. In the case of the header.php template tag for your WordPress
+#. site's name, it looks like this:
 msgid "Template Tags"
 msgstr ""
 
 #. Applications: Blog
-#. Context: Templates are the files which control how your site will be displayed on the Web. 
+#. Context: Templates are the files which control how your site will be
+#. displayed on the Web.
 msgid "Templates"
 msgstr ""
 
@@ -2312,7 +2427,8 @@ msgid "User Pictures in Comments"
 msgstr ""
 
 #. Applications: CMS
-#. Context: Through this User Verification Status in Comments can be enabled or disabled
+#. Context: Through this User Verification Status in Comments can be enabled
+#. or disabled
 msgid "User Verification Status in Comments"
 msgstr ""
 
@@ -2352,7 +2468,8 @@ msgid "View Source"
 msgstr ""
 
 #. Applications: Websites
-#. Context: A section where information related to who all have visited the site are present
+#. Context: A section where information related to who all have visited the
+#. site are present
 msgid "Visitor Count"
 msgstr ""
 
@@ -2367,17 +2484,20 @@ msgid "Wall Photos"
 msgstr ""
 
 #. Applications: Websites
-#. Context: Webmail (or web-based email) is any email client implemented as a web application accessed via a web browser.
+#. Context: Webmail (or web-based email) is any email client implemented as a
+#. web application accessed via a web browser.
 msgid "Webmail"
 msgstr ""
 
 #. Applications: Websites
-#. Context: A web page (or webpage) is a web document that is suitable for the World Wide Web and the web browser. 
+#. Context: A web page (or webpage) is a web document that is suitable for the
+#. World Wide Web and the web browser.
 msgid "Webpage"
 msgstr ""
 
 #. Applications: Websites
-#. Context: A website, also written as Web site, web site, or simply site is a set of related web pages served from a single web domain.
+#. Context: A website, also written as Web site, web site, or simply site is a
+#. set of related web pages served from a single web domain.
 msgid "Website"
 msgstr ""
 
@@ -2387,22 +2507,26 @@ msgid "Website Best Viewed with Firefox"
 msgstr ""
 
 #. Applications: Blog
-#. Context: A setting that you make about a day of the week when your week starts
+#. Context: A setting that you make about a day of the week when your week
+#. starts
 msgid "Week Starts On"
 msgstr ""
 
 #. Applications: CMS
-#. Context: This module adds a weight option to enabled node types. Nodes with lower weight will float to the top of lists, while heavier items will sink. 
+#. Context: This module adds a weight option to enabled node types. Nodes with
+#. lower weight will float to the top of lists, while heavier items will sink.
 msgid "Weight"
 msgstr ""
 
 #. Applications: Wiki
-#. Context: This is used to see a list of the pages that link to (or redirect to, or transclude) the current page
+#. Context: This is used to see a list of the pages that link to (or redirect
+#. to, or transclude) the current page
 msgid "What Links Here"
 msgstr ""
 
 #. Applications: Social Network
-#. Context: A box that need to filled for status update in a social networking site
+#. Context: A box that need to filled for status update in a social networking
+#. site
 msgid "What's on Your Mind?"
 msgstr ""
 
@@ -2427,7 +2551,8 @@ msgid "Widgets"
 msgstr ""
 
 #. Applications: Social Network
-#. Context: Place in social network where a person selects his/her choice whether s/he is interested in Men/Women
+#. Context: Place in social network where a person selects his/her choice
+#. whether s/he is interested in Men/Women
 msgid "Women"
 msgstr ""
 
@@ -2437,12 +2562,14 @@ msgid "Word Count"
 msgstr ""
 
 #. Applications: Websites
-#. Context: Menu of website where work environment about an organizations, company etc are written
+#. Context: Menu of website where work environment about an organizations,
+#. company etc are written
 msgid "Work Environment"
 msgstr ""
 
 #. Applications: Websites
-#. Context: Menu of website where career or work related information is present
+#. Context: Menu of website where career or work related information is
+#. present
 msgid "Work with Us"
 msgstr ""
 
@@ -2455,5 +2582,3 @@ msgstr ""
 #. Context: Place for the person's name who is going to comment in an article
 msgid "Your Name"
 msgstr ""
-
-
