@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-05-15 16:29+0530\n"
-"PO-Revision-Date: 2015-02-20 19:35:14\n"
+"PO-Revision-Date: 2015-02-21 07:11:22\n"
 "Last-Translator: Ayan Choudhury <ping2ayan@gmail.com>\n"
 "Language-Team: none\n"
 "Language: bn-IN\n"
@@ -2476,30 +2476,30 @@ msgstr ""
 #. Applications: Social Network
 #. Context: Wall is such a space where anybody can post and share it
 msgid "Wall"
-msgstr ""
+msgstr "দেওয়াল"
 
 #. Applications: Social Network
 #. Context: Photos on the wall
 msgid "Wall Photos"
-msgstr ""
+msgstr "দেওয়াল ফোটো"
 
 #. Applications: Websites
 #. Context: Webmail (or web-based email) is any email client implemented as a
 #. web application accessed via a web browser.
 msgid "Webmail"
-msgstr ""
+msgstr "ওয়েব-মেইল"
 
 #. Applications: Websites
 #. Context: A web page (or webpage) is a web document that is suitable for the
 #. World Wide Web and the web browser.
 msgid "Webpage"
-msgstr ""
+msgstr "ওয়েবপেজ"
 
 #. Applications: Websites
 #. Context: A website, also written as Web site, web site, or simply site is a
 #. set of related web pages served from a single web domain.
 msgid "Website"
-msgstr ""
+msgstr "ওয়েবসাইট"
 
 #. Applications: Websites
 #. Context: Website Best Viewed with Firefox
