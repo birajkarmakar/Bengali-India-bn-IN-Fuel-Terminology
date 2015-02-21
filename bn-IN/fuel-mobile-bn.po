@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-04-23 11:19+0530\n"
-"PO-Revision-Date: 2015-02-21 02:00:49\n"
+"PO-Revision-Date: 2015-02-21 06:44:29\n"
 "Last-Translator: Ayan Choudhury <ping2ayan@gmail.com>\n"
 "Language-Team: none\n"
 "Language: bn-IN\n"
@@ -228,7 +228,7 @@ msgstr "স্বয়ংক্রিয় পুনরুদ্ধার"
 #. Applications:
 #. Context: to move backward
 msgid "Back"
-msgstr ""
+msgstr "পরবর্তী"
 
 #. Applications:
 #. Context: Timeout period for backlight screen or button
