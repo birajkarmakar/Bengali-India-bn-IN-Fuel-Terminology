@@ -7,8 +7,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-05-15 16:29+0530\n"
-"PO-Revision-Date: 2015-02-19 10:07:27\n"
-"Last-Translator: Biraj  Karmakar <brnet00@gmail.com>\n"
+"PO-Revision-Date: 2015-02-20 19:35:14\n"
+"Last-Translator: Ayan Choudhury <ping2ayan@gmail.com>\n"
 "Language-Team: none\n"
 "Language: bn-IN\n"
 "MIME-Version: 1.0\n"
@@ -21,18 +21,18 @@ msgstr ""
 #. Context: Navigational and informational tool that make a website easier to
 #. use
 msgid "A-Z Index"
-msgstr ""
+msgstr "A-Z সূচক"
 
 #. Applications: Website, Wiki, Social Network
 #. Context: Relating to about button with information about the application,
 #. website
 msgid "About"
-msgstr ""
+msgstr "সম্বন্ধে"
 
 #. Applications: Social Network
 #. Context: About me header for showing information about the user
 msgid "About Me"
-msgstr ""
+msgstr "আমার সম্বন্ধে"
 
 #. Applications: Websites
 #. Context: Menu of website that contains information relating to the website
@@ -42,31 +42,31 @@ msgstr "আমাদের বিষয়ে"
 #. Applications: Websites
 #. Context: It contains content related to the level of web accessibility
 msgid "Accessibility Statement"
-msgstr ""
+msgstr "অভিগম্যতা বিবৃতি"
 
 #. Applications: Social Network
 #. Context: An Internet-based entity owned by or assigned to a specific user
 #. but stored in an organization (Such as account at Facebook, or e-mail
 #. account
 msgid "Account"
-msgstr ""
+msgstr "অ্যাকাউন্ট"
 
 #. Applications: Social Network
 #. Context: Account Security is way that is being used for user authentication
 #. to prove identity, or for access approval to gain access to a resource
 msgid "Account Security"
-msgstr ""
+msgstr "অ্যাকাউন্ট নিরাপত্তা"
 
 #. Applications: Websites
 #. Context: A menu item of any website where accomplishment, successful
 #. performance etc are mentioned
 msgid "Achievements"
-msgstr ""
+msgstr "সাফল্য"
 
 #. Applications: Blog
 #. Context: Given to action constantly engaged in action consistently updated
 msgid "Active"
-msgstr ""
+msgstr "সক্রিয়"
 
 #. Applications: Websites
 #. Context: Menu for website for Open Tenders
