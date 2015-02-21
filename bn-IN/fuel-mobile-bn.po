@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-04-23 11:19+0530\n"
-"PO-Revision-Date: 2015-02-21 01:59:38\n"
+"PO-Revision-Date: 2015-02-21 02:00:49\n"
 "Last-Translator: Ayan Choudhury <ping2ayan@gmail.com>\n"
 "Language-Team: none\n"
 "Language: bn-IN\n"
@@ -212,18 +212,18 @@ msgstr "স্বয়ংক্রিয়"
 #. Applications:
 #. Context: Keyguard that works automatically
 msgid "Automatic Keyguard"
-msgstr ""
+msgstr "স্বয়ংক্রিয় কিগার্ড"
 
 #. Applications:
 #. Context: An option to redial automatically
 msgid "Automatic Redial"
-msgstr ""
+msgstr "স্বয়ংক্রিয় রিডায়াল"
 
 #. Applications:
 #. Context: A function by which someone retrieve automatically instead
 #. manually
 msgid "Automatic Retrieval"
-msgstr ""
+msgstr "স্বয়ংক্রিয় পুনরুদ্ধার"
 
 #. Applications:
 #. Context: to move backward
