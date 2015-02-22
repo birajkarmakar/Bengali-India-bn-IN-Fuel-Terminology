@@ -736,7 +736,7 @@ msgstr "বৃদ্ধি"
 #. Applications:
 #. Context: Settings for Enhancement
 msgid "Enhancement Settings"
-msgstr ""
+msgstr "বৈশিষ্ট্য বৃদ্ধি করুন"
 
 #. Applications:
 #. Context: To enter PIN code
@@ -806,77 +806,77 @@ msgstr "অবস্থান খুঁজুন"
 #. Applications:
 #. Context: Application
 msgid "Firewall"
-msgstr ""
+msgstr "Firewall"
 
 #. Applications:
 #. Context: action for locking the dialing
 msgid "Fixed Dialing"
-msgstr ""
+msgstr "ফিক্সড ডায়ালিং"
 
 #. Applications:
 #. Context: flash of the camera
 msgid "Flash"
-msgstr ""
+msgstr "ফ্ল্যাশ"
 
 #. Applications:
 #. Context: Application of basic mobile used for torch
 msgid "Flash Light"
-msgstr ""
+msgstr "ফ্ল্যাশ লাইট"
 
 #. Applications:
 #. Context: Application for sending FM radio waves
 msgid "FM Transmitter"
-msgstr ""
+msgstr "FM ট্রান্সমিটার"
 
 #. Applications:
 #. Context: Size of font
 msgid "Font Size"
-msgstr ""
+msgstr "ফন্ট সাইজ"
 
 #. Applications:
 #. Context: To format memory or sd card
 msgid "Format"
-msgstr ""
+msgstr "ফর্ম্যাট"
 
 #. Applications:
 #. Context: To forward a selected message to somebody
 msgid "Forward"
-msgstr ""
+msgstr "ফরওয়ার্ড"
 
 #. Applications:
 #. Context: Label to display the available memory
 msgid "Free Memory"
-msgstr ""
+msgstr "মুক্ত মেমোরি"
 
 #. Applications:
 #. Context: Full ie memory is full
 msgid "Full"
-msgstr ""
+msgstr "সম্পূর্ণ"
 
 #. Applications:
 #. Context: Sound of Game
 msgid "Game Sound"
-msgstr ""
+msgstr "গেমের আওয়াজ"
 
 #. Applications:
 #. Context: Mobile games
 msgid "Games"
-msgstr ""
+msgstr "গেম"
 
 #. Applications:
 #. Context: Profile of a basic phone
 msgid "General"
-msgstr ""
+msgstr "সাধারণ"
 
 #. Applications:
 #. Context: Related to music
 msgid "Genres"
-msgstr ""
+msgstr "প্রকার"
 
 #. Applications:
 #. Context: To get direction in a map
 msgid "Get Directions"
-msgstr ""
+msgstr "এখানে ক্লিক করুন"
 
 #. Applications:
 #. Context: to go to somewhere

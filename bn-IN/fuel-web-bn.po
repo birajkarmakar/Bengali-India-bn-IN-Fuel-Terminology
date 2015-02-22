@@ -7,8 +7,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-05-15 16:29+0530\n"
-"PO-Revision-Date: 2015-02-22 02:50:10\n"
-"Last-Translator: Sayantan Saha <sayantanmozillian@gmail.com>\n"
+"PO-Revision-Date: 2015-02-22 09:57:15\n"
+"Last-Translator: Ayan Choudhury <ping2ayan@gmail.com>\n"
 "Language-Team: none\n"
 "Language: bn-IN\n"
 "MIME-Version: 1.0\n"
@@ -476,12 +476,12 @@ msgstr "যোগাযোগ সংক্রান্ত তথ্য"
 #. Applications: Websites
 #. Context: Action to contact Sales department
 msgid "Contact Sales"
-msgstr ""
+msgstr "সেলসে যোগাযোগ করুন"
 
 #. Applications: Websites
 #. Context: Action to contact the webmaster
 msgid "Contact the Webmaster"
-msgstr ""
+msgstr "ওয়েবমাস্টারের সাথে যোগাযোগ করুন"
 
 #. Applications: Websites
 #. Context: Action to contact the owner of the website
@@ -503,7 +503,7 @@ msgstr "বিষয়বস্তুর ব্যবস্থাপনা স�
 #. Applications: Websites
 #. Context: Section where owner, updater, and maintainers name comes
 msgid "Content Owned, Updated and Maintained by"
-msgstr ""
+msgstr "কন্টেন্ট মালিকানাধীন, আপডেট এবং রক্ষণাবেক্ষণ করা হয় দ্বারা"
 
 #. Applications: CMS
 #. Context: Types of Content
@@ -547,7 +547,7 @@ msgstr "কর্পোরেট প্রোফাইল"
 #. its active compliance with the spirit of the law, ethical standards, and
 #. international norms.
 msgid "Corporate Social Responsibility"
-msgstr ""
+msgstr "কর্পোরেটের সামাজিক দায়িত্ব"
 
 #. Applications: Wiki
 #. Context: Action to create a book out of the content on wiki
@@ -557,58 +557,58 @@ msgstr "একটি বই তৈরি করুন"
 #. Applications: Social Network
 #. Context: Action to create a list
 msgid "Create a List"
-msgstr ""
+msgstr "একটি তালিকা তৈরি করুন"
 
 #. Applications: Wiki
 #. Context: Action to create an account
 msgid "Create Account"
-msgstr ""
+msgstr "একটি অ্যাকাউন্ট তৈরি করুন"
 
 #. Applications: Social Network
 #. Context: Action to create a group
 msgid "Create Group"
-msgstr ""
+msgstr "দল তৈরি করুন"
 
 #. Applications: CMS
 #. Context: Action to create new revision
 msgid "Create New Revision"
-msgstr ""
+msgstr "নতুন সংস্করণ তৈরি করুন"
 
 #. Applications: Social Network
 #. Context: place to fill own current city where user lives
 msgid "Current City"
-msgstr ""
+msgstr "বর্তমান শহর"
 
 #. Applications: Wiki
 #. Context: place where current events list is present
 msgid "Current Events"
-msgstr ""
+msgstr "বর্তমান ইভেন্ট"
 
 #. Applications: Websites
 #. Context: career page of an website
 msgid "Current Job Opportunities"
-msgstr ""
+msgstr "বর্তমান চাকরির সুযোগ"
 
 #. Applications: Blog
 #. Context: Present Theme
 msgid "Current Theme"
-msgstr ""
+msgstr "বর্তমান থীম"
 
 #. Applications: Blog
 #. Context: Fields that can be customized
 msgid "Custom Fields"
-msgstr ""
+msgstr "কাস্টম ফিল্ডসমূহ"
 
 #. Applications: Blog
 #. Context: Custom post types are new post types user can create.
 msgid "Custom Post Types"
-msgstr ""
+msgstr "কাস্টম পোস্টের প্রকার"
 
 #. Applications: Blog
 #. Context: Taxonomy is a way to group things together. With this help, an
 #. user is able to create own custom taxonomies
 msgid "Custom Taxonomies"
-msgstr ""
+msgstr "কাস্টম ট্যাক্সোনমিসমূহ"
 
 #. Applications: CMS
 #. Context: The Dashboard is a tool to quickly access the most used areas of
@@ -639,23 +639,23 @@ msgstr "তারিখ বিন্যাস"
 #. Applications: Social Network
 #. Context: Action to deactivate
 msgid "Deactivate"
-msgstr ""
+msgstr "নিষ্ক্রিয়"
 
 #. Applications: CMS
 #. Context: Description of a site
 msgid "Description"
-msgstr ""
+msgstr "বর্ণনা"
 
 #. Applications: Blog
 #. Context: Design of blog, website
 msgid "Design"
-msgstr ""
+msgstr "ডিজাইন"
 
 #. Applications: Websites
 #. Context: A section on website to put information related to the designer
 #. and developer of a website
 msgid "Designed and Developed by"
-msgstr ""
+msgstr "ডিজাইন এবং ডেভেলপ করেছে"
 
 #. Applications: Social Network
 #. Context: Developers
@@ -675,24 +675,24 @@ msgstr "ডাইরেক্টরি"
 #. Applications: CMS
 #. Context: Themes that disabled
 msgid "Disabled Themes"
-msgstr ""
+msgstr "থীম নিষ্ক্রিয় করুন"
 
 #. Applications: Websites
 #. Context: A menu where Disclaimer & Policies related information is present
 #. on the site
 msgid "Disclaimer & Policies"
-msgstr ""
+msgstr "অস্বীকৃতি এবং নীতি"
 
 #. Applications: Wiki
 #. Context: A menu where Disclaimer related information is present on the site
 msgid "Disclaimers"
-msgstr ""
+msgstr "অস্বীকৃতিসমূহ"
 
 #. Applications: Websites
 #. Context: A menu where Disclosures related information is present on the
 #. site
 msgid "Disclosures"
-msgstr ""
+msgstr "প্রকাশ"
 
 #. Applications: Wiki
 #. Context: A menu on wiki where discussion of users are present on a topic
@@ -737,12 +737,12 @@ msgstr "সম্পাদনা"
 #. Applications: Social Network
 #. Context: Action to edit friends
 msgid "Edit Friends"
-msgstr ""
+msgstr "বন্ধু সম্পাদনা করুন"
 
 #. Applications: Social Network
 #. Context: Action to edit own profile
 msgid "Edit My Profile"
-msgstr ""
+msgstr "আমার প্রোফাইল সম্পাদনা"
 
 #. Applications: Wiki
 #. Context: Action to edit summary
@@ -752,12 +752,12 @@ msgstr "সারসংক্ষেপ এডিট করুন"
 #. Applications: Social Network
 #. Context: Action to edit thumbnail
 msgid "Edit Thumbnail"
-msgstr ""
+msgstr "থাম্বনেইল সম্পাদনা"
 
 #. Applications: Social Network
 #. Context: Action to edit own news feed settings
 msgid "Edit Your News Feed Settings"
-msgstr ""
+msgstr "আপনার নিউজ ফিডের বৈশিষ্ট্য সম্পাদনা করুন"
 
 #. Applications: Blog
 #. Context: It is here as a role of an editor
@@ -797,12 +797,12 @@ msgstr "থিম সক্রিয় করুন"
 #. Applications: Websites
 #. Context: Action to enter a keyword
 msgid "Enter a Keyword…"
-msgstr ""
+msgstr "একটি কিওয়ার্ড প্রবেশ করান…"
 
 #. Applications: Blog
 #. Context: action to enter the title at a place
 msgid "Enter Title Here"
-msgstr ""
+msgstr "এখানে শিরোনাম প্রবেশ করান"
 
 #. Applications: Social Network
 #. Context: Section where events that are being organized is listed on a
@@ -969,7 +969,7 @@ msgstr "শুধু বন্ধুরা"
 #. Applications: Wiki
 #. Context: Material that is for getting more information on any subject
 msgid "Further Reading"
-msgstr ""
+msgstr "উপরন্তু পঠন"
 
 #. Applications: Wiki
 #. Context: Image or video gallery
@@ -1463,46 +1463,46 @@ msgstr "প্রাকদর্শন"
 #. Applications: Wiki
 #. Context: History of the page, here edit history
 msgid "Page History"
-msgstr "পাতা ইতিহাস"
+msgstr "পেজের পূর্ববর্তী তথ্য"
 
 #. Applications: Wiki
 #. Context: Stats related to page view
 msgid "Page View Statistics"
-msgstr "page দর্শন পরিসংখ্যান"
+msgstr "পেজ দর্শনের পরিসংখ্যান"
 
 #. Applications: Blog
 #. Context: A Page is often used to present "static" information about oneself
 #. or own site.
 msgid "Pages"
-msgstr "pageগুলি"
+msgstr "পৃষ্ঠাসমূহ"
 
 #. Applications: Blog
 #. Context: A blog application has an option on the Edit / Add New Page screen
 #. under the heading Page Attributes. From here, one can easily choose a
 #. “Parent” page from a drop-down of published pages.
 msgid "Parent"
-msgstr "উর্ধতন"
+msgstr "নিমিত্ত"
 
 #. Applications: Blog
 #. Context: main category
 msgid "Parent Category"
-msgstr "উর্ধতন শ্রেণী"
+msgstr "নিমিত্ত প্রকার"
 
 #. Applications: CMS
 #. Context: Main Item
 msgid "Parent Item"
-msgstr "উর্ধতন সামগ্রী"
+msgstr "নিমিত্ত সামগ্রী"
 
 #. Applications: Websites
 #. Context: Main Program
 msgid "Partner Programs"
-msgstr "সহযোগী programগুলি"
+msgstr "পার্টনার প্রোগ্রামসমূহ"
 
 #. Applications: Websites
 #. Context: A section where information is put for having partnership with the
 #. organization of which site is
 msgid "Partner with Us"
-msgstr "আমাদের সহযোগী হন"
+msgstr "আমাদের পার্টনার হন"
 
 #. Applications: Social Network
 #. Context: A password is a secret word or string of characters that is used
@@ -1515,18 +1515,18 @@ msgstr "পাসওয়ার্ড"
 #. Applications: Blog
 #. Context: A location of a particular item
 msgid "Path"
-msgstr "পাথ"
+msgstr "পথ"
 
 #. Applications: CMS
 #. Context: People
 msgid "People"
-msgstr "জনতা"
+msgstr "মানুষ"
 
 #. Applications: Social Network
 #. Context: Place where a social network site shows probable person whom user
 #. may know
 msgid "People You May Know"
-msgstr "সম্ভাব্য পরিচিত"
+msgstr "মানুষ যাদেরকে আপনি জানতে পারেন"
 
 #. Applications: Blog
 #. Context: Permanent link is a URL that points to a specific blog or forum
@@ -1586,68 +1586,68 @@ msgstr "মেটা তথ্য পোস্ট"
 #. Applications: Blog
 #. Context: tags for a post
 msgid "Post Tags"
-msgstr "টাগ পোস্ট"
+msgstr "ট্যাগসমূহ পোস্ট করুন"
 
 #. Applications: Websites
 #. Context: Postings eg job etc
 msgid "Postings"
-msgstr "কর্মখালি"
+msgstr "পোস্টিং"
 
 #. Applications: Blog
 #. Context: Blog Posts
 msgid "Posts"
-msgstr ""
+msgstr "পোস্টসমূহ"
 
 #. Applications: Websites
 #. Context: eg. the site is powered by Wordpress / Joomla etc
 msgid "Powered by"
-msgstr ""
+msgstr "দ্বারা চালিত"
 
 #. Applications: Websites
 #. Context: Section of an website to have information for press guys
 msgid "Press Kit"
-msgstr ""
+msgstr "প্রেস কীট"
 
 #. Applications: Websites
 #. Context: Section of an website to have press release
 msgid "Press Release"
-msgstr ""
+msgstr "প্রেস রিলিজ"
 
 #. Applications: CMS
 #. Context: Preview of web page before publishing
 msgid "Preview"
-msgstr ""
+msgstr "প্রাকদর্শন"
 
 #. Applications: Websites
 #. Context: Before the current one
 msgid "Previous"
-msgstr ""
+msgstr "পূর্ববর্তী"
 
 #. Applications: Blog
 #. Context: Primary Navigation
 msgid "Primary Navigation"
-msgstr ""
+msgstr "প্রাথমিক নেভিগেশন"
 
 #. Applications: Websites
 #. Context: Action to Print
 msgid "Print"
-msgstr ""
+msgstr "প্রিন্ট"
 
 #. Applications: Wiki
 #. Context: Action to print/export
 msgid "Print/Export"
-msgstr ""
+msgstr "প্রিন্ট/Export"
 
 #. Applications: Wiki
 #. Context: Version that is printable
 msgid "Printable Version"
-msgstr ""
+msgstr "ছাপার যোগ্য সংস্করণ"
 
 #. Applications: Social Network
 #. Context: Privacy is a legal thing that says how a party gathers, uses,
 #. discloses and manages a customer or client's data.
 msgid "Privacy"
-msgstr ""
+msgstr "গোপনীয়তা"
 
 #. Applications: Wiki
 #. Context: Privacy policy is a statement or a legal document (privacy law)
@@ -1689,208 +1689,208 @@ msgstr "প্রজেক্টসমূহ"
 #. Applications: CMS
 #. Context: Any content that is promoted to front page
 msgid "Promoted to Front Page"
-msgstr ""
+msgstr "প্রথম পেজে নিয়ে যাওয়া হয়েছে"
 
 #. Applications: CMS
 #. Context: Action to give a menu link
 msgid "Provide a Menu Link"
-msgstr ""
+msgstr "একটি মেনু লিঙ্ক প্রদান করুন"
 
 #. Applications: Blog
 #. Context: Public blog
 msgid "Public"
-msgstr ""
+msgstr "পাবলিক"
 
 #. Applications: Websites
 #. Context: Public Grievances
 msgid "Public Grievances"
-msgstr ""
+msgstr "পাবলিক অভিযোগ"
 
 #. Applications: Websites
 #. Context: Opinion of Public
 msgid "Public Opinion"
-msgstr ""
+msgstr "পাবলিকের মতামত"
 
 #. Applications: Blog
 #. Context: Action to publish
 msgid "Publish"
-msgstr ""
+msgstr "পাবলিশ"
 
 #. Applications: Blog
 #. Context: Action to publish immediately
 msgid "Publish Immediately"
-msgstr ""
+msgstr "এখুনি পাবলিশ করুন"
 
 #. Applications: Blog
 #. Context: Already published
 msgid "Published"
-msgstr ""
+msgstr "পাবলিশ করা হয়েছে"
 
 #. Applications: CMS
 #. Context: It contains info who published it
 msgid "Published by"
-msgstr ""
+msgstr "পাবলিশ করেছে"
 
 #. Applications: CMS
 #. Context: Options related to Publishing
 msgid "Publishing Options"
-msgstr ""
+msgstr "পাবলিশ করার অপশন"
 
 #. Applications: Websites
 #. Context: Details of the Purchase
 msgid "Purchase Details"
-msgstr ""
+msgstr "কেনার বিস্তৃতি"
 
 #. Applications: Websites
 #. Context: Customizable links on the Home page
 msgid "Quick Links"
-msgstr ""
+msgstr "তড়িৎ লিঙ্কসমূহ"
 
 #. Applications: Wiki
 #. Context: Under this section, articles are randomly appearing
 msgid "Random Article"
-msgstr ""
+msgstr "এলোমেলো প্রবন্ধ"
 
 #. Applications: Websites
 #. Context: Action to rate the site
 msgid "Rate This Site"
-msgstr ""
+msgstr "এই সাইটটিকে রেট করুন"
 
 #. Applications: Wiki
 #. Context: Action to Read
 msgid "Read"
-msgstr ""
+msgstr "পড়ুন"
 
 #. Applications: Wiki
 #. Context: Action to Read More
 msgid "Read More..."
-msgstr ""
+msgstr "আরও পড়ুন..."
 
 #. Applications: Social Network
 #. Context: Activity that happens recently
 msgid "Recent Activity"
-msgstr ""
+msgstr "সর্বশেষ কার্যকলাপ"
 
 #. Applications: Wiki
 #. Context: Changes that happens recently
 msgid "Recent Changes"
-msgstr ""
+msgstr "সাম্প্রতিক পরিবর্তনসমূহ"
 
 #. Applications: CMS
 #. Context: Log Messages that appeared recently
 msgid "Recent Log Messages"
-msgstr ""
+msgstr "সাম্প্রতিক লগ বার্তাসমূহ"
 
 #. Applications: Blog
 #. Context: One that was active recently
 msgid "Recently Active"
-msgstr ""
+msgstr "সাম্প্রতিক সক্রিয়"
 
 #. Applications: Wiki
 #. Context: specified context
 msgid "References"
-msgstr ""
+msgstr "তথ্যসূত্র"
 
 #. Applications: CMS
 #. Context: This settings allows to put information related to own region like
 #. timezone, locale
 msgid "Regional Settings"
-msgstr ""
+msgstr "আঞ্চলিক বৈশিষ্ট্য"
 
 #. Applications: Websites
 #. Context: Action to register
 msgid "Register"
-msgstr ""
+msgstr "রেজিস্টার"
 
 #. Applications: Blog
 #. Context: Users who are registered
 msgid "Registered Users"
-msgstr ""
+msgstr "রেজিস্টার করা ব্যবহারকারীসমূহ"
 
 #. Applications: Wiki
 #. Context: Changes that are related to something
 msgid "Related Changes"
-msgstr ""
+msgstr "সম্পর্কিত পরিবর্তন"
 
 #. Applications: Websites
 #. Context: Links related to some article or news etc
 msgid "Related Links"
-msgstr ""
+msgstr "সম্পর্কিত লিঙ্কসমূহ"
 
 #. Applications: Wiki
 #. Context: Action to Remember Me
 msgid "Remember Me"
-msgstr ""
+msgstr "আমাকে মনে রাখুন"
 
 #. Applications: Social Network
 #. Context: Action to remove own picture
 msgid "Remove Your Picture"
-msgstr ""
+msgstr "আপনার ছবি মুছুন"
 
 #. Applications: Websites
 #. Context: Action to report a problem
 msgid "Report a Problem"
-msgstr ""
+msgstr "একটি সমস্যা রিপোর্ট করুন"
 
 #. Applications: Websites
 #. Context: Action to report abuse or malicious activity
 msgid "Report Abuse"
-msgstr ""
+msgstr "আপত্তিজনক প্রতিবেদন"
 
 #. Applications: Social Network
 #. Context: Action to Report/Block a Person
 msgid "Report/Block This Person"
-msgstr ""
+msgstr "এই মানুষকে রিপোর্ট/Block করুন"
 
 #. Applications: CMS
 #. Context: Reports of system logs
 msgid "Reports"
-msgstr ""
+msgstr "রিপোর্টসমূহ"
 
 #. Applications: Websites
 #. Context: Research & Development
 msgid "Research & Development "
-msgstr ""
+msgstr "গবেষণা এবং ডেভেলপমেন্ট "
 
 #. Applications: Blog
 #. Context: Action to reset
 msgid "Reset"
-msgstr ""
+msgstr "রিসেট"
 
 #. Applications: Websites
 #. Context: Resources
 msgid "Resources"
-msgstr ""
+msgstr "রিসোর্স"
 
 #. Applications: Wiki
 #. Context: Search for Revision History
 msgid "Revision History Search"
-msgstr ""
+msgstr "পরিবর্ধন ও পরিবর্তনের তালিকা অনুসন্ধান"
 
 #. Applications: Wiki
 #. Context: Statistics of Revision History
 msgid "Revision History Statistics"
-msgstr ""
+msgstr "পরিবর্ধন ও পরিবর্তনের পরিসংখ্যান"
 
 #. Applications: CMS
 #. Context: Information of Revision
 msgid "Revision Information"
-msgstr ""
+msgstr "তথ্য পরিবর্ধন ও পরিবর্তন করুন"
 
 #. Applications: CMS
 #. Context: Message of Revision Log
 msgid "Revision Log Message"
-msgstr ""
+msgstr "লগ বার্তাসমূহ পরিবর্ধন ও পরিবর্তন করুন"
 
 #. Applications: CMS
 #. Context: Role, eg Admin, Author etc
 msgid "Role"
-msgstr ""
+msgstr "ভূমিকা"
 
 #. Applications: Blog
 #. Context: Role, eg Admin, Author etc
 msgid "Roles and Capabilities"
-msgstr ""
+msgstr "ভূমিকা এবং ক্ষমতা"
 
 #. Applications: CMS
 #. Context: RSS Feeds
@@ -1900,213 +1900,213 @@ msgstr "RSS ফীড"
 #. Applications: CMS
 #. Context: RSS Publishing
 msgid "RSS Publishing"
-msgstr ""
+msgstr "RSS পাবলিশিং"
 
 #. Applications: CMS
 #. Context: Action to save
 msgid "Save"
-msgstr ""
+msgstr "সংরক্ষণ"
 
 #. Applications: CMS
 #. Context: Action to save configuration
 msgid "Save Configuration"
-msgstr ""
+msgstr "কনফিগারেশন সংরক্ষণ করুন"
 
 #. Applications: Blog
 #. Context: Action to save draft
 msgid "Save Draft"
-msgstr ""
+msgstr "খসড়া সংরক্ষণ করুন"
 
 #. Applications: Blog
 #. Context: Screen Option can be used to show/hide modules on some screens and
 #. show/hide columns on other screens
 msgid "Screen Option"
-msgstr ""
+msgstr "স্ক্রিনের অপশন"
 
 #. Applications: Websites
 #. Context: This is an attempt to enable people with visual impairment access
 #. this website, using assistive technologies, such as screen readers
 msgid "Screen Reader Access"
-msgstr ""
+msgstr "স্ক্রিনের রিডার অ্যাক্সেস"
 
 #. Applications: Websites
 #. Context: Action to scroll
 msgid "Scroll"
-msgstr ""
+msgstr "স্ক্রল"
 
 #. Applications: Wiki
 #. Context: Action to search
 msgid "Search"
-msgstr ""
+msgstr "খোঁজা"
 
 #. Applications: Websites
 #. Context: Action to search keyword
 msgid "Search Keyword…"
-msgstr ""
+msgstr "কীওয়ার্ড খুঁজুন…"
 
 #. Applications: Blog
 #. Context: Action to search the plugins
 msgid "Search Plugins"
-msgstr ""
+msgstr "প্লাগ-ইন খুঁজুন"
 
 #. Applications: Blog
 #. Context: Action to search the themes
 msgid "Search Themes"
-msgstr ""
+msgstr "থীমসমূহ খুঁজুন"
 
 #. Applications: Websites
 #. Context: Action to search the site
 msgid "Search This Site"
-msgstr ""
+msgstr "এই সাইটটি খুঁজুন"
 
 #. Applications: CMS
 #. Context: Menu below the primary one
 msgid "Secondary menu"
-msgstr ""
+msgstr "দ্বিতীয় মেনু"
 
 #. Applications: Blog
 #. Context: Navigation below the primary one
 msgid "Secondary Navigation"
-msgstr ""
+msgstr "দ্বিতীয় নেভিগেশন"
 
 #. Applications: Social Network
 #. Context: Action to see all
 msgid "See All"
-msgstr ""
+msgstr "সমস্তকিছু দেখুন"
 
 #. Applications: Social Network
 #. Context: Action to see friendship
 msgid "See Friendship"
-msgstr ""
+msgstr "বন্ধুত্ব দেখুন"
 
 #. Applications: Wiki
 #. Context: Action to see in all page types
 msgid "See In All Page Types"
-msgstr ""
+msgstr "সমস্ত রকমের পেজে দেখুন"
 
 #. Applications: Social Network
 #. Context: Action to see more
 msgid "See More"
-msgstr ""
+msgstr "আরও দেখুন"
 
 #. Applications: Websites
 #. Context: Action to select language
 msgid "Select Language"
-msgstr ""
+msgstr "ভাষা নির্বাচন করুন"
 
 #. Applications: Social Network
 #. Context: Action to send a new message
 msgid "Send a New Message"
-msgstr ""
+msgstr "একটি নতুন বার্তা পাঠান"
 
 #. Applications: Social Network
 #. Context: Messages that are sent
 msgid "Sent Messages"
-msgstr ""
+msgstr "পাঠানো বার্তাসমূহ"
 
 #. Applications: Blog
 #. Context: Action to set featured image
 msgid "Set Featured Image"
-msgstr ""
+msgstr "বৈশিষ্ট্যযুক্ত চিত্র সেট করুন"
 
 #. Applications: Blog
 #. Context: Settings of a blog
 msgid "Settings"
-msgstr ""
+msgstr "বৈশিষ্ট্যসমূহ"
 
 #. Applications: Social Network
 #. Context: Action to share
 msgid "Share"
-msgstr ""
+msgstr "শেয়ার"
 
 #. Applications: Social Network
 #. Context: Action to share profile
 msgid "Share Profile"
-msgstr ""
+msgstr "প্রোফাইল শেয়ার করুন"
 
 #. Applications: CMS
 #. Context: Shortcut Icon
 msgid "Shortcut Icon"
-msgstr ""
+msgstr "শর্টকাট আইকন"
 
 #. Applications: Wiki
 #. Context: Action to show
 msgid "Show"
-msgstr ""
+msgstr "দেখান"
 
 #. Applications: Social Network
 #. Context: Action to show post from a particular person
 msgid "Show Posts From"
-msgstr ""
+msgstr "পোস্ট দেখানো হোক"
 
 #. Applications: Blog
 #. Context: Sidebars of a blog
 msgid "Sidebars"
-msgstr ""
+msgstr "সাইডবার"
 
 #. Applications: Websites
 #. Context: Through this credentials, a user uses it to gain access to a
 #. website
 msgid "Sign In"
-msgstr ""
+msgstr "সাইন ইন"
 
 #. Applications: Websites
 #. Context: become part of, register
 msgid "Sign Up"
-msgstr ""
+msgstr "সাইন আপ"
 
 #. Applications: Blog
 #. Context: Address of Site
 msgid "Site Address"
-msgstr ""
+msgstr "সাইটের ঠিকানা"
 
 #. Applications: CMS
 #. Context: Information of Site
 msgid "Site Information"
-msgstr ""
+msgstr "সাইটের তথ্য"
 
 #. Applications: CMS
 #. Context: Name of the Site
 msgid "Site Name"
-msgstr ""
+msgstr "সাইটের নাম"
 
 #. Applications: CMS
 #. Context: Slogan of site
 msgid "Site Slogan"
-msgstr ""
+msgstr "সাইটের স্লোগান"
 
 #. Applications: Websites
 #. Context: Title of Site
 msgid "Site Title"
-msgstr ""
+msgstr "সাইটের শিরোনাম"
 
 #. Applications: Websites
 #. Context: A site map (or sitemap) is a list of pages of a web site
 #. accessible to crawlers or users.
 msgid "Sitemap"
-msgstr ""
+msgstr "সাইটম্যাপ"
 
 #. Applications: Websites
 #. Context: Action to Skip to Main Content
 msgid "Skip to Main Content"
-msgstr ""
+msgstr "প্রধান কন্টেন্টে চলে যান"
 
 #. Applications: Websites
 #. Context: Action to Skip to Navigation
 msgid "Skip to Navigation"
-msgstr ""
+msgstr "নেভিগেশনে চলে যান"
 
 #. Applications: Websites
 #. Context: A slug is the part of a URL which identifies a page using human-
 #. readable keywords
 msgid "Slug"
-msgstr ""
+msgstr "স্লাগ"
 
 #. Applications: Websites
 #. Context: A menu where information related to solutions is present which the
 #. site provides
 msgid "Solutions"
-msgstr ""
+msgstr "সমাধান"
 
 #. Applications: Blog
 #. Context: Spam is the use of electronic messaging systems to send
@@ -2123,93 +2123,93 @@ msgstr "স্পেশাল ক্যারেকটার"
 #. Context: A special page that is generated due to searching something or
 #. other reason that cannot be edited on wiki
 msgid "Special Pages"
-msgstr ""
+msgstr "স্পেশ্যাল পেজসমূহ"
 
 #. Applications: Websites
 #. Context: A place where information of sponsors are present
 msgid "Sponsored by"
-msgstr ""
+msgstr "স্পনসর করেছে"
 
 #. Applications: CMS
 #. Context: Defines the state of an activity about a particular item
 msgid "Status"
-msgstr ""
+msgstr "স্ট্যাটাস"
 
 #. Applications: CMS
 #. Context: An option in publishing options, make it sticky
 msgid "Sticky at Top of Lists"
-msgstr ""
+msgstr "তালিকার একদম ওপরে বর্তমান"
 
 #. Applications: CMS
 #. Context: Structure of website
 msgid "Structure"
-msgstr ""
+msgstr "গঠন"
 
 #. Applications: Wiki
 #. Context: Secondary categories
 msgid "Subcategories"
-msgstr ""
+msgstr "অন্তর্ভুক্ত"
 
 #. Applications: CMS
 #. Context: Under new comment section, subject is coming
 msgid "Subject"
-msgstr ""
+msgstr "বিষয়"
 
 #. Applications: Websites
 #. Context: Action to Subscribe
 msgid "Subscribe"
-msgstr ""
+msgstr "সাবস্ক্রাইব"
 
 #. Applications: Websites
 #. Context: Action to Subscribe to Careers
 msgid "Subscribe to Careers"
-msgstr ""
+msgstr "ক্যারিয়ারে সাবস্ক্রাইব করুন"
 
 #. Applications: Websites
 #. Context: Action to Subscribe to Events
 msgid "Subscribe to Events"
-msgstr ""
+msgstr "ইভেন্টে সাবস্ক্রাইব করুন"
 
 #. Applications: Websites
 #. Context: Action to Subscribe to Latest Updates
 msgid "Subscribe to Latest Updates"
-msgstr ""
+msgstr "সর্বশেষ আপডেটে সাবস্ক্রাইব করুন"
 
 #. Applications: Websites
 #. Context: Action to Subscribe to Press Kit
 msgid "Subscribe to Press Kit"
-msgstr ""
+msgstr "প্রেস কিটে সাবস্ক্রাইব করুন"
 
 #. Applications: Websites
 #. Context: Action to Subscribe to Tenders
 msgid "Subscribe to Tenders"
-msgstr ""
+msgstr "টেন্ডারে সাবস্ক্রাইব করুন"
 
 #. Applications: Websites
 #. Context: Success Stories & Testimonials
 msgid "Success Stories & Testimonials"
-msgstr ""
+msgstr "সাফল্যের কাহিনী ও প্রশংসাপত্র"
 
 #. Applications: Social Network
 #. Context: Action to Suggest Friends
 msgid "Suggest Friends"
-msgstr ""
+msgstr "বন্ধুদের পরামর্শ দিন"
 
 #. Applications: Websites
 #. Context: Section where user can find support information
 msgid "Support"
-msgstr ""
+msgstr "সহায়তা"
 
 #. Applications: Websites
 #. Context: Syndication.module offers a web page which centralizes all of the
 #. RSS feeds
 msgid "Syndicate"
-msgstr ""
+msgstr "নিষঙ্গ"
 
 #. Applications: Blog
 #. Context:  tagline is the subtitle to the blog title.
 msgid "Tagline"
-msgstr ""
+msgstr "ট্যাগলাইন"
 
 #. Applications: Blog
 #. Context: tags for a post
@@ -2219,14 +2219,14 @@ msgstr "ট্যাগ"
 #. Applications: Social Network
 #. Context: Action to take a picture
 msgid "Take a Picture"
-msgstr ""
+msgstr "একটি ছবি তুলুন"
 
 #. Applications: CMS
 #. Context: Taxonomy, a powerful core module, gives sites use of the
 #. organizational keywords known in other systems as categories, tags, or
 #. metadata
 msgid "Taxonomy"
-msgstr ""
+msgstr "শ্রেণীবিন্যাস"
 
 #. Applications: Websites
 #. Context: Section where team information is present
@@ -2389,89 +2389,89 @@ msgstr "আপলোড/প্রবেশ করান"
 #. Applications: CMS
 #. Context: URL Alias
 msgid "URL Alias"
-msgstr ""
+msgstr "URL অ্যালিয়াস"
 
 #. Applications: CMS
 #. Context: Path Settings of URL
 msgid "URL Path Settings"
-msgstr ""
+msgstr "URL পথের বৈশিষ্ট্য"
 
 #. Applications: Websites
 #. Context: Usability Tool
 msgid "Usability Tool"
-msgstr ""
+msgstr "ব্যবহার্য টুলসমূহ"
 
 #. Applications: Blog
 #. Context: A role
 msgid "User"
-msgstr ""
+msgstr "ব্যবহারকারী"
 
 #. Applications: CMS
 #. Context: User Login
 msgid "User Login"
-msgstr ""
+msgstr "ব্যবহারকারী লগ-ইন"
 
 #. Applications: CMS
 #. Context: It manages users and access control
 msgid "User Manager"
-msgstr ""
+msgstr "ব্যবহারকারী ম্যানেজার"
 
 #. Applications: CMS
 #. Context: It allow to add an image field for user in posts.
 msgid "User Picture in Posts"
-msgstr ""
+msgstr "পোস্টে ব্যবহারকারী ফোটো"
 
 #. Applications: CMS
 #. Context: It allow to add an image field for user in comments.
 msgid "User Pictures in Comments"
-msgstr ""
+msgstr "মন্তব্যে ব্যবহাকারী ছবি"
 
 #. Applications: CMS
 #. Context: Through this User Verification Status in Comments can be enabled
 #. or disabled
 msgid "User Verification Status in Comments"
-msgstr ""
+msgstr "মন্তব্যে ব্যবহারকারী যাচাইকরণ স্ট্যাটাস"
 
 #. Applications: Social Network
 #. Context: A user of computer or network service is identified by username
 msgid "Username"
-msgstr ""
+msgstr "ইউজারনেম"
 
 #. Applications: CMS
 #. Context: Edition
 msgid "Version"
-msgstr ""
+msgstr "সংস্করণ"
 
 #. Applications: Social Network
 #. Context: Video
 msgid "Video"
-msgstr ""
+msgstr "ভিডিও"
 
 #. Applications: Websites
 #. Context: Gallery of Videos
 msgid "Video Gallery"
-msgstr ""
+msgstr "ভিডিও গ্যালারি"
 
 #. Applications: Wiki
 #. Context: Action to view history
 msgid "View History"
-msgstr ""
+msgstr "পূর্ববর্তী ইতিহাস দেখুন"
 
 #. Applications: Blog
 #. Context: Action to view page
 msgid "View Page"
-msgstr ""
+msgstr "পেজ দেখুন"
 
 #. Applications: Wiki
 #. Context: Action to view source
 msgid "View Source"
-msgstr ""
+msgstr "উৎস দেখুন"
 
 #. Applications: Websites
 #. Context: A section where information related to who all have visited the
 #. site are present
 msgid "Visitor Count"
-msgstr ""
+msgstr "পরিদর্শকের গণনা"
 
 #. Applications: Social Network
 #. Context: Wall is such a space where anybody can post and share it
@@ -2504,81 +2504,81 @@ msgstr "ওয়েবসাইট"
 #. Applications: Websites
 #. Context: Website Best Viewed with Firefox
 msgid "Website Best Viewed with Firefox"
-msgstr ""
+msgstr "Firefox-এর সাহায্যে সবথেকে ভালো পরিদর্শিত ওয়েবসাইট"
 
 #. Applications: Blog
 #. Context: A setting that you make about a day of the week when your week
 #. starts
 msgid "Week Starts On"
-msgstr ""
+msgstr "সপ্তাহ শুরু হয়"
 
 #. Applications: CMS
 #. Context: This module adds a weight option to enabled node types. Nodes with
 #. lower weight will float to the top of lists, while heavier items will sink.
 msgid "Weight"
-msgstr ""
+msgstr "ওজন"
 
 #. Applications: Wiki
 #. Context: This is used to see a list of the pages that link to (or redirect
 #. to, or transclude) the current page
 msgid "What Links Here"
-msgstr ""
+msgstr "কি এখানে লিঙ্ক করে"
 
 #. Applications: Social Network
 #. Context: A box that need to filled for status update in a social networking
 #. site
 msgid "What's on Your Mind?"
-msgstr ""
+msgstr "আপনার মনে কি আছে?"
 
 #. Applications: CMS
 #. Context: Who's New
 msgid "Who's New"
-msgstr ""
+msgstr "কে নতুন"
 
 #. Applications: CMS
 #. Context: Who's Online
 msgid "Who's Online"
-msgstr ""
+msgstr "কে অনলাইন"
 
 #. Applications: CMS
 #. Context: Who's Who
 msgid "Who's Who"
-msgstr ""
+msgstr "কার কে"
 
 #. Applications: Blog
 #. Context: Widgets add content and features to your Sidebars
 msgid "Widgets"
-msgstr ""
+msgstr "উইজেট"
 
 #. Applications: Social Network
 #. Context: Place in social network where a person selects his/her choice
 #. whether s/he is interested in Men/Women
 msgid "Women"
-msgstr ""
+msgstr "মহিলা"
 
 #. Applications: Blog
 #. Context: Count of words
 msgid "Word Count"
-msgstr ""
+msgstr "শব্দ গণনা"
 
 #. Applications: Websites
 #. Context: Menu of website where work environment about an organizations,
 #. company etc are written
 msgid "Work Environment"
-msgstr ""
+msgstr "কাজ করার পরিবেশ"
 
 #. Applications: Websites
 #. Context: Menu of website where career or work related information is
 #. present
 msgid "Work with Us"
-msgstr ""
+msgstr "আমাদের সাথে কাজ করুন"
 
 #. Applications: Social Network
 #. Context: Boxed place where users of social networking site write comments
 msgid "Write a Comment..."
-msgstr ""
+msgstr "একটি মন্তব্য করুন..."
 
 #. Applications: CMS
 #. Context: Place for the person's name who is going to comment in an article
 msgid "Your Name"
-msgstr ""
+msgstr "আপনার নাম"
