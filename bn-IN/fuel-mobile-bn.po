@@ -7,8 +7,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-04-23 11:19+0530\n"
-"PO-Revision-Date: 2015-02-22 02:50:51\n"
-"Last-Translator:  <rajajoddar@gmail.com>\n"
+"PO-Revision-Date: 2015-02-22 08:56:26\n"
+"Last-Translator: Ayan Choudhury <ping2ayan@gmail.com>\n"
 "Language-Team: none\n"
 "Language: bn-IN\n"
 "MIME-Version: 1.0\n"
@@ -634,17 +634,17 @@ msgstr "সতর্ক"
 #. Applications:
 #. Context: To display the details
 msgid "Display Detail"
-msgstr "বিবরণ দেখুন"
+msgstr "বিবরণ প্রদর্শন করুন"
 
 #. Applications:
 #. Context: Language for Display
 msgid "Display Language"
-msgstr "ভাষা দেখুন"
+msgstr "ভাষা দেখান"
 
 #. Applications:
 #. Context: Settings of the display
 msgid "Display Settings"
-msgstr "সেটিংস্‌ দেখান"
+msgstr "বৈশিষ্ট্য প্রদর্শন করুন"
 
 #. Applications:
 #. Context:  collection of contact used as single recipient distribution of
@@ -660,7 +660,7 @@ msgstr "সকল ভোয়েস কল ডাইভার্ট করুন"
 #. Applications:
 #. Context: To download an image automatically
 msgid "Download Image Automatically"
-msgstr ""
+msgstr "স্বয়ংক্রিয়ভাবে ছবি ডাউনলোড করুন"
 
 #. Applications:
 #. Context: A folder where drafts of messages, mails are saved
@@ -680,17 +680,17 @@ msgstr "সকল কলের সময়কাল"
 #. Applications:
 #. Context: Time taken by dialed calls
 msgid "Duration of Dialed Calls"
-msgstr ""
+msgstr "ডায়াল হওয়া কলের সময়কাল"
 
 #. Applications:
 #. Context: Time taken by last calls
 msgid "Duration of Last Calls"
-msgstr ""
+msgstr "শেষ কলের সময়কাল"
 
 #. Applications:
 #. Context: Time taken by received calls
 msgid "Duration of Received Calls"
-msgstr ""
+msgstr "গৃহীত কলের সময়কাল"
 
 #. Applications:
 #. Context: A menu item used for Editing
@@ -715,7 +715,7 @@ msgstr "ব্লুটুথ সক্রিয় করুন"
 #. Applications:
 #. Context: To active geo location
 msgid "Enable Geo Location"
-msgstr ""
+msgstr "ভৌগোলিক অবস্থান সক্রিয় করুন"
 
 #. Applications:
 #. Context: To enable Email in HTML
@@ -726,12 +726,12 @@ msgstr "HTML ইমেইল সক্রিয় করুন"
 #. Context: To change data in coded form so that it cannot be read by any
 #. unauthorized party
 msgid "Encryption"
-msgstr ""
+msgstr "এনক্রিপশন"
 
 #. Applications:
 #. Context:  act of improving something
 msgid "Enhancement"
-msgstr ""
+msgstr "বৃদ্ধি"
 
 #. Applications:
 #. Context: Settings for Enhancement
