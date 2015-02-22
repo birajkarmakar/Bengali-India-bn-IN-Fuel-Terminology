@@ -7,8 +7,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-05-15 16:29+0530\n"
-"PO-Revision-Date: 2015-02-21 23:58:18\n"
-"Last-Translator: Jockr <rcmainak24@gmail.com>\n"
+"PO-Revision-Date: 2015-02-22 00:47:41\n"
+"Last-Translator: Sayantan Saha <sayantanmozillian@gmail.com>\n"
 "Language-Team: none\n"
 "Language: bn-IN\n"
 "MIME-Version: 1.0\n"
@@ -167,7 +167,7 @@ msgstr "সকল ফলাফল"
 #. have not waived any such right. Copyright law in most countries no longer
 #. requires such notices, but the phrase persists
 msgid "All Rights Reserved"
-msgstr "সর্বস্বত্ব সংরক্ষিত"
+msgstr "সমস্ত অধিকার সংরক্ষিত"
 
 #. Applications: Websites
 #. Context: A section on website particularly on a website of educational
@@ -195,12 +195,12 @@ msgstr "চেহারা"
 #. Applications: Blog
 #. Context: To apply
 msgid "Apply"
-msgstr "প্রয়োগ করুন"
+msgstr "আবেদন করুন"
 
 #. Applications: Social Network
 #. Context: Applications
 msgid "Apps"
-msgstr "আপ্পস"
+msgstr "অ্যাপস"
 
 #. Applications: Social Network
 #. Context: Messages that are archived
@@ -292,181 +292,181 @@ msgstr "উপকারিতা এবং ক্ষতিপূরণ"
 #. Applications: Websites
 #. Context: Guidelines related to resolution, on which a website looks best
 msgid "Best Viewed @ 1024x768 Resolution and Up"
-msgstr ""
+msgstr "শ্রেষ্ট দৃশ্য @ 1024x768 রেজোলিউশন এবং উপরে"
 
 #. Applications: Social Network
 #. Context: Birthday
 msgid "Birthday"
-msgstr ""
+msgstr "জন্মদিন"
 
 #. Applications: CMS
 #. Context: Blocks are the boxes visible in various area of a website's
 #. screens.
 msgid "Blocks"
-msgstr ""
+msgstr "ব্লকস"
 
 #. Applications: Blog
 #. Context: A blog, or weblog, is an online journal, diary, or serial
 #. published by a person or group of people.
 msgid "Blog"
-msgstr ""
+msgstr "ব্লগ"
 
 #. Applications: Blog
 #. Context: One who blogs
 msgid "Blogger"
-msgstr ""
+msgstr "ব্লগার"
 
 #. Applications: CMS
 #. Context: where main content is being put in a cms
 msgid "Body"
-msgstr ""
+msgstr "বিষয়বস্তু"
 
 #. Applications: Websites
 #. Context: Bookmarks provides a unique (non-shared) menu to each user. The
 #. menu can be modified / updated by the individual users and by the site
 #. admin
 msgid "Bookmark"
-msgstr ""
+msgstr "বুকমার্ক"
 
 #. Applications: Websites
 #. Context: A link by clicking on which a user reaches bottom of a website
 msgid "Bottom"
-msgstr ""
+msgstr "নীচে"
 
 #. Applications: Websites
 #. Context: Action to buy online
 msgid "Buy Online"
-msgstr ""
+msgstr "অনলাইনে কিনুন"
 
 #. Applications: Websites
 #. Context: a place to click for help when an user cannot access his or her
 #. account
 msgid "Can't access your account?"
-msgstr ""
+msgstr "আপনার অ্যাকাউন্টে প্রবেশ করা যাচ্ছে না?"
 
 #. Applications: Websites
 #. Context: career page of an website
 msgid "Career Opportunities"
-msgstr ""
+msgstr "কর্মজীবনের সুযোগ"
 
 #. Applications: Websites
 #. Context: career page of an website
 msgid "Careers"
-msgstr ""
+msgstr "কর্মজীবন"
 
 #. Applications: Wiki, CMS
 #. Context: Each post in a blog can be filed under a category. Thoughtful
 #. categorization allows posts to be grouped with others of similar content
 #. and aids in the navigation of a site.
 msgid "Categories"
-msgstr ""
+msgstr "বিভাগ"
 
 #. Applications: CMS
 #. Context: admin section that manages category of a website
 msgid "Category Manager"
-msgstr ""
+msgstr "বিভাগ ম্যানেজার"
 
 #. Applications: Websites
 #. Context: Action to change theme
 msgid "Change Theme"
-msgstr ""
+msgstr "থিম পালটান"
 
 #. Applications: Social Network
 #. Context: A main menu from where an user will do activity related to Chat
 msgid "Chat"
-msgstr ""
+msgstr "চ্যাট"
 
 #. Applications: CMS
 #. Context: Action to choose file
 msgid "Choose File"
-msgstr ""
+msgstr "ফাইল নির্বাচন করুন"
 
 #. Applications: Wiki
 #. Context:  To mention or bring forward
 msgid "Cite"
-msgstr ""
+msgstr "উদ্ধৃত করা"
 
 #. Applications: Websites
 #. Context: A menu for government website
 msgid "Citizens' Charter"
-msgstr ""
+msgstr "নাগরিকদের সনদ"
 
 #. Applications: Blog
 #. Context: Action to clear cache
 msgid "Clear Cache"
-msgstr ""
+msgstr "ক্যাশ পরিষ্কার করুন"
 
 #. Applications: Websites
 #. Context: Clients of website or company of which website is prepared
 msgid "Clients"
-msgstr ""
+msgstr "ক্লায়েন্ট"
 
 #. Applications: CMS
 #. Context: A state of the activity – closed
 msgid "Closed"
-msgstr ""
+msgstr "বন্ধ"
 
 #. Applications: CMS
 #. Context: Content Management System. In the context of a Web site. a
 #. collection of tools designed to allow the creation, modification,
 #. organization and removal of information.
 msgid "CMS"
-msgstr ""
+msgstr "CMS"
 
 #. Applications: Blog
 #. Context: comment spam protection and defense plugins and methods of a blog,
 #. website
 msgid "Combating Spam"
-msgstr ""
+msgstr "স্প্যাম বিরোধিতা"
 
 #. Applications: Social Network
 #. Context: Comment on a post on a social networking site
 msgid "Comment"
-msgstr ""
+msgstr "মন্তব্য"
 
 #. Applications: Blog
 #. Context: Comment Moderation is a mechanism by which an admin can moderate
 #. the comments
 msgid "Comment Moderation"
-msgstr ""
+msgstr "মন্তব্য সংশোধন"
 
 #. Applications: CMS
 #. Context: Settings of Comment
 msgid "Comment Settings"
-msgstr ""
+msgstr "মন্তব্য সেটিং"
 
 #. Applications: Blog
 #. Context: Comment by a user on a blog post or an article
 msgid "Comments"
-msgstr ""
+msgstr "মন্তব্যসমূহ"
 
 #. Applications: Wiki
 #. Context: Action to compare selected revisions
 msgid "Compare Selected Revisions"
-msgstr ""
+msgstr "নির্বাচিত সংস্করণের তুলনা করুন"
 
 #. Applications: CMS
 #. Context: Module of CMS, this module provides several utility routines to
 #. allow themes to "pull in" any desired content in a template file
 msgid "Components"
-msgstr ""
+msgstr "উপাদান"
 
 #. Applications: Websites
 #. Context: It mentions the information related to the persons or
 #. organizations whose concept it is
 msgid "Concept by"
-msgstr ""
+msgstr "ধারণা দ্বারা"
 
 #. Applications: CMS
 #. Context: Configuration of CMS
 msgid "Configuration"
-msgstr ""
+msgstr "কনফিগারেশন"
 
 #. Applications: Websites
 #. Context: A place to spread the words about the website on social networking
 #. sites
 msgid "Connect"
-msgstr ""
+msgstr "সংযোগ"
 
 #. Applications: Social Network
 #. Context: Information to Contact
@@ -624,17 +624,17 @@ msgstr ""
 #. Applications: Blog
 #. Context: Date for posting the blog
 msgid "Date"
-msgstr ""
+msgstr "তারিখ"
 
 #. Applications: CMS
 #. Context: Date and Time of posting one article
 msgid "Date and Time"
-msgstr ""
+msgstr "তারিখ এবং সময়"
 
 #. Applications: Blog
 #. Context: Format of Date
 msgid "Date Format"
-msgstr ""
+msgstr "তারিখ বিন্যাস"
 
 #. Applications: Social Network
 #. Context: Action to deactivate
@@ -707,7 +707,7 @@ msgstr ""
 #. Applications: Wiki
 #. Context: action to download as PDF
 msgid "Download as PDF"
-msgstr ""
+msgstr "PDF ডাউনলোড করুন"
 
 #. Applications: Websites
 #. Context: Action to download font
@@ -772,7 +772,7 @@ msgstr ""
 #. Applications: Social Network
 #. Context: Place where user will fill their Email ID
 msgid "Email"
-msgstr ""
+msgstr "ইমেইল"
 
 #. Applications: Websites
 #. Context: Directory of Email
@@ -782,7 +782,7 @@ msgstr ""
 #. Applications: Social Network
 #. Context: Only Email
 msgid "Email Only"
-msgstr ""
+msgstr "শুধু ইমেইল"
 
 #. Applications: CMS
 #. Context: Action to enable and set default
@@ -839,7 +839,7 @@ msgstr ""
 #. Applications: Websites
 #. Context: Abbreviation of frequently asked questions
 msgid "FAQs"
-msgstr ""
+msgstr "FAQs"
 
 #. Applications: Websites
 #. Context: Place to show fax number information
@@ -949,12 +949,12 @@ msgstr ""
 #. Applications: Social Network
 #. Context: Request to add as a friend on social networking site
 msgid "Friend Request"
-msgstr ""
+msgstr "বন্ধুত্বের অনুরোধ"
 
 #. Applications: Social Network
 #. Context: Section on Social Network site where users' friend list is present
 msgid "Friends"
-msgstr ""
+msgstr "বন্ধু"
 
 #. Applications: Social Network
 #. Context: Friends that are currently shown on chat
@@ -1000,7 +1000,7 @@ msgstr ""
 #. Context: Header of site is typically the first thing people see located on
 #. the top of the page.
 msgid "Header"
-msgstr ""
+msgstr "শিরোনাম সমূহ"
 
 #. Applications: Blog
 #. Context: Header of site is typically the first thing people see located on
@@ -1014,101 +1014,101 @@ msgstr ""
 #. Context: A section on a website where help related information is shared
 #. with the users
 msgid "Help"
-msgstr ""
+msgstr "সাহায্য"
 
 #. Applications: Wiki
 #. Context: Action to hide
 msgid "Hide"
-msgstr ""
+msgstr "লোকানো"
 
 #. Applications: Social Network
 #. Context: A feature by which one can hide posts to be displayed from someone
 msgid "Hide Posts From"
-msgstr ""
+msgstr "পোস্ট লুকান থেকে"
 
 #. Applications: CMS
 #. Context: Highlighted region
 msgid "Highlighted"
-msgstr ""
+msgstr "উল্লিখিত"
 
 #. Applications: Websites
 #. Context: Highlights of a website
 msgid "Highlights"
-msgstr ""
+msgstr "উল্লিখিত"
 
 #. Applications: CMS
 #. Context: Main page of a website
 msgid "Home"
-msgstr ""
+msgstr "বাড়ি"
 
 #. Applications: Social Network
 #. Context: Place where a social network site's user put information of home
 #. town
 msgid "Home Town"
-msgstr ""
+msgstr "নিবাস"
 
 #. Applications: CMS
 #. Context: Pictures
 msgid "Image"
-msgstr ""
+msgstr "ভাবমূর্তি"
 
 #. Applications: Wiki
 #. Context: Items that are in the news
 msgid "In the News"
-msgstr ""
+msgstr "এখন খবর"
 
 #. Applications: Blog
 #. Context: Not active
 msgid "Inactive"
-msgstr ""
+msgstr "নিষ্ক্রিয়"
 
 #. Applications: CMS
 #. Context: Action to install new theme
 msgid "Install New Theme"
-msgstr ""
+msgstr "নতুন থিম ইনস্টল করুন"
 
 #. Applications: Websites
 #. Context: History of Institute/Organization
 msgid "Institute/Organization History"
-msgstr ""
+msgstr "প্রতিষ্ঠানের ইতিহাস"
 
 #. Applications: Wiki
 #. Context: A menu item on wiki to figure out contact information
 msgid "Interaction"
-msgstr ""
+msgstr "কথোপকথন"
 
 #. Applications: Social Network
 #. Context: A section on social networking site where users put their
 #. preference about their interest eg, one is interested in men/women
 msgid "Interested In"
-msgstr ""
+msgstr "আগ্রহী"
 
 #. Applications: Websites
 #. Context: An intranet is a computer network that uses Internet Protocol
 #. technology to share information, this will take user to intranet site of
 #. the organization
 msgid "Intranet"
-msgstr ""
+msgstr "ইন্ট্রানেট"
 
 #. Applications: Websites
 #. Context: Investor Relations
 msgid "Investor Relations"
-msgstr ""
+msgstr "বিনিয়োগকারী সম্পর্ক"
 
 #. Applications: Social Network
 #. Context: Action to invite friend
 msgid "Invite Friends"
-msgstr ""
+msgstr "বন্ধুদের আমন্ত্রণ"
 
 #. Applications: CMS
 #. Context: Blocking of Internet Protocol Address
 msgid "IP Address Blocking"
-msgstr ""
+msgstr "আইপি ঠিকানা রোধ করা"
 
 #. Applications: Websites
 #. Context: Policy related to Internet Protocol
 msgid "IP Policy"
-msgstr ""
+msgstr "আইপি নীতি"
 
 #. Applications: Websites
 #. Context: Policy related to IT
@@ -1198,7 +1198,7 @@ msgstr ""
 #. Applications: Websites
 #. Context: Learning management system
 msgid "LMS"
-msgstr ""
+msgstr "LMS"
 
 #. Applications: Websites
 #. Context: Defines a location of the place or an object
@@ -1654,37 +1654,37 @@ msgstr ""
 #. that discloses some or all of the ways a party gathers, uses, discloses and
 #. manages a customer or client's data.
 msgid "Privacy Policy"
-msgstr ""
+msgstr "নিরাপত্তার শর্তাবলী"
 
 #. Applications: Websites
 #. Context: Products that website have or sells
 msgid "Products"
-msgstr ""
+msgstr "পণ্য"
 
 #. Applications: Websites
 #. Context: Products & Services that a website offers
 msgid "Products & Services"
-msgstr ""
+msgstr "পণ্য এবং পরিষেবাসমূহ"
 
 #. Applications: Social Network
 #. Context: Profile of an user
 msgid "Profile"
-msgstr ""
+msgstr "প্রোফাইল"
 
 #. Applications: Social Network
 #. Context: Picture in the profile of an user
 msgid "Profile Picture"
-msgstr ""
+msgstr "প্রোফাইল চিত্র"
 
 #. Applications: Websites
 #. Context: Project Management
 msgid "Project Management"
-msgstr ""
+msgstr "প্রজেক্ট ম্যানেজমেন্ট"
 
 #. Applications: Websites
 #. Context: Projects
 msgid "Projects"
-msgstr ""
+msgstr "প্রজেক্টসমূহ"
 
 #. Applications: CMS
 #. Context: Any content that is promoted to front page
@@ -1895,7 +1895,7 @@ msgstr ""
 #. Applications: CMS
 #. Context: RSS Feeds
 msgid "RSS Feeds"
-msgstr ""
+msgstr "RSS ফীড"
 
 #. Applications: CMS
 #. Context: RSS Publishing
@@ -2112,12 +2112,12 @@ msgstr ""
 #. Context: Spam is the use of electronic messaging systems to send
 #. unsolicited bulk messages, especially advertising, indiscriminately.
 msgid "Spam"
-msgstr ""
+msgstr "স্প্যাম"
 
 #. Applications: Wiki
 #. Context: Special Characters that can be inserted
 msgid "Special Characters"
-msgstr ""
+msgstr "স্পেশাল ক্যারেকটার"
 
 #. Applications: Wiki
 #. Context: A special page that is generated due to searching something or
@@ -2214,7 +2214,7 @@ msgstr ""
 #. Applications: Blog
 #. Context: tags for a post
 msgid "Tags"
-msgstr ""
+msgstr "ট্যাগ"
 
 #. Applications: Social Network
 #. Context: Action to take a picture
@@ -2231,7 +2231,7 @@ msgstr ""
 #. Applications: Websites
 #. Context: Section where team information is present
 msgid "Team"
-msgstr ""
+msgstr "দল"
 
 #. Applications: Websites
 #. Context: Technology and Hosting Services Provided by

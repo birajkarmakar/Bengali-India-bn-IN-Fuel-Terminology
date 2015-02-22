@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-12-23 16:29+0530\n"
-"PO-Revision-Date: 2015-02-22 00:00:01\n"
+"PO-Revision-Date: 2015-02-22 00:29:05\n"
 "Last-Translator: Ayan Choudhury <ping2ayan@gmail.com>\n"
 "Language-Team: none\n"
 "Language: bn-IN\n"
@@ -396,243 +396,243 @@ msgstr "ডিঅ্যাসোসিয়েট ফ্লোটিং IP"
 #. Applications:
 #. Context: Flow of network traffic
 msgid "Direction"
-msgstr ""
+msgstr "অভিমুখ"
 
 #. Applications:
 #. Context: To disable gateway
 msgid "Disable Gateway"
-msgstr ""
+msgstr "গেটওয়ে অক্ষম করুন"
 
 #. Applications:
 #. Context: To disable user
 msgid "Disable User"
-msgstr ""
+msgstr "ব্যবহারকারীকে অক্ষম করুন"
 
 #. Applications:
 #. Context: Disk Image
 msgid "Disk"
-msgstr ""
+msgstr "ডিস্ক"
 
 #. Applications:
 #. Context: size of read on disk in bytes
 msgid "Disk Read Bytes"
-msgstr ""
+msgstr "ডিস্ক রিড বাইটসমূহ"
 
 #. Applications:
 #. Context: read of request on disk
 msgid "Disk Read Requests"
-msgstr ""
+msgstr "ডিস্ক রিড আবেদন"
 
 #. Applications:
 #. Context: How much disk is used
 msgid "Disk Usage"
-msgstr ""
+msgstr "ডিস্কের ব্যবহার"
 
 #. Applications:
 #. Context: size of write on disk in bytes
 msgid "Disk Write Bytes"
-msgstr ""
+msgstr "ডিস্ক লেখা বাইট"
 
 #. Applications:
 #. Context: write of request on disk
 msgid "Disk Write Requests"
-msgstr ""
+msgstr "ডিস্ক লেখার আবেদন"
 
 #. Applications:
 #. Context: name of the server in DNS format
 msgid "DNS Name Server"
-msgstr ""
+msgstr "DNS নাম সার্ভার"
 
 #. Applications:
 #. Context: Group of domain
 msgid "Domain Groups"
-msgstr ""
+msgstr "ডোমেইন দল"
 
 #. Applications:
 #. Context: ID of the domain
 msgid "Domain ID"
-msgstr ""
+msgstr "ডোমেইন ID"
 
 #. Applications:
 #. Context: Domain information
 msgid "Domain Info"
-msgstr ""
+msgstr "ডোমেইন তথ্য"
 
 #. Applications:
 #. Context: Number of Domains
 msgid "Domains"
-msgstr ""
+msgstr "ডোমেইনসমূহ"
 
 #. Applications:
 #. Context: To download credential of an user
 msgid "Download Credential"
-msgstr ""
+msgstr "ডাউনলোড প্রমাণপত্রাদি"
 
 #. Applications:
 #. Context: To download a file
 msgid "Download File"
-msgstr ""
+msgstr "ডাউনলোড ফাইল"
 
 #. Applications:
 #. Context: Driver eg storage plugins or software driver
 msgid "Driver"
-msgstr ""
+msgstr "ড্রাইভার"
 
 #. Applications:
 #. Context: To edit flavor
 msgid "Edit Flavor"
-msgstr ""
+msgstr "আস্বাদন সম্পাদনা করুন"
 
 #. Applications:
 #. Context: To edit instance
 msgid "Edit Instances"
-msgstr ""
+msgstr "দৃষ্টান্ত সম্পাদনা করুন"
 
 #. Applications:
 #. Context: To edit project
 msgid "Edit Project"
-msgstr ""
+msgstr "প্রোজেক্ট সম্পাদনা করুন"
 
 #. Applications:
 #. Context: To edit rules
 msgid "Edit Rules"
-msgstr ""
+msgstr "নিয়ম সম্পাদনা করুন"
 
 #. Applications:
 #. Context: To edit a security group
 msgid "Edit Security Groups"
-msgstr ""
+msgstr "নিরাপত্তা দল সম্পাদনা করুন"
 
 #. Applications:
 #. Context: Outgoing Traffic
 msgid "Egress"
-msgstr ""
+msgstr "বহির্গমন"
 
 #. Applications:
 #. Context: Electronic mail
 msgid "Email"
-msgstr ""
+msgstr "ইমেইল"
 
 #. Applications:
 #. Context: To enable dhcp
 msgid "Enable DHCP"
-msgstr ""
+msgstr "DHCP সক্রিয় করুন"
 
 #. Applications:
 #. Context: To enable
 msgid "Enables"
-msgstr ""
+msgstr "সক্রিয়করণ"
 
 #. Applications:
 #. Context: End date of subscription
 msgid "End Date"
-msgstr ""
+msgstr "শেষ তারিখ"
 
 #. Applications:
 #. Context: To give new title
 msgid "Entitlement"
-msgstr ""
+msgstr "এনটাইটেলমেন্ট"
 
 #. Applications:
 #. Context: The source of environment on which orchestration is performed
 msgid "Environment Source"
-msgstr ""
+msgstr "পরিবেশের উৎস"
 
 #. Applications:
 #. Context: Temporary disk that does save changes
 msgid "Ephemeral Disk"
-msgstr ""
+msgstr "ক্ষণস্থায়ী ডিস্ক"
 
 #. Applications:
 #. Context: Type of Ethernet (IPv4 or IPv6)
 msgid "Ether Type"
-msgstr ""
+msgstr "ইথারের প্রকার"
 
 #. Applications:
 #. Context: Current Action of any user
 msgid "Events"
-msgstr ""
+msgstr "ইভেন্টসমূহ"
 
 #. Applications:
 #. Context: External (floating IP pool)
 msgid "External"
-msgstr ""
+msgstr "বহিরাগত"
 
 #. Applications:
 #. Context: Network facing to public
 msgid "External Network"
-msgstr ""
+msgstr "বহিরাগত নেটওয়ার্ক"
 
 #. Applications:
 #. Context: filter by (name/instance...)
 msgid "Filter"
-msgstr ""
+msgstr "ফিল্টার"
 
 #. Applications:
 #. Context: Fingerprint created on uploading of SSH keys
 msgid "Fingerprint"
-msgstr ""
+msgstr "ফিঙ্গারপ্রিন্ট"
 
 #. Applications:
 #. Context: Firewall
 msgid "Firewall"
-msgstr ""
+msgstr "Firewall"
 
 #. Applications:
 #. Context: name of the flavor
 msgid "Flavor name"
-msgstr ""
+msgstr "আস্বাদনের নাম"
 
 #. Applications:
 #. Context: Alternative term of VM instance type
 msgid "Flavors"
-msgstr ""
+msgstr "আস্বাদনসমূহ"
 
 #. Applications:
 #. Context: Access to flavor to operator
 msgid "Flavors Access"
-msgstr ""
+msgstr "আস্বাদনের অ্যাক্সেস"
 
 #. Applications:
 #. Context: An IP address that a project can associate with a VM so that the
 #. instance has the same public IP address each time that it boots.
 msgid "Floating IP"
-msgstr ""
+msgstr "ফ্লোটিং IP"
 
 #. Applications:
 #. Context: No of request for floating IP creation
 msgid "Floating IP Creation Requests"
-msgstr ""
+msgstr "ফ্লোটিং IP তৈরির আবেদন"
 
 #. Applications:
 #. Context: Duration of floating IP
 msgid "Floating IP Duration"
-msgstr ""
+msgstr "ফ্লোটিং IP সময়কাল"
 
 #. Applications:
 #. Context: A range of IP Address
 msgid "Floating IP Pool"
-msgstr ""
+msgstr "ফ্লোটিং IP পুল"
 
 #. Applications:
 #. Context: Format of the cloud image (.qcow2, .iso etc)
 msgid "Format"
-msgstr ""
+msgstr "ফর্ম্যাট"
 
 #. Applications:
 #. Context: Gateway IP
 msgid "Gateway IP"
-msgstr ""
+msgstr "গেটওয়ে IP"
 
 #. Applications:
 #. Context: Usage of global disk
 msgid "Global Disk usage"
-msgstr ""
+msgstr "গ্লোবাল ডিস্ক ব্যবহার"
 
 #. Applications:
 #. Context: Usage of global network traffic
 msgid "Global Network Traffic Usage"
-msgstr ""
+msgstr "গ্লোবাল নেটওয়ার্ক ট্রাফিক ব্যবহার"
 
 #. Applications:
 #. Context: Usage of global network
@@ -662,230 +662,230 @@ msgstr "গেস্ট নেটওয়ার্ক"
 #. Applications:
 #. Context: Rebooting an instance forcibly by pressing button
 msgid "Hard Reboot instance"
-msgstr ""
+msgstr "হার্ড পুনঃবুট দৃষ্টান্ত"
 
 #. Applications:
 #. Context: help
 msgid "Help"
-msgstr ""
+msgstr "সাহায্য"
 
 #. Applications:
 #. Context: Host (eg. host operating system)
 msgid "Host"
-msgstr ""
+msgstr "হোস্ট"
 
 #. Applications:
 #. Context: A method to further sub-divide availability zone into hypervisor
 #. pool
 msgid "Host Aggregate"
-msgstr ""
+msgstr "হোস্টের সমষ্টি"
 
 #. Applications:
 #. Context: sending data from one host to another through routable host
 msgid "Host routes"
-msgstr ""
+msgstr "হোস্ট রুটসমূহ"
 
 #. Applications:
 #. Context: name of the host
 msgid "Hostname"
-msgstr ""
+msgstr "হোস্টনেম"
 
 #. Applications:
 #. Context: summary of hypervisor
 msgid "Hypervisor summary"
-msgstr ""
+msgstr "হাইপারভাইসরের সারসংক্ষেপ"
 
 #. Applications:
 #. Context: software layer which helps to host cloud image i.e. KVM
 msgid "Hypervisors"
-msgstr ""
+msgstr "হাইপারভাইসরসমূহ"
 
 #. Applications:
 #. Context: Infrastructure as a service
 msgid "IAAS"
-msgstr ""
+msgstr "IAAS"
 
 #. Applications:
 #. Context: Unique Identification code
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #. Applications:
 #. Context: Authentication panel
 msgid "Identity Panel"
-msgstr ""
+msgstr "পরিচয় প্যানেল"
 
 #. Applications:
 #. Context: Cloud imge i.e. fedora cloud image
 msgid "Image"
-msgstr ""
+msgstr "ছবি"
 
 #. Applications:
 #. Context: A local image to upload
 msgid "Image File"
-msgstr ""
+msgstr "ছবির ফাইল"
 
 #. Applications:
 #. Context: Path of cloud image (directory name or URL)
 msgid "Image Location"
-msgstr ""
+msgstr "ছবির অবস্থান"
 
 #. Applications:
 #. Context: Name of the cloud image
 msgid "Image Name"
-msgstr ""
+msgstr "ছবির নাম"
 
 #. Applications:
 #. Context: source of the cloud image
 msgid "Image Source"
-msgstr ""
+msgstr "ছবির উৎস"
 
 #. Applications:
 #. Context: Images and Snapshots
 msgid "Images and Snapshots"
-msgstr ""
+msgstr "ছবি এবং স্ন্যাপশটসমূহ"
 
 #. Applications:
 #. Context: To import certificate
 msgid "Import Certificate"
-msgstr ""
+msgstr "সার্টিফিকেট ইম্পোর্ট করুন"
 
 #. Applications:
 #. Context: Import a ssh key from the system
 msgid "Import Key Pair"
-msgstr ""
+msgstr "কী পেয়ার ইম্পোর্ট করুন"
 
 #. Applications:
 #. Context: Incoming Traffic
 msgid "Ingress"
-msgstr ""
+msgstr "Ingress"
 
 #. Applications:
 #. Context: File content injected in bytes
 msgid "Injected File Content Bytes"
-msgstr ""
+msgstr "ইনজেক্ট করা ফাইলে বাইট আছে"
 
 #. Applications:
 #. Context: files which are injected
 msgid "Injected Files"
-msgstr ""
+msgstr "ইনজেক্ট করা ফাইল"
 
 #. Applications:
 #. Context: Installation
 msgid "Installation"
-msgstr ""
+msgstr "ইনস্টলেশন"
 
 #. Applications:
 #. Context: Package ie is installed
 msgid "Installed Package"
-msgstr ""
+msgstr "ইন্সটল করা প্যাকেজ"
 
 #. Applications:
 #. Context: Resource for instance boot i.e. path from where instance is going
 #. to boot up
 msgid "Instance Boot resource"
-msgstr ""
+msgstr "দৃষ্টান্ত বুট রিসোর্স"
 
 #. Applications:
 #. Context: count of instance being created or created
 msgid "Instance Count"
-msgstr ""
+msgstr "দৃষ্টান্ত গণনা"
 
 #. Applications:
 #. Context: name of the instance
 msgid "Instance Name"
-msgstr ""
+msgstr "দৃষ্টান্তের নাম"
 
 #. Applications:
 #. Context: virtual machine running on cloud
 msgid "Instances"
-msgstr ""
+msgstr "দৃষ্টান্তসমূহ"
 
 #. Applications:
 #. Context: Internet
 msgid "Internet"
-msgstr ""
+msgstr "ইন্টারনেট"
 
 #. Applications:
 #. Context: Invalid
 msgid "Invalid"
-msgstr ""
+msgstr "অবৈধ"
 
 #. Applications:
 #. Context: IP Address
 msgid "IP Address"
-msgstr ""
+msgstr "IP ঠিকানা"
 
 #. Applications:
 #. Context: IP Protocol
 msgid "IP Protocol"
-msgstr ""
+msgstr "IP প্রোটোকল"
 
 #. Applications:
 #. Context: version of the IP /IPv4 or IPv6
 msgid "IP Version"
-msgstr ""
+msgstr "IP সংস্করণ"
 
 #. Applications:
 #. Context: Isolated Network
 msgid "Isolated Network"
-msgstr ""
+msgstr "ভিন্ন নেটওয়ার্ক"
 
 #. Applications:
 #. Context: Items Per Page
 msgid "Items Per Page"
-msgstr ""
+msgstr "প্রত্যেক পাতার আইটেম"
 
 #. Applications:
 #. Context: Kernel ID
 msgid "Kernel ID"
-msgstr ""
+msgstr "কার্নেল ID"
 
 #. Applications:
 #. Context: Name of Key Pairs
 msgid "Key Pair Name"
-msgstr ""
+msgstr "কী জোড়ার নাম"
 
 #. Applications:
 #. Context: Key pairs are ssh credentials which are injected into images when
 #. they are launched.
 msgid "Key Pairs"
-msgstr ""
+msgstr "কী জোড়াসমূহ"
 
 #. Applications:
 #. Context: Interface Language
 msgid "Language"
-msgstr ""
+msgstr "ভাষা"
 
 #. Applications:
 #. Context: To launch an item
 msgid "Launch"
-msgstr ""
+msgstr "আরম্ভ"
 
 #. Applications:
 #. Context: To launch an instance
 msgid "Launch Instances"
-msgstr ""
+msgstr "দৃষ্টান্ত আরম্ভ"
 
 #. Applications:
 #. Context: License Agreement
 msgid "License Agreement"
-msgstr ""
+msgstr "লাইসেন্স চুক্তি"
 
 #. Applications:
 #. Context: Device(software) used to distribute workloads
 msgid "Load Balancer"
-msgstr ""
+msgstr "ব্যালেন্সার লোড"
 
 #. Applications:
 #. Context: Logged in as <user type: admin/user>
 msgid "Logged in as:"
-msgstr ""
+msgstr "লগ ইন হয়েছে:"
 
 #. Applications:
 #. Context: login
 msgid "login"
-msgstr ""
+msgstr "লগইন"
 
 #. Applications:
 #. Context: To manage networks
