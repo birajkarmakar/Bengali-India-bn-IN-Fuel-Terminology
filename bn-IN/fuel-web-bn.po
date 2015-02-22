@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-05-15 16:29+0530\n"
-"PO-Revision-Date: 2015-02-22 00:47:41\n"
+"PO-Revision-Date: 2015-02-22 01:59:51\n"
 "Last-Translator: Sayantan Saha <sayantanmozillian@gmail.com>\n"
 "Language-Team: none\n"
 "Language: bn-IN\n"
@@ -471,7 +471,7 @@ msgstr "সংযোগ"
 #. Applications: Social Network
 #. Context: Information to Contact
 msgid "Contact Information"
-msgstr ""
+msgstr "যোগাযোগ সংক্রান্ত তথ্য"
 
 #. Applications: Websites
 #. Context: Action to contact Sales department
@@ -486,19 +486,19 @@ msgstr ""
 #. Applications: Websites
 #. Context: Action to contact the owner of the website
 msgid "Contact Us"
-msgstr ""
+msgstr "আমাদের সাথে যোগাযোগ করুন"
 
 #. Applications: Blog
 #. Context: The text, images, and other information on a web site.
 msgid "Content"
-msgstr ""
+msgstr "বিষয়বস্তু"
 
 #. Applications: Blog
 #. Context: Content Management System. In the context of a Web site. a
 #. collection of tools designed to allow the creation, modification,
 #. organization and removal of information.
 msgid "Content Management System"
-msgstr ""
+msgstr "বিষয়বস্তুর ব্যবস্থাপনা সিস্টেম"
 
 #. Applications: Websites
 #. Context: Section where owner, updater, and maintainers name comes
@@ -508,36 +508,36 @@ msgstr ""
 #. Applications: CMS
 #. Context: Types of Content
 msgid "Content Types"
-msgstr ""
+msgstr "বিষয়বস্তু প্রকার"
 
 #. Applications: Wiki
 #. Context: Index of Content
 msgid "Contents"
-msgstr ""
+msgstr "বিষয়বস্তু"
 
 #. Applications: Wiki
 #. Context: One who contributes
 msgid "Contributors"
-msgstr ""
+msgstr "অবদানকারী"
 
 #. Applications: CMS
 #. Context: A control panel, in web hosting, is a web-based interface provided
 #. by the hosting company that allows customers to manage their various hosted
 #. services in a single place.
 msgid "Control Panel"
-msgstr ""
+msgstr "কন্ট্রোল প্যানেল"
 
 #. Applications: Websites
 #. Context: Menu where copyright information is being given. Copyright is a
 #. legal concept, enacted by most governments, giving the creator of an
 #. original work exclusive rights to it, usually for a limited time.
 msgid "Copyrights"
-msgstr ""
+msgstr "কপিরাইট"
 
 #. Applications: Websites
 #. Context: Profile of the Corporate
 msgid "Corporate Profile"
-msgstr ""
+msgstr "কর্পোরেট প্রোফাইল"
 
 #. Applications: Websites
 #. Context: A menu item where Corporate Social Responsibility information is
@@ -614,12 +614,12 @@ msgstr ""
 #. Context: The Dashboard is a tool to quickly access the most used areas of
 #. blog or cms' Administration and to provide glimpses into other areas
 msgid "Dashboard"
-msgstr ""
+msgstr "ড্যাশবোর্ড"
 
 #. Applications: Blog
 #. Context: Database
 msgid "Database"
-msgstr ""
+msgstr "ডাটাবেস"
 
 #. Applications: Blog
 #. Context: Date for posting the blog
@@ -660,17 +660,17 @@ msgstr ""
 #. Applications: Social Network
 #. Context: Developers
 msgid "Developers"
-msgstr ""
+msgstr "ডেভেলপারসমূহ"
 
 #. Applications: Wiki
 #. Context: Did You Know...
 msgid "Did You Know..."
-msgstr ""
+msgstr "আপনি কি জানেন..."
 
 #. Applications: Websites
 #. Context: Contact related information at one place is called a directory
 msgid "Directory"
-msgstr ""
+msgstr "ডাইরেক্টরি"
 
 #. Applications: CMS
 #. Context: Themes that disabled
@@ -697,12 +697,12 @@ msgstr ""
 #. Applications: Wiki
 #. Context: A menu on wiki where discussion of users are present on a topic
 msgid "Discussion"
-msgstr ""
+msgstr "আলোচনা"
 
 #. Applications: Blog
 #. Context: Settings of discussion section
 msgid "Discussion Settings"
-msgstr ""
+msgstr "আলোচনা সেটিংস্‌"
 
 #. Applications: Wiki
 #. Context: action to download as PDF
@@ -712,12 +712,12 @@ msgstr "PDF ডাউনলোড করুন"
 #. Applications: Websites
 #. Context: Action to download font
 msgid "Download Font"
-msgstr ""
+msgstr "ফন্ট ডাউনলোড করুন"
 
 #. Applications: Websites
 #. Context: Section where downloads from a site is located
 msgid "Downloads"
-msgstr ""
+msgstr "ডাউনলোড"
 
 #. Applications: Wiki
 #. Context: Action to email new password
@@ -727,12 +727,12 @@ msgstr ""
 #. Applications: Wiki
 #. Context: The most early
 msgid "Earliest"
-msgstr ""
+msgstr "শীঘ্রই"
 
 #. Applications: Wiki
 #. Context: Action to edit
 msgid "Edit"
-msgstr ""
+msgstr "সম্পাদনা"
 
 #. Applications: Social Network
 #. Context: Action to edit friends
@@ -747,7 +747,7 @@ msgstr ""
 #. Applications: Wiki
 #. Context: Action to edit summary
 msgid "Edit Summary"
-msgstr ""
+msgstr "সারসংক্ষেপ এডিট করুন"
 
 #. Applications: Social Network
 #. Context: Action to edit thumbnail
@@ -762,12 +762,12 @@ msgstr ""
 #. Applications: Blog
 #. Context: It is here as a role of an editor
 msgid "Editor"
-msgstr ""
+msgstr "এডিটর"
 
 #. Applications: Social Network
 #. Context: Place to fill the details related to education and work
 msgid "Education and Work"
-msgstr ""
+msgstr "শিক্ষা ও কর্ম"
 
 #. Applications: Social Network
 #. Context: Place where user will fill their Email ID
@@ -777,7 +777,7 @@ msgstr "ইমেইল"
 #. Applications: Websites
 #. Context: Directory of Email
 msgid "Email Directory"
-msgstr ""
+msgstr "ইমেইল ডাইরেক্টরি"
 
 #. Applications: Social Network
 #. Context: Only Email
@@ -787,12 +787,12 @@ msgstr "শুধু ইমেইল"
 #. Applications: CMS
 #. Context: Action to enable and set default
 msgid "Enable and Set Default"
-msgstr ""
+msgstr "সক্রিয় করুন ও ডিফল্ট হিসেবে সেট করুন"
 
 #. Applications: CMS
 #. Context: Themes that are enabled
 msgid "Enabled Themes"
-msgstr ""
+msgstr "থিম সক্রিয় করুন"
 
 #. Applications: Websites
 #. Context: Action to enter a keyword
@@ -808,33 +808,33 @@ msgstr ""
 #. Context: Section where events that are being organized is listed on a
 #. social network site
 msgid "Events"
-msgstr ""
+msgstr "ইভেন্টসমূহ"
 
 #. Applications: Social Network
 #. Context: All the persons
 msgid "Everyone"
-msgstr ""
+msgstr "সবাই"
 
 #. Applications: CMS
 #. Context: Extensions is an alternative method of plug-able object creation
 msgid "Extension"
-msgstr ""
+msgstr "এক্সটেনশন"
 
 #. Applications: CMS
 #. Context: One who manages Extensions
 msgid "Extension Manager"
-msgstr ""
+msgstr "এক্সটেনশন ম্যানেজার"
 
 #. Applications: Wiki
 #. Context: Links present on articles or content of an web page may include
 #. links to web pages outside of the website, called external links
 msgid "External Links"
-msgstr ""
+msgstr "বহিরভূত লিঙ্ক"
 
 #. Applications: Websites
 #. Context: Section to show facilities related information
 msgid "Facilities"
-msgstr ""
+msgstr "সুবিধাসমূহ"
 
 #. Applications: Websites
 #. Context: Abbreviation of frequently asked questions
@@ -844,7 +844,7 @@ msgstr "FAQs"
 #. Applications: Websites
 #. Context: Place to show fax number information
 msgid "Fax"
-msgstr ""
+msgstr "ফ্যাক্স"
 
 #. Applications: CMS
 #. Context: It shows the content that is featured
@@ -870,29 +870,29 @@ msgstr ""
 #. Applications: Websites
 #. Context: Section that has information where to send feedback
 msgid "Feedback"
-msgstr ""
+msgstr "মতামত"
 
 #. Applications: CMS
 #. Context: List of all the fields currently in use in a website
 msgid "Field List"
-msgstr ""
+msgstr "ফীল্ড তালিকা"
 
 #. Applications: Blog
 #. Context: Filters are the hooks that a blog site launches to modify text of
 #. various types before adding it to the database or sending it to the browser
 #. screen
 msgid "Filter"
-msgstr ""
+msgstr "ফিল্টার"
 
 #. Applications: CMS
 #. Context: Action to find content
 msgid "Find Content"
-msgstr ""
+msgstr "বিষয়বস্তু খুঁজুন"
 
 #. Applications: Social Network
 #. Context: Action to find friend
 msgid "Find Friends"
-msgstr ""
+msgstr "বন্ধু খুঁজুন"
 
 #. Applications: Websites
 #. Context: Action to find people
@@ -1113,87 +1113,87 @@ msgstr "আইপি নীতি"
 #. Applications: Websites
 #. Context: Policy related to IT
 msgid "IT Policy"
-msgstr ""
+msgstr "আইটী নীতি"
 
 #. Applications: Websites
 #. Context: Career page
 msgid "Jobs@"
-msgstr ""
+msgstr "কাজ @"
 
 #. Applications: CMS
 #. Context: One who manages language
 msgid "Language Manager"
-msgstr ""
+msgstr "ভাষা ম্যানেজার"
 
 #. Applications: Social Network
 #. Context: Languages in which a website is available
 msgid "Languages"
-msgstr ""
+msgstr "ভাষা সমগ্র"
 
 #. Applications: CMS
 #. Context: Time on which site is last accessed
 msgid "Last Access"
-msgstr ""
+msgstr "শেষএক্সেস"
 
 #. Applications: Websites
 #. Context: Time on which site was last updated
 msgid "Last Updated"
-msgstr ""
+msgstr "সর্বশেষ আপডেট"
 
 #. Applications: Websites
 #. Context: Date on which site was last updated
 msgid "Last Updated Date"
-msgstr ""
+msgstr "সর্বশেষ আপডেটের তারিখ"
 
 #. Applications: Wiki
 #. Context: Most recent
 msgid "Latest"
-msgstr ""
+msgstr "সাম্প্রতিক"
 
 #. Applications: Websites
 #. Context: Most recent updates
 msgid "Latest Updates"
-msgstr ""
+msgstr "সাম্প্রতিক আপডেট"
 
 #. Applications: Websites
 #. Context: Legal Notices
 msgid "Legal Notices"
-msgstr ""
+msgstr "আইনি নোটিশ"
 
 #. Applications: Social Network
 #. Context: A button to show one's appreciation for a post
 msgid "Like"
-msgstr ""
+msgstr "যেমন"
 
 #. Applications: Social Network
 #. Context: A button to ask one's appreciation for a post
 msgid "Like This"
-msgstr ""
+msgstr "এই মত"
 
 #. Applications: Social Network
 #. Context: A place where one can add link and post it on networking site
 msgid "Link"
-msgstr ""
+msgstr "লিঙ্ক"
 
 #. Applications: Blog
 #. Context: Categories of link
 msgid "Link Categories"
-msgstr ""
+msgstr "লিঙ্ক শ্রেণী"
 
 #. Applications: Social Network
 #. Context: Accounts that are linked
 msgid "Linked Accounts"
-msgstr ""
+msgstr "লিঙ্ক অ্যাকাউন্ট"
 
 #. Applications: Blog
 #. Context: A place on blog where users put their favorite links
 msgid "Links"
-msgstr ""
+msgstr "সংযোগগুলি"
 
 #. Applications: Websites
 #. Context: Live Chat
 msgid "Live Chat"
-msgstr ""
+msgstr "লাইভ চ্যাট"
 
 #. Applications: Websites
 #. Context: Learning management system
@@ -1203,216 +1203,216 @@ msgstr "LMS"
 #. Applications: Websites
 #. Context: Defines a location of the place or an object
 msgid "Location"
-msgstr ""
+msgstr "অবস্থান"
 
 #. Applications: Social Network
 #. Context: login or logon refers to the credentials required to obtain access
 #. to an website or other restricted area
 msgid "Log In"
-msgstr ""
+msgstr "লগ ইন করুন"
 
 #. Applications: Websites
 #. Context: Logging a user globally to all area
 msgid "Log me In Globally"
-msgstr ""
+msgstr "বিশ্বব্যাপী আমায় লগ ইন করুন"
 
 #. Applications: CMS
 #. Context: A logo is a graphic mark or emblem commonly used by commercial
 #. enterprises, organizations and even individuals to aid and promote instant
 #. public recognition.
 msgid "Logo"
-msgstr ""
+msgstr "প্রতীক"
 
 #. Applications: CMS
 #. Context: Settings of logo image in CMS
 msgid "Logo Image Settings"
-msgstr ""
+msgstr "লোগো ইমেজ বৈশিষ্ট্য"
 
 #. Applications: Social Network
 #. Context: Log out is to close off one's access to a computer system after
 #. having previously logged in.
 msgid "Log Out"
-msgstr ""
+msgstr "লগ আউট"
 
 #. Applications: Websites
 #. Context: Help link when one user forgets access information of a website
 msgid "Lost Password"
-msgstr ""
+msgstr "হারানো পাসওয়ার্ড"
 
 #. Applications: CMS
 #. Context: The Main menu's links drive the main navigation structure for your
 #. site, and are often displayed prominently across the top or side of the
 #. site
 msgid "Main Menu"
-msgstr ""
+msgstr "প্রধান মেনু"
 
 #. Applications: Wiki
 #. Context: The first page
 msgid "Main Page"
-msgstr ""
+msgstr "প্রধান পাতা"
 
 #. Applications: Social Network
 #. Context: Action to manage
 msgid "Manage"
-msgstr ""
+msgstr "পরিচালনা"
 
 #. Applications: Websites
 #. Context: A menu where Mandatory Disclosures related information is present
 #. on the site
 msgid "Mandatory Disclosures"
-msgstr ""
+msgstr "বাধ্যতামূলক প্রকাশ"
 
 #. Applications: Websites
 #. Context: A section where map and location of contact place is given
 msgid "Map and Location"
-msgstr ""
+msgstr "মানচিত্র ও অবস্থান"
 
 #. Applications: Blog
 #. Context: A section from where to select which media is going to be inserted
 #. in the blog or website
 msgid "Media"
-msgstr ""
+msgstr "মাধ্যম"
 
 #. Applications: CMS
 #. Context: Media Manager
 msgid "Media Manager"
-msgstr ""
+msgstr "মিডিয়া ব্যবস্থাপক"
 
 #. Applications: Blog
 #. Context: Membership of blog
 msgid "Membership"
-msgstr ""
+msgstr "সদস্যপদ"
 
 #. Applications: Social Network
 #. Context: Place in social network where a person selects his/her choice
 #. whether s/he is interested in Men/Women
 msgid "Men"
-msgstr ""
+msgstr "পুরুষদের"
 
 #. Applications: CMS
 #. Context: A small module that enables the population of the menu link title
 msgid "Menu Link Title"
-msgstr ""
+msgstr "মেনু লিঙ্ক শিরোনাম"
 
 #. Applications: CMS
 #. Context: One who manages Menu
 msgid "Menu Manager"
-msgstr ""
+msgstr "মেনু ব্যবস্থাপক"
 
 #. Applications: CMS
 #. Context: Settings of Menu
 msgid "Menu Settings"
-msgstr ""
+msgstr "মেনু সেটিংস"
 
 #. Applications: CMS
 #. Context: Menus are a collection of links (menu items) used to navigate a
 #. website.
 msgid "Menus"
-msgstr ""
+msgstr "মেনু সমূহ"
 
 #. Applications: Social Network
 #. Context: A section on social networking site where users' messages are
 #. located
 msgid "Messages"
-msgstr ""
+msgstr "বার্তাগুলি"
 
 #. Applications: Social Network
 #. Context: A section on social networking site where users' put their mobile
 #. number
 msgid "Mobile"
-msgstr ""
+msgstr "মোবাইল"
 
 #. Applications: CMS
 #. Context: One who manages the module
 msgid "Module Manager"
-msgstr ""
+msgstr "মডিউল ম্যানেজার"
 
 #. Applications: CMS
 #. Context: Modules are boxes that can be moved around on the screen, closed
 #. to save space, or hidden completely.
 msgid "Modules"
-msgstr ""
+msgstr "মডিউলগুলি"
 
 #. Applications: Websites
 #. Context: Generally put as a link by clicking on the same user will get more
 #. information
 msgid "More"
-msgstr ""
+msgstr "আরো"
 
 #. Applications: Social Network
 #. Context: Latest
 msgid "Most Recent"
-msgstr ""
+msgstr "সাম্প্রতিকতম"
 
 #. Applications: Blog
 #. Context: action to move to trash
 msgid "Move to Trash"
-msgstr ""
+msgstr "ট্র্যাশে সরান"
 
 #. Applications: Social Network
 #. Context: Common Friends
 msgid "Mutual Friends"
-msgstr ""
+msgstr "পারস্পরিক বন্ধু"
 
 #. Applications: CMS
 #. Context: Own Account
 msgid "My Account"
-msgstr ""
+msgstr "আমার অ্যাকাউন্ট"
 
 #. Applications: Social Network
 #. Context: A section where a user puts his/her name
 msgid "Name"
-msgstr ""
+msgstr "নাম"
 
 #. Applications: Wiki
 #. Context: Newer
 msgid "Newer"
-msgstr ""
+msgstr "নতুন তর"
 
 #. Applications: CMS
 #. Context: News Feed
 msgid "News Feed"
-msgstr ""
+msgstr "খবর ফিড"
 
 #. Applications: Websites
 #. Context: Move forward
 msgid "Next"
-msgstr ""
+msgstr "পরবর্তী"
 
 #. Applications: CMS
 #. Context: No file is chosen
 msgid "No File Chosen"
-msgstr ""
+msgstr "কোন ফাইল বাছাই করা হয়নি"
 
 #. Applications: Social Network
 #. Context: Notes
 msgid "Notes"
-msgstr ""
+msgstr "নোট গুলি"
 
 #. Applications: Websites
 #. Context: Section where notices are being put
 msgid "Notice Board"
-msgstr ""
+msgstr "নোটিশ বোর্ড"
 
 #. Applications: Social Network
 #. Context: Notification
 msgid "Notification"
-msgstr ""
+msgstr "বিজ্ঞপ্তি"
 
 #. Applications: Wiki
 #. Context: Count of watchers
 msgid "Number of Watchers"
-msgstr ""
+msgstr "দর্শন সংখ্যা"
 
 #. Applications: Websites
 #. Context: Aims
 msgid "Objectives"
-msgstr ""
+msgstr "উদ্দেশ্যগুলি"
 
 #. Applications: Wiki
 #. Context: Older
 msgid "Older"
-msgstr ""
+msgstr "পুরোনো"
 
 #. Applications: Social Network
 #. Context: Posts that are older
@@ -2236,30 +2236,30 @@ msgstr "দল"
 #. Applications: Websites
 #. Context: Technology and Hosting Services Provided by
 msgid "Technology and Hosting Services Provided by"
-msgstr ""
+msgstr "প্রযুক্তি এবং হোস্টিং পরিষেবা প্রদানকারী"
 
 #. Applications: Websites
 #. Context: Telephone Directory
 msgid "Telephone Directory"
-msgstr ""
+msgstr "টেলিফোন ডাইরেক্টরি"
 
 #. Applications: Blog
 #. Context: Hierarchy of Template
 msgid "Template Hierarchy"
-msgstr ""
+msgstr "টেম্পলেট hierarchy"
 
 #. Applications: Blog
 #. Context: A template tag is code that instructs blog tools to "do" or "get"
 #. something. In the case of the header.php template tag for your WordPress
 #. site's name, it looks like this:
 msgid "Template Tags"
-msgstr ""
+msgstr "টেম্পলেট ট্যাগগুলি"
 
 #. Applications: Blog
 #. Context: Templates are the files which control how your site will be
 #. displayed on the Web.
 msgid "Templates"
-msgstr ""
+msgstr "টেমপ্লেটগুলি"
 
 #. Applications: Websites
 #. Context: Tenders
