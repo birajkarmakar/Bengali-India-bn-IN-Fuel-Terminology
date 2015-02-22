@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-05-15 16:29+0530\n"
-"PO-Revision-Date: 2015-02-21 22:59:09\n"
+"PO-Revision-Date: 2015-02-21 23:58:18\n"
 "Last-Translator: Jockr <rcmainak24@gmail.com>\n"
 "Language-Team: none\n"
 "Language: bn-IN\n"
@@ -82,12 +82,12 @@ msgstr "কার্যক্রম এবং আগ্রহ"
 #. Applications: Social Network
 #. Context: Action for adding a badge
 msgid "Add a Badge to Your Site"
-msgstr ""
+msgstr "আপনার সাইটে ব্যাজ যোগ করুন"
 
 #. Applications: Social Network
 #. Context: Action to add as a friend
 msgid "Add as Friend"
-msgstr "বন্ধু যোগ করুন"
+msgstr "বন্ধু হিসেবে যোগ করুন"
 
 #. Applications: Blog
 #. Context: Action to add new post
@@ -103,60 +103,60 @@ msgstr "বিভাগ যোগ করুন"
 #. Applications: CMS
 #. Context: Action to add new comment
 msgid "Add New Comment"
-msgstr ""
+msgstr "মতামত প্রকাশ করুন"
 
 #. Applications: CMS
 #. Context: Action to add U
 msgid "Add User"
-msgstr ""
+msgstr "ব্যবহারকারী যোগ করুন"
 
 #. Applications: Blog
 #. Context: Administration
 msgid "Administration"
-msgstr ""
+msgstr "প্রশাসনিক কর্ম"
 
 #. Applications: Blog, website
 #. Context: Theme of Administration
 msgid "Administration Theme"
-msgstr ""
+msgstr "প্রশাসনিক থিম"
 
 #. Applications: Social Network
 #. Context: Advertisements and Pages of a company or organization on a social
 #. network site
 msgid "Ads and Pages"
-msgstr ""
+msgstr "বিজ্ঞাপন এবং পেজ"
 
 #. Applications: Wiki
 #. Context: Technically Advanced
 msgid "Advanced"
-msgstr ""
+msgstr "উন্নত"
 
 #. Applications: Websites
 #. Context: A menu of website where information related to advertisement rates
 #. etc are being put to attract probable client who can put advertisement on
 #. the website
 msgid "Advertise with Us"
-msgstr ""
+msgstr "আমাদের সাথে বিজ্ঞাপন দিন"
 
 #. Applications: Social Network
 #. Context: promotion and publicity
 msgid "Advertising"
-msgstr ""
+msgstr "বিজ্ঞাপন"
 
 #. Applications: Blog
 #. Context: All posts
 msgid "All"
-msgstr ""
+msgstr "সব"
 
 #. Applications: Websites
 #. Context: All the articles
 msgid "All Articles"
-msgstr ""
+msgstr "সকল প্রবন্ধ"
 
 #. Applications: Social Network
 #. Context: All the results
 msgid "All Results"
-msgstr ""
+msgstr "সকল ফলাফল"
 
 #. Applications: Websites
 #. Context: All rights reserved is a phrase that originated in copyright law
@@ -167,127 +167,127 @@ msgstr ""
 #. have not waived any such right. Copyright law in most countries no longer
 #. requires such notices, but the phrase persists
 msgid "All Rights Reserved"
-msgstr ""
+msgstr "সর্বস্বত্ব সংরক্ষিত"
 
 #. Applications: Websites
 #. Context: A section on website particularly on a website of educational
 #. institutions
 msgid "Alumni"
-msgstr ""
+msgstr "প্রাক্তনী"
 
 #. Applications: Websites
 #. Context: This section has recent announcements related to organizations or
 #. company
 msgid "Announcements"
-msgstr ""
+msgstr "ঘোষনা"
 
 #. Applications: Websites
 #. Context: This section has content of Annual Reports
 msgid "Annual Reports"
-msgstr ""
+msgstr "বার্ষিক ফলাফল"
 
 #. Applications: Blog
 #. Context: The Appearance Menus Screen enables a user to create custom
 #. navigation menu in place of a theme's default menu
 msgid "Appearance"
-msgstr ""
+msgstr "চেহারা"
 
 #. Applications: Blog
 #. Context: To apply
 msgid "Apply"
-msgstr ""
+msgstr "প্রয়োগ করুন"
 
 #. Applications: Social Network
 #. Context: Applications
 msgid "Apps"
-msgstr ""
+msgstr "আপ্পস"
 
 #. Applications: Social Network
 #. Context: Messages that are archived
 msgid "Archived Messages"
-msgstr ""
+msgstr "আর্কাইভ হওয়া বার্তা"
 
 #. Applications: Blog
 #. Context: This plugin creates an Archives Page for one's site
 msgid "Archives"
-msgstr ""
+msgstr "আর্কাইভ"
 
 #. Applications: Blog
 #. Context: Shows results of archives by category
 msgid "Archives (by Category)"
-msgstr ""
+msgstr "আর্কাইভ (বিভাগানুজায়ী)"
 
 #. Applications: Blog
 #. Context: Shows results of archives by tag
 msgid "Archives (by Tag)"
-msgstr ""
+msgstr "আর্কাইভ (ট্যাগানুজায়ী)"
 
 #. Applications: CMS
 #. Context: Action to add articles that are used for time-sensitive content
 #. like news, press releases or blog posts.
 msgid "Article manager"
-msgstr ""
+msgstr "প্রবন্ধ ম্যানেজার"
 
 #. Applications: Websites
 #. Context: Gallery of audio and video content
 msgid "Audio - Visual Gallery"
-msgstr ""
+msgstr "অডিও - ভিডিও গ্যালারি"
 
 #. Applications: Blog
 #. Context: A role on blog site
 msgid "Author"
-msgstr ""
+msgstr "লেখক"
 
 #. Applications: CMS
 #. Context: Authored by
 msgid "Authored by"
-msgstr ""
+msgstr "রচয়িতা"
 
 #. Applications: CMS
 #. Context: Authored on
 msgid "Authored on"
-msgstr ""
+msgstr "রচনাকাল"
 
 #. Applications: CMS
 #. Context: Information related to Authoring
 msgid "Authoring Information"
-msgstr ""
+msgstr "রচনাকারী বিবরন"
 
 #. Applications: Blog
 #. Context: Themes that are available
 msgid "Available Themes"
-msgstr ""
+msgstr "উপলব্ধ থিম"
 
 #. Applications: CMS
 #. Context: Updates that are available
 msgid "Available Updates"
-msgstr ""
+msgstr "উপলব্ধ আপডেট"
 
 #. Applications: Websites
 #. Context: section where a organization mentions its awards and accolades
 msgid "Awards & Accolades"
-msgstr ""
+msgstr "পুরস্কার এবং প্রশংসা"
 
 #. Applications: Websites
 #. Context: section where a organization mentions its awards and honors
 msgid "Awards and Honors"
-msgstr ""
+msgstr "পুরস্কার এবং সম্মান"
 
 #. Applications: Websites
 #. Context: Background of an website
 msgid "Background"
-msgstr ""
+msgstr "পটভূমি"
 
 #. Applications: Social Network
 #. Context: Basic Information related to an user
 msgid "Basic Information"
-msgstr ""
+msgstr "প্রাথমিক তথ্য"
 
 #. Applications: Websites
 #. Context: Benefits and Compensations is generally related to career or work
 #. page
 msgid "Benefits and Compensations"
-msgstr ""
+msgstr "উপকারিতা এবং ক্ষতিপূরণ"
 
 #. Applications: Websites
 #. Context: Guidelines related to resolution, on which a website looks best

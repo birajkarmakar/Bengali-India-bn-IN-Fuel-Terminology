@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-12-23 16:29+0530\n"
-"PO-Revision-Date: 2015-02-21 22:59:48\n"
+"PO-Revision-Date: 2015-02-22 00:00:01\n"
 "Last-Translator: Ayan Choudhury <ping2ayan@gmail.com>\n"
 "Language-Team: none\n"
 "Language: bn-IN\n"
@@ -366,32 +366,32 @@ msgstr "নিয়ম মুছে দিন"
 #. Applications:
 #. Context: To delete a security group
 msgid "Delete Security Groups"
-msgstr ""
+msgstr "নিরাপত্তা দল বাতিল করুন"
 
 #. Applications:
 #. Context: To delete user
 msgid "Delete User"
-msgstr ""
+msgstr "ব্যবহারকারী বাতিল করুন"
 
 #. Applications:
 #. Context: Installing a cloud service for production use
 msgid "Deployment"
-msgstr ""
+msgstr "বিস্তৃতি"
 
 #. Applications:
 #. Context: Description (of the cloud image)
 msgid "Description"
-msgstr ""
+msgstr "বর্ণনা"
 
 #. Applications:
 #. Context: Detail
 msgid "Detail"
-msgstr ""
+msgstr "বিস্তারিত"
 
 #. Applications:
 #. Context: To dissociate floating ip
 msgid "Diassociate Floating IP"
-msgstr ""
+msgstr "ডিঅ্যাসোসিয়েট ফ্লোটিং IP"
 
 #. Applications:
 #. Context: Flow of network traffic
@@ -637,27 +637,27 @@ msgstr ""
 #. Applications:
 #. Context: Usage of global network
 msgid "Global Network Usage"
-msgstr ""
+msgstr "গ্লোবাল নেটওয়ার্ক ব্যবহার"
 
 #. Applications:
 #. Context: usage of global object store
 msgid "Global Object Store Usage"
-msgstr ""
+msgstr "গ্লোবাল বস্তু স্টোর ব্যবহার"
 
 #. Applications:
 #. Context: Sort by...
 msgid "Group by"
-msgstr ""
+msgstr "দল দ্বারা"
 
 #. Applications:
 #. Context: any type of group eg security etc
 msgid "Groups"
-msgstr ""
+msgstr "দলসমূহ"
 
 #. Applications:
 #. Context: Guest Network
 msgid "Guest Network"
-msgstr ""
+msgstr "গেস্ট নেটওয়ার্ক"
 
 #. Applications:
 #. Context: Rebooting an instance forcibly by pressing button
@@ -890,198 +890,198 @@ msgstr ""
 #. Applications:
 #. Context: To manage networks
 msgid "Manage Networks"
-msgstr ""
+msgstr "নেটওয়ার্ক পরিচালনা করুন"
 
 #. Applications:
 #. Context: To Manage Security Groups Rule
 msgid "Manage Security Groups Rule"
-msgstr ""
+msgstr "নিরাপত্তা দলের নিয়ম পরিচালনা করুন"
 
 #. Applications:
 #. Context: Association between project and service
 msgid "Membership"
-msgstr ""
+msgstr "সদস্যতা"
 
 #. Applications:
 #. Context: List of Membership
 msgid "Membership List"
-msgstr ""
+msgstr "সদস্যতার তালিকা"
 
 #. Applications:
 #. Context: Usage of memory
 msgid "Memory Usage"
-msgstr ""
+msgstr "মেমোরির ব্যবহার"
 
 #. Applications:
 #. Context: Additional attribute of items
 msgid "Metadata Items"
-msgstr ""
+msgstr "মেটাডাটা আইটেম"
 
 #. Applications:
 #. Context: Metrics
 msgid "Metrics"
-msgstr ""
+msgstr "মেট্রিক্স"
 
 #. Applications:
 #. Context: To migrate instance
 msgid "Migrate Instance"
-msgstr ""
+msgstr "দৃষ্টান্ত অভিপ্রয়াণ করুন"
 
 #. Applications:
 #. Context: Minimum Disc size required to boot the image
 msgid "Minimum Disk"
-msgstr ""
+msgstr "নূন্যতম ডিস্ক"
 
 #. Applications:
 #. Context: Minimum memory size required to boot the image
 msgid "Minimum RAM"
-msgstr ""
+msgstr "নূন্যতম RAM"
 
 #. Applications:
 #. Context: To modify access
 msgid "Modify Access"
-msgstr ""
+msgstr "অ্যাক্সেস পরিবর্তন করুন"
 
 #. Applications:
 #. Context: To modify groups
 msgid "Modify Groups"
-msgstr ""
+msgstr "দল পরিবর্তন করুন"
 
 #. Applications:
 #. Context: To modify quota
 msgid "Modify Quotas"
-msgstr ""
+msgstr "কোটাসমূহ পরিবর্তন করুন"
 
 #. Applications:
 #. Context: Name (of the cloud image)
 msgid "Name"
-msgstr ""
+msgstr "নাম"
 
 #. Applications:
 #. Context: Netmask
 msgid "Netmask"
-msgstr ""
+msgstr "নেটমাস্ক"
 
 #. Applications:
 #. Context: Address of network
 msgid "Network Address"
-msgstr ""
+msgstr "নেটওয়ার্ক অ্যাড্রেস"
 
 #. Applications:
 #. Context: No of requests of network creation
 msgid "Network Creation Requests"
-msgstr ""
+msgstr "নেটওয়ার্ক তৈরির আবেদন"
 
 #. Applications:
 #. Context: Duration of the Network
 msgid "Network Duration"
-msgstr ""
+msgstr "নেটওয়ার্কের সময়কাল"
 
 #. Applications:
 #. Context: incoming traffic on a VM interface in bytes
 msgid "Network Incoming Bytes"
-msgstr ""
+msgstr "নেটওয়ার্কে আগত বাইট"
 
 #. Applications:
 #. Context: incoming packets on a VM interface
 msgid "Network Incoming Packets"
-msgstr ""
+msgstr "নেটওয়ার্কে আগত প্যাকেটসমূহ"
 
 #. Applications:
 #. Context: name of network
 msgid "Network Name"
-msgstr ""
+msgstr "নেটওয়ার্কের নাম"
 
 #. Applications:
 #. Context: outgoing traffic on a VM interface in bytes
 msgid "Network outgoing Bytes"
-msgstr ""
+msgstr "নেটওয়ার্ক বহির্গত বাইটসমূহ"
 
 #. Applications:
 #. Context: outgoing packets on a VM interface
 msgid "Network Outgoing Packets"
-msgstr ""
+msgstr "নেটওয়ার্ক বহির্গত প্যাকেটসমূহ"
 
 #. Applications:
 #. Context: Arrangement of nodes in the network
 msgid "Network Topology"
-msgstr ""
+msgstr "নেটওয়ার্ক টপোলজি"
 
 #. Applications:
 #. Context: Default networking
 msgid "Networking Default"
-msgstr ""
+msgstr "নেটওয়ার্ক ডিফল্ট"
 
 #. Applications:
 #. Context: Networks
 msgid "Networks"
-msgstr ""
+msgstr "নেটওয়ার্ক"
 
 #. Applications:
 #. Context: To move ahead
 msgid "Next"
-msgstr ""
+msgstr "পরবর্তী"
 
 #. Applications:
 #. Context: No file is selected
 msgid "No File Selected"
-msgstr ""
+msgstr "কোনো ফাইল নির্বাচিত হয়নি"
 
 #. Applications:
 #. Context: No Items are available for Display
 msgid "No Items to Display"
-msgstr ""
+msgstr "কোনো বস্তু প্রদর্শনের জন্য নয়"
 
 #. Applications:
 #. Context: Number of Disk Volumes
 msgid "Number of Volumes"
-msgstr ""
+msgstr "আয়তনের সংখ্যা"
 
 #. Applications:
 #. Context: no of incoming bytes on object storage
 msgid "Object Storage Incoming Bytes"
-msgstr ""
+msgstr "বস্তু সংগ্রহের আগত বাইটসমূহ"
 
 #. Applications:
 #. Context: no of outgoing bytes on object storage
 msgid "Object Storage Outgoing Bytes"
-msgstr ""
+msgstr "বস্তু সংগ্রহের বহির্গত বাইটসমূহ"
 
 #. Applications:
 #. Context: Storing data in unit like bytes
 msgid "Object Store"
-msgstr ""
+msgstr "বস্তুর স্টোর"
 
 #. Applications:
 #. Context: Services offered by cloud providers
 msgid "Offering"
-msgstr ""
+msgstr "প্রস্তাব করা হচ্ছে"
 
 #. Applications:
 #. Context: The port that is open
 msgid "Open Port"
-msgstr ""
+msgstr "মুক্ত পোর্ট"
 
 #. Applications:
 #. Context: Operating System
 msgid "Operating System"
-msgstr ""
+msgstr "অপারেটিং সিস্টেম"
 
 #. Applications:
 #. Context: A cloud administrator/user
 msgid "Operator"
-msgstr ""
+msgstr "অপারেটর"
 
 #. Applications:
 #. Context: automated arrangement, coordination, and management of cloud
 #. services
 msgid "Orchestration"
-msgstr ""
+msgstr "অর্কেস্ট্রারচনা"
 
 #. Applications:
 #. Context: summary
 msgid "Overview"
-msgstr ""
+msgstr "পরিদর্শন"
 
 #. Applications:
 #. Context: Password for operator
@@ -1106,62 +1106,62 @@ msgstr "স্ন্যাপশট থামান"
 #. Applications:
 #. Context: duration
 msgid "Period"
-msgstr ""
+msgstr "সময়কাল"
 
 #. Applications:
 #. Context: Name of the platform eg Fedora, Ubuntu
 msgid "Platform"
-msgstr ""
+msgstr "প্ল্যাটফর্ম"
 
 #. Applications:
 #. Context: Plug-ins (eg. Network plugin)
 msgid "Plug-ins"
-msgstr ""
+msgstr "প্লাগ-ইনসমূহ"
 
 #. Applications:
 #. Context: a set of resources
 msgid "Pool"
-msgstr ""
+msgstr "পুল"
 
 #. Applications:
 #. Context: A virtual network port within Networking
 msgid "Port"
-msgstr ""
+msgstr "পোর্ট"
 
 #. Applications:
 #. Context: Creation of port
 msgid "Port Creation"
-msgstr ""
+msgstr "পোর্ট তৈরি"
 
 #. Applications:
 #. Context: Number of request for port creation
 msgid "Port Creation Requests"
-msgstr ""
+msgstr "পোর্ট তৈরির আবেদন"
 
 #. Applications:
 #. Context: Range of ports
 msgid "Port Range"
-msgstr ""
+msgstr "পোর্টের এলাকা"
 
 #. Applications:
 #. Context: state of the VM when it is started
 msgid "Power State"
-msgstr ""
+msgstr "পাওয়ার স্টেট"
 
 #. Applications:
 #. Context: go to previous
 msgid "Previous"
-msgstr ""
+msgstr "পূর্ববর্তী"
 
 #. Applications:
 #. Context: main project
 msgid "Primary Project"
-msgstr ""
+msgstr "প্রাথমিক প্রোজেক্ট"
 
 #. Applications:
 #. Context: Network that is private
 msgid "Private Network"
-msgstr ""
+msgstr "গোপন নেটওয়ার্ক"
 
 #. Applications:
 #. Context: Project
@@ -1206,23 +1206,23 @@ msgstr "পাবলিক নেটওয়ার্ক"
 #. Applications:
 #. Context: To buy subscription
 msgid "Purchase Subscription"
-msgstr ""
+msgstr "কেনা সাবস্ক্রিপশন"
 
 #. Applications:
 #. Context: Item placed in a queue
 msgid "Queued"
-msgstr ""
+msgstr "সারিবদ্ধ"
 
 #. Applications:
 #. Context: Ability to set resource limits on a per-project basis (compute and
 #. block storage)
 msgid "Quota"
-msgstr ""
+msgstr "কোটা"
 
 #. Applications:
 #. Context: Name of the quota
 msgid "Quota Name"
-msgstr ""
+msgstr "কোটার নাম"
 
 #. Applications:
 #. Context: RAM
@@ -1242,108 +1242,108 @@ msgstr "RAM (ব্যবহৃত)"
 #. Applications:
 #. Context: ID of RAM disk
 msgid "Ramdisk ID"
-msgstr ""
+msgstr "র‍্যামডিস্ক ID"
 
 #. Applications:
 #. Context: To build instance again
 msgid "Rebuild Instance"
-msgstr ""
+msgstr "দৃষ্টান্ত পুনঃ-তৈরি করুন"
 
 #. Applications:
 #. Context: To refresh
 msgid "Refresh"
-msgstr ""
+msgstr "রিফ্রেশ"
 
 #. Applications:
 #. Context: region of the user
 msgid "Region"
-msgstr ""
+msgstr "এলাকা"
 
 #. Applications:
 #. Context: To register
 msgid "Register"
-msgstr ""
+msgstr "রেজিস্টার"
 
 #. Applications:
 #. Context: Normal user
 msgid "Regular User"
-msgstr ""
+msgstr "নিয়মিত ব্যবহারকারী"
 
 #. Applications:
 #. Context: source of the traffic to be allowed via security group rules
 msgid "Remote"
-msgstr ""
+msgstr "রিমোট"
 
 #. Applications:
 #. Context: To set again
 msgid "Reset"
-msgstr ""
+msgstr "রিসেট"
 
 #. Applications:
 #. Context: To change the size of instance
 msgid "Resize Instance"
-msgstr ""
+msgstr "দৃষ্টান্ত পুনরায় আকার দিন"
 
 #. Applications:
 #. Context: Resource to create instance
 msgid "Resource"
-msgstr ""
+msgstr "রিসোর্স"
 
 #. Applications:
 #. Context: Usage of resource
 msgid "Resource Usage"
-msgstr ""
+msgstr "রিসোর্স ব্যবহার"
 
 #. Applications:
 #. Context: summary of usage of resource
 msgid "Resource Usage Overview"
-msgstr ""
+msgstr "রিসোর্স ব্যবহারের পরিদর্শন"
 
 #. Applications:
 #. Context: ID of Role
 msgid "Role ID"
-msgstr ""
+msgstr "ভূমিকা ID"
 
 #. Applications:
 #. Context: name of role
 msgid "Role Name"
-msgstr ""
+msgstr "ভুমিকার নাম"
 
 #. Applications:
 #. Context: Roles
 msgid "Roles"
-msgstr ""
+msgstr "ভুমিকাসমূহ"
 
 #. Applications:
 #. Context: root disk
 msgid "Root Disk"
-msgstr ""
+msgstr "রুট ডিস্ক"
 
 #. Applications:
 #. Context: Numbers of request for router creation
 msgid "Router Creation Requests"
-msgstr ""
+msgstr "রাউটার তৈরির আবেদন"
 
 #. Applications:
 #. Context: duration of forwarding data
 msgid "Router Duration"
-msgstr ""
+msgstr "রাউটারের সময়কাল"
 
 #. Applications:
 #. Context: Routers
 msgid "Routers"
-msgstr ""
+msgstr "রাউটারসমূহ"
 
 #. Applications:
 #. Context: Rules define which traffic is allowed to instances assigned to the
 #. security group
 msgid "Rule"
-msgstr ""
+msgstr "নিয়ম"
 
 #. Applications:
 #. Context: Vms that are running
 msgid "Running Vms"
-msgstr ""
+msgstr "চলতি Vms"
 
 #. Applications:
 #. Context: Software as a service

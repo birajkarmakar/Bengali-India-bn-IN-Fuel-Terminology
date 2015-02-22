@@ -7,8 +7,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-04-23 11:19+0530\n"
-"PO-Revision-Date: 2015-02-21 06:44:29\n"
-"Last-Translator: Ayan Choudhury <ping2ayan@gmail.com>\n"
+"PO-Revision-Date: 2015-02-21 23:59:56\n"
+"Last-Translator: Biraj  Karmakar <brnet00@gmail.com>\n"
 "Language-Team: none\n"
 "Language: bn-IN\n"
 "MIME-Version: 1.0\n"
@@ -233,68 +233,68 @@ msgstr "পরবর্তী"
 #. Applications:
 #. Context: Timeout period for backlight screen or button
 msgid "Backlight Timeout"
-msgstr ""
+msgstr "ব্যাকলাইট সময়সীমা"
 
 #. Applications:
 #. Context: Source of Power of any device
 msgid "Battery"
-msgstr ""
+msgstr "ব্যাটারি"
 
 #. Applications:
 #. Context: profile for incoming phone calls where tone only beep once
 msgid "Beep Once"
-msgstr ""
+msgstr "একবার বিপ"
 
 #. Applications:
 #. Context: To block popup
 msgid "Block Popup"
-msgstr ""
+msgstr "পপআপ রোদ করুন"
 
 #. Applications:
 #. Context: A device
 msgid "Bluetooth"
-msgstr ""
+msgstr "ব্লুটুথ"
 
 #. Applications:
 #. Context: A preferred selection of links etc that user wants to refer when
 #. s/he needs
 msgid "Bookmarks"
-msgstr ""
+msgstr "বুকমার্ক"
 
 #. Applications:
 #. Context: luminance of a screen
 msgid "Brightness"
-msgstr ""
+msgstr "উজ্জ্বলতা"
 
 #. Applications:
 #. Context: An Application
 msgid "Calculator"
-msgstr ""
+msgstr "ক্যালকুলেটর"
 
 #. Applications:
 #. Context: An application of electronic calendar
 msgid "Calendar"
-msgstr ""
+msgstr "ক্যালেন্ডার"
 
 #. Applications:
 #. Context: An action to bar a call
 msgid "Call Barring"
-msgstr ""
+msgstr "কল বেয়ারিং"
 
 #. Applications:
 #. Context: Action to divert call
 msgid "Call Divert"
-msgstr ""
+msgstr "কল ড্রাইভাট"
 
 #. Applications:
 #. Context: Duration of call
 msgid "Call Duration"
-msgstr ""
+msgstr "কলের সময়কাল"
 
 #. Applications:
 #. Context: Log of call
 msgid "Call Log"
-msgstr ""
+msgstr "কল লগ"
 
 #. Applications:
 #. Context: Setting of call
@@ -1152,113 +1152,113 @@ msgstr ""
 #. Applications:
 #. Context: representation of a region on plane surface, here on mobile
 msgid "Maps"
-msgstr ""
+msgstr "মানচিত্র"
 
 #. Applications:
 #. Context: an object to store data
 msgid "Media"
-msgstr ""
+msgstr "মিডিয়া"
 
 #. Applications:
 #. Context: a device to play music, video etc
 msgid "Media Player"
-msgstr ""
+msgstr "মিডিয়া প্লেয়ার"
 
 #. Applications:
 #. Context: Related to calendar application
 msgid "Meeting"
-msgstr ""
+msgstr "মিটিং"
 
 #. Applications:
 #. Context: Status of memory ie free or full
 msgid "Memory Status"
-msgstr ""
+msgstr "মেমরি স্ট্যাটাস"
 
 #. Applications:
 #. Context: an option list
 msgid "Menu"
-msgstr ""
+msgstr "মেনু"
 
 #. Applications:
 #. Context: That allow to view menu wise
 msgid "Menu View"
-msgstr ""
+msgstr "মেনু প্রদর্শন"
 
 #. Applications:
 #. Context: Tone of Message Alert
 msgid "Message Alert Tone"
-msgstr ""
+msgstr "বার্তা সতর্কতা টোন"
 
 #. Applications:
 #. Context: Counter of Message
 msgid "Message Counter"
-msgstr ""
+msgstr "মেসেজ কাউন্টার"
 
 #. Applications:
 #. Context: Type of Notifiers of Message
 msgid "Message Notifiers"
-msgstr ""
+msgstr "বার্তা বিজ্ঞাপক"
 
 #. Applications:
 #. Context: Message which is saved now
 msgid "Message Saved"
-msgstr ""
+msgstr "বার্তা সংরক্ষিত হল"
 
 #. Applications:
 #. Context: setting related to message
 msgid "Message Settings"
-msgstr ""
+msgstr "বার্তা সেটিংস"
 
 #. Applications:
 #. Context: communication among a one or more persons
 msgid "Messages"
-msgstr ""
+msgstr "বার্তাগুলি"
 
 #. Applications:
 #. Context: Related to Missed call
 msgid "Missed"
-msgstr ""
+msgstr "মিসড"
 
 #. Applications:
 #. Context: Calls that one missed to take
 msgid "Missed Calls"
-msgstr ""
+msgstr "মিসড কল"
 
 #. Applications:
 #. Context: Multi media Messaging
 msgid "MMS"
-msgstr ""
+msgstr "MMS"
 
 #. Applications:
 #. Context: Network available for Mobile device, a radio network distributed
 #. over land areas called cells called mobile network
 msgid "Mobile Network"
-msgstr ""
+msgstr "মোবাইল নেটওয়ার্ক"
 
 #. Applications:
 #. Context: Model of Device
 msgid "Model"
-msgstr ""
+msgstr "মডেল"
 
 #. Applications:
 #. Context: to be used to see the details
 msgid "More"
-msgstr ""
+msgstr "আরও"
 
 #. Applications:
 #. Context: Collection of Music
 msgid "Music Library"
-msgstr ""
+msgstr "সঙ্গীত লাইব্রেরি"
 
 #. Applications:
 #. Context: application to play music
 msgid "Music Player"
-msgstr ""
+msgstr "মিউসিক প্লেয়ার"
 
 #. Applications:
 #. Context: Button to show my location
 msgid "My Location"
-msgstr ""
+msgstr "আমার অবস্থান"
 
 #. Applications:
 #. Context: Related to contact menu that shows name only
@@ -2131,17 +2131,17 @@ msgstr ""
 #. Applications:
 #. Context: To use the image
 msgid "Use Image"
-msgstr ""
+msgstr "ছবি ব্যবহার করুন"
 
 #. Applications:
 #. Context: To use the tone
 msgid "Use Tone"
-msgstr ""
+msgstr "টোন ব্যবহার করুন"
 
 #. Applications:
 #. Context: An instruction manual to give directions to users about the device
 msgid "User Guide"
-msgstr ""
+msgstr "ব্যবহারকারীর গাইড"
 
 #. Applications:
 #. Context: A profile of mobile, first vibrate and then ring
@@ -2152,97 +2152,97 @@ msgstr ""
 #. Context: feature of communications devices to notify the user of an
 #. incoming connection
 msgid "Vibrating Alert"
-msgstr ""
+msgstr "ভাইব্রেশন সতর্কতা"
 
 #. Applications:
 #. Context: Selection of vibration patterns
 msgid "Vibration"
-msgstr ""
+msgstr "ভাইব্রেশন"
 
 #. Applications:
 #. Context: Application to view a video
 msgid "Video"
-msgstr ""
+msgstr "ভিডিও"
 
 #. Applications:
 #. Context: Application to create a video
 msgid "Video Camera"
-msgstr ""
+msgstr "ভিডিও ক্যামেরা"
 
 #. Applications:
 #. Context: To view all items
 msgid "View All"
-msgstr ""
+msgstr "সব দেখুন"
 
 #. Applications:
 #. Context: To view datewise
 msgid "View by Date"
-msgstr ""
+msgstr "তারিখ দিয়ে দেখুন"
 
 #. Applications:
 #. Context: To view the folder
 msgid "View Folder"
-msgstr ""
+msgstr "ফোল্ডার দেখুন"
 
 #. Applications:
 #. Context: To view the message that is saved
 msgid "View Saved Message"
-msgstr ""
+msgstr "সংরক্ষিত বার্তা দেখুন"
 
 #. Applications:
 #. Context: To view slideshow
 msgid "View Slideshow"
-msgstr ""
+msgstr "স্লাইডশো দেখুন"
 
 #. Applications:
 #. Context: Related to calendar to visit today's schedule
 msgid "View Today"
-msgstr ""
+msgstr "আজ দেখুন"
 
 #. Applications:
 #. Context: Number for Voice mail box
 msgid "Voice Mail Box Number"
-msgstr ""
+msgstr "ভয়েস মেইল বক্স নম্বর"
 
 #. Applications:
 #. Context: Tones for Warning
 msgid "Warning Tones"
-msgstr ""
+msgstr "সতর্কতার টোন"
 
 #. Applications:
 #. Context: Comes in conversion from one unit to another, weight is measure of
 #. the heaviness
 msgid "Weight"
-msgstr ""
+msgstr "ওজন"
 
 #. Applications:
 #. Context: A note coming at the beginning when a user first time start any
 #. device or application
 msgid "Welcome Note"
-msgstr ""
+msgstr "স্বাগত বার্তা"
 
 #. Applications:
 #. Context: A network that allows an electronic device to exchange data
 #. wirelessly
 msgid "Wi-Fi Network"
-msgstr ""
+msgstr "Wi-Fi নেটওয়ার্ক"
 
 #. Applications:
 #. Context: Application
 msgid "Yahoo!"
-msgstr ""
+msgstr "Yahoo!"
 
 #. Applications:
 #. Context: opposite to No
 msgid "Yes"
-msgstr ""
+msgstr "হাঁ"
 
 #. Applications:
 #. Context: Application
 msgid "YouTube"
-msgstr ""
+msgstr "YouTube"
 
 #. Applications:
 #. Context: Magnifier feature for anything exists on screen
 msgid "Zoom Mode"
-msgstr ""
+msgstr "জুম মোড"
