@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-12-23 16:29+0530\n"
-"PO-Revision-Date: 2015-02-21 01:54:46\n"
+"PO-Revision-Date: 2015-02-21 22:59:48\n"
 "Last-Translator: Ayan Choudhury <ping2ayan@gmail.com>\n"
 "Language-Team: none\n"
 "Language: bn-IN\n"
@@ -1086,22 +1086,22 @@ msgstr ""
 #. Applications:
 #. Context: Password for operator
 msgid "PASS"
-msgstr ""
+msgstr "PASS"
 
 #. Applications:
 #. Context: Password for operator
 msgid "Password"
-msgstr ""
+msgstr "পাসওয়ার্ড"
 
 #. Applications:
 #. Context: To pause instance
 msgid "Pause Instance"
-msgstr ""
+msgstr "দৃষ্টান্ত থামান"
 
 #. Applications:
 #. Context: To pause snapshot
 msgid "Pause Snapshot"
-msgstr ""
+msgstr "স্ন্যাপশট থামান"
 
 #. Applications:
 #. Context: duration
@@ -1353,78 +1353,78 @@ msgstr "SAAS"
 #. Applications:
 #. Context: To save
 msgid "Save"
-msgstr ""
+msgstr "সংরক্ষণ"
 
 #. Applications:
 #. Context: Being saved
 msgid "Saving"
-msgstr ""
+msgstr "সংরক্ষিত হচ্ছে"
 
 #. Applications:
 #. Context: Schedule
 msgid "Schedule"
-msgstr ""
+msgstr "সময়সূচি"
 
 #. Applications:
 #. Context: A set of network traffic filtering rules that are applied to a
 #. instance.
 msgid "Security Groups"
-msgstr ""
+msgstr "নিরাপত্তা দল"
 
 #. Applications:
 #. Context: Rules under security group
 msgid "Security Groups Rules"
-msgstr ""
+msgstr "নিরাপত্তা দলের নিয়ম"
 
 #. Applications:
 #. Context: To select template
 msgid "Select Template"
-msgstr ""
+msgstr "টেমপ্লেট নির্বাচন করুন"
 
 #. Applications:
 #. Context: Network that is selected
 msgid "Selected Networks"
-msgstr ""
+msgstr "নেটওয়ার্ক নির্বাচন করুন"
 
 #. Applications:
 #. Context: instance that is booted automatically
 msgid "Self Boot Instances"
-msgstr ""
+msgstr "স্বয়ং বুট দৃষ্টান্ত"
 
 #. Applications:
 #. Context: instance that is rebooted automatically
 msgid "Self Reboot Instance"
-msgstr ""
+msgstr "স্বয়ং পুনঃ-বুট দৃষ্টান্ত"
 
 #. Applications:
 #. Context: A cloud service
 msgid "Service"
-msgstr ""
+msgstr "সার্ভিস"
 
 #. Applications:
 #. Context: Endpoint of the service (http://192.168.122.1:8080)
 msgid "Service Endpoint"
-msgstr ""
+msgstr "সার্ভিস এন্ডপয়েন্ট"
 
 #. Applications:
 #. Context: User Settings
 msgid "Settings"
-msgstr ""
+msgstr "বৈশিষ্ট্য"
 
 #. Applications:
 #. Context: Shared (eg resource)
 msgid "Shared"
-msgstr ""
+msgstr "শেয়ার করা হয়েছে"
 
 #. Applications:
 #. Context: Items shared with the current logined user
 msgid "Shared with Me"
-msgstr ""
+msgstr "আমার সাথে শেয়ার করা হয়েছে"
 
 #. Applications:
 #. Context: To power off instance
 msgid "Shut Off Instance"
-msgstr ""
+msgstr "ইন্সটান্স বন্ধ করুন"
 
 #. Applications:
 #. Context: Sign in
@@ -1449,192 +1449,192 @@ msgstr "স্ন্যাপশট"
 #. Applications:
 #. Context: Rebooting an instance normally
 msgid "Soft Reboot Instance"
-msgstr ""
+msgstr "সফট পুনঃ-বুট ইন্সটান্স"
 
 #. Applications:
 #. Context: a set of cloud resources created and managed by automated service
 msgid "Stack"
-msgstr ""
+msgstr "স্ট্যাক"
 
 #. Applications:
 #. Context: Start Date of subscription
 msgid "Start Date"
-msgstr ""
+msgstr "শুরুর তারিখ"
 
 #. Applications:
 #. Context: Statistics of all resources
 msgid "Statistics of All Resources"
-msgstr ""
+msgstr "সমস্ত রিসোর্সের পরিসংখ্যান"
 
 #. Applications:
 #. Context: Statistics
 msgid "Stats"
-msgstr ""
+msgstr "পরিসংখ্যান"
 
 #. Applications:
 #. Context: Current status of a VM image or instance
 msgid "Status"
-msgstr ""
+msgstr "স্ট্যাটাস"
 
 #. Applications:
 #. Context: VM that is stopped
 msgid "Stopped Vms"
-msgstr ""
+msgstr "বন্ধ Vms"
 
 #. Applications:
 #. Context: A virtual place where data is stored
 msgid "Storage"
-msgstr ""
+msgstr "সংগ্রহশালা"
 
 #. Applications:
 #. Context: Total storage
 msgid "Storage (total)"
-msgstr ""
+msgstr "সংগ্রহশালা (সর্বমোট)"
 
 #. Applications:
 #. Context: used storage
 msgid "Storage (Used)"
-msgstr ""
+msgstr "সংগ্রহশালা (ব্যবহৃত)"
 
 #. Applications:
 #. Context: Associated subnet
 msgid "Subnet Associated"
-msgstr ""
+msgstr "সাবনেট সংযুক্ত"
 
 #. Applications:
 #. Context: No of request for subnet creation
 msgid "Subnet Creation Requests"
-msgstr ""
+msgstr "সাবনেট তৈরির আবেদন"
 
 #. Applications:
 #. Context: time period for active subnet
 msgid "Subnet Durations"
-msgstr ""
+msgstr "সাবনেট সময়কাল"
 
 #. Applications:
 #. Context: name of the subnet
 msgid "Subnet Name"
-msgstr ""
+msgstr "সাবনেটের নাম"
 
 #. Applications:
 #. Context: To subscribe
 msgid "Subscribe"
-msgstr ""
+msgstr "সাবস্ক্রাইব"
 
 #. Applications:
 #. Context: Subscription of cloud service
 msgid "Subscription"
-msgstr ""
+msgstr "সাবস্ক্রিপশন"
 
 #. Applications:
 #. Context: Subscription List
 msgid "Subscription List"
-msgstr ""
+msgstr "সাবস্ক্রিপশন তালিকা"
 
 #. Applications:
 #. Context: Subscription Manager
 msgid "Subscription Manager"
-msgstr ""
+msgstr "সাবস্ক্রিপশন ম্যানেজার"
 
 #. Applications:
 #. Context: To suspend the instance
 msgid "Suspend instance"
-msgstr ""
+msgstr "সাসপেন্ড দৃষ্টান্ত"
 
 #. Applications:
 #. Context: To suspend snapshot
 msgid "Suspend Snapshot"
-msgstr ""
+msgstr "সাসপেন্ড স্ন্যাপশট"
 
 #. Applications:
 #. Context: Swap disk (size)
 msgid "Swap Disk"
-msgstr ""
+msgstr "সোয়াইপ ডিস্ক"
 
 #. Applications:
 #. Context: System information
 msgid "System Info"
-msgstr ""
+msgstr "সিস্টেম তথ্য"
 
 #. Applications:
 #. Context: Name of the system
 msgid "System Name"
-msgstr ""
+msgstr "সিস্টেমের নাম"
 
 #. Applications:
 #. Context: System panel
 msgid "System panel"
-msgstr ""
+msgstr "সিস্টেম প্যানেল"
 
 #. Applications:
 #. Context: System Registration
 msgid "System Registration"
-msgstr ""
+msgstr "সিস্টেম রেজিস্ট্রেশন"
 
 #. Applications:
 #. Context: To take snapshot
 msgid "Take Snapshot"
-msgstr ""
+msgstr "স্ন্যাপশট নিন"
 
 #. Applications:
 #. Context: task
 msgid "Task"
-msgstr ""
+msgstr "কাজ"
 
 #. Applications:
 #. Context: Template
 msgid "Template"
-msgstr ""
+msgstr "টেম্পলেট"
 
 #. Applications:
 #. Context: Template File
 msgid "Template File"
-msgstr ""
+msgstr "টেমপ্লেট ফাইল"
 
 #. Applications:
 #. Context: Source of the template
 msgid "Template Source"
-msgstr ""
+msgstr "টেমপ্লেট উৎস"
 
 #. Applications:
 #. Context: alternative of project
 msgid "Tenant"
-msgstr ""
+msgstr "টেন্যান্ট"
 
 #. Applications:
 #. Context: To terminate instances
 msgid "Terminate Instances"
-msgstr ""
+msgstr "দৃষ্টান্ত বন্ধ করুন"
 
 #. Applications:
 #. Context: Time Zone
 msgid "Time Zone"
-msgstr ""
+msgstr "টাইম জোন"
 
 #. Applications:
 #. Context: Total number of item
 msgid "Total"
-msgstr ""
+msgstr "সর্বমোট"
 
 #. Applications:
 #. Context: Total number of objects
 msgid "Total number of objects"
-msgstr ""
+msgstr "বস্তুর মোট সংখ্যা"
 
 #. Applications:
 #. Context: Total size of Objects
 msgid "Total size of Objects"
-msgstr ""
+msgstr "বস্তুর মোট আকার"
 
 #. Applications:
 #. Context: Total number of VMs
 msgid "Total Vms"
-msgstr ""
+msgstr "সর্বমোট Vms"
 
 #. Applications:
 #. Context: Type (of instance, volume etc)
 msgid "Type"
-msgstr ""
+msgstr "রকম"
 
 #. Applications:
 #. Context: To unsubscribe

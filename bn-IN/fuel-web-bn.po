@@ -7,8 +7,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-05-15 16:29+0530\n"
-"PO-Revision-Date: 2015-02-21 07:11:22\n"
-"Last-Translator: Ayan Choudhury <ping2ayan@gmail.com>\n"
+"PO-Revision-Date: 2015-02-21 22:59:09\n"
+"Last-Translator: Jockr <rcmainak24@gmail.com>\n"
 "Language-Team: none\n"
 "Language: bn-IN\n"
 "MIME-Version: 1.0\n"
@@ -71,13 +71,13 @@ msgstr "সক্রিয়"
 #. Applications: Websites
 #. Context: Menu for website for Open Tenders
 msgid "Active Tenders"
-msgstr ""
+msgstr "সক্রিয় টেন্ডার"
 
 #. Applications: Social Network
 #. Context: section where a user of social networking site put their
 #. Activities and Interests
 msgid "Activities and Interests"
-msgstr ""
+msgstr "কার্যক্রম এবং আগ্রহ"
 
 #. Applications: Social Network
 #. Context: Action for adding a badge
@@ -87,18 +87,18 @@ msgstr ""
 #. Applications: Social Network
 #. Context: Action to add as a friend
 msgid "Add as Friend"
-msgstr ""
+msgstr "বন্ধু যোগ করুন"
 
 #. Applications: Blog
 #. Context: Action to add new post
 msgid "Add New"
-msgstr ""
+msgstr "নতুন যোগ করুন"
 
 #. Applications: Blog
 #. Context: In the Posts > Categories tab, user need to Add New Category area,
 #. fill in the information about his/her category.
 msgid "Add New Category"
-msgstr ""
+msgstr "বিভাগ যোগ করুন"
 
 #. Applications: CMS
 #. Context: Action to add new comment
