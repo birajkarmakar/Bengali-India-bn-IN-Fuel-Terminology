@@ -590,7 +590,7 @@ msgstr ""
 msgid "Monsoon"
 msgstr ""
 
-#:Applications:
+#: Applications:
 #. Context: The Minimum Support Price (MSP) Scheme is a scheme of the Government of India (GOI) to safeguard the interests of the farmers.
 msgid "MSP (Minimum support Price)"
 msgstr ""
@@ -879,7 +879,7 @@ msgstr ""
 msgid "Skiffing"
 msgstr ""
 
-#:Applications:
+#: Applications:
 #. Context: Social forestry means the management and protection of forests and afforestation on barren lands with the purpose of helping in the environmental, social and rural development.
 msgid "Social forestry"
 msgstr ""
