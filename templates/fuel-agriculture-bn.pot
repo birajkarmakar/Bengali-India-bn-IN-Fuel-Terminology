@@ -812,6 +812,7 @@ msgstr ""
 
 #: Applications:
 #. Context: It is the part of the plant which is used for grafting over the root stock.
+msgid "Scion"
 msgstr ""
 
 #: Applications:
