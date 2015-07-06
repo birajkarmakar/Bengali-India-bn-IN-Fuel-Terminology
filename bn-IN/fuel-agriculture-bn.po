@@ -1,228 +1,291 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-05-03 11:20+0530\n"
-"PO-Revision-Date: 2015-05-03 11:20+0530\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2015-07-06 00:58:45.021037\n"
+"Last-Translator: Ayan Choudhury <ping2ayan@gmail.com>\n"
 "Language-Team: none\n"
+"Language: bn_IN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.11.4\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 
 #. Applications:
 #. Context: Measurement of land
 msgid "Acre"
-msgstr ""
+msgstr "একর"
 
 #. Applications:
 #. Context: Advanced technologies involved in agriculture
 msgid "Advanced Technologies"
-msgstr ""
+msgstr "উন্নত প্রযুক্তিবিদ্যা"
 
 #. Applications:
 #. Context: Agriculture related business
 msgid "Agri business"
-msgstr ""
+msgstr "কৃষি ব্যবসা"
 
 #. Applications:
 #. Context: Import and export+ of+ agri+ product
 msgid "Agri export and import"
-msgstr ""
+msgstr "কৃষি রপ্তানি এবং আমদানি"
 
 #. Applications:
-#. Context: Includes plant growth promoters, Fertilizers, seeds, and pesticides
+#. Context: Includes plant growth promoters, Fertilizers, seeds, and
+#. pesticides
 msgid "Agri Inputs"
-msgstr ""
+msgstr "কৃষি উপকরণ"
 
 #. Applications:
 #. Context: Various process involved in agriculture after harvesting
 msgid "Agricultural Processing"
-msgstr ""
+msgstr "কৃষিগত প্রক্রিয়াকরণ"
 
 #. Applications:
-#. Context: Agriculture is the cultivation of animals plants fung and other life forms for food fiber biofuel medicinals andother products used to sustain and enhance human life. 
+#. Context: Agriculture is the cultivation of animals plants fung and other
+#. life forms for food fiber biofuel medicinals andother products used to
+#. sustain and enhance human life.
 msgid "Agriculture"
-msgstr ""
+msgstr "কৃষি"
 
 #. Applications:
-#. Context: Any of several credit vehicles used to finance agricultural transactions, including loans, notes, bills of exchange and banker's acceptances. These types of financing are adapted to the specific financial needs of farmers, which are determined by planting, harvesting and marketing cycles.
+#. Context: Any of several credit vehicles used to finance agricultural
+#. transactions, including loans, notes, bills of exchange and banker's
+#. acceptances. These types of financing are adapted to the specific financial
+#. needs of farmers, which are determined by planting, harvesting and
+#. marketing cycles.
 msgid "Agriculture Credit"
-msgstr ""
+msgstr "কৃষি ক্রেডিট"
 
 #. Applications:
 #. Context: Data on various domains of agriculture.
 msgid "Agriculture directory"
-msgstr ""
+msgstr "কৃষিজ ডিরেক্টরি"
 
 #. Applications:
-#. Context: Agricultural engineering is the engineering discipline that applies engineering science and technology to agricultural production and processing.
+#. Context: Agricultural engineering is the engineering discipline that
+#. applies engineering science and technology to agricultural production and
+#. processing.
 msgid "Agriculture engineering"
-msgstr ""
+msgstr "কৃষিজ প্রকৌশল"
 
 #. Applications:
-#. Context: Agricultural Insurance is a valuable business risk management tool that provides farmers with financial protection against production losses caused by natural perils, such as drought, excessive moisture, hail, frost, wind and wildlife.
+#. Context: Agricultural Insurance is a valuable business risk management tool
+#. that provides farmers with financial protection against production losses
+#. caused by natural perils, such as drought, excessive moisture, hail, frost,
+#. wind and wildlife.
 msgid "Agriculture Insurance"
-msgstr ""
+msgstr "কৃষিজ বীমা"
 
 #. Applications:
-#. Context: Agricultural marketing is a form of marketing that encompasses all goods and services related to the field of agriculture. All these products directly or indirectly support the effort to produce and deliver agricultural products from the farm to the consumer.
+#. Context: Agricultural marketing is a form of marketing that encompasses all
+#. goods and services related to the field of agriculture. All these products
+#. directly or indirectly support the effort to produce and deliver
+#. agricultural products from the farm to the consumer.
 msgid "Agriculture marketing"
-msgstr ""
+msgstr "কৃষিজ বিপণন"
 
 #. Applications:
 #. Context: Businesses related to agriculture
 msgid "Agro enterprises"
-msgstr ""
+msgstr "কৃষি উদ্যোগ"
 
 #. Applications:
-#. Context: Agroforestry or agro-sylviculture is a land use management system in which trees or shrubs are grown around or among crops or pastureland. It combines agricultural and forestry technologies to create more diverse, productive, profitable, healthy, and sustainable land-use systems.
+#. Context: Agroforestry or agro-sylviculture is a land use management system
+#. in which trees or shrubs are grown around or among crops or pastureland. It
+#. combines agricultural and forestry technologies to create more diverse,
+#. productive, profitable, healthy, and sustainable land-use systems.
 msgid "Agro forestry"
-msgstr ""
+msgstr "কৃষিজাত বন"
 
 #. Applications:
-#. Context: The application of logistics principles to flows of products/half-products/raw material in the agro sector.
+#. Context: The application of logistics principles to flows of products/half-
+#. products/raw material in the agro sector.
 msgid "Agro Logistics"
-msgstr ""
+msgstr "কৃষিজাত লজিস্টিক"
 
 #. Applications:
-#. Context: Animal husbandry is the management and care of farm animals by humans for profit, in which genetic qualities and behaviour, considered to be advantageous to humans, are further developed.
+#. Context: Animal husbandry is the management and care of farm animals by
+#. humans for profit, in which genetic qualities and behaviour, considered to
+#. be advantageous to humans, are further developed.
 msgid "Animal husbandry"
-msgstr ""
+msgstr "পশুপালন"
 
 #. Applications:
 #. Context: Fertiliser applying for crops
 msgid "Application of fertiliser"
-msgstr ""
+msgstr "সারের প্রয়োগ"
 
 #. Applications:
-#. Context: Plants that produce and exude aromatic substances (largely ether oils), which are used in making perfumes, in cooking, and in the food, pharmaceutical, and liquor industries.
+#. Context: Plants that produce and exude aromatic substances (largely ether
+#. oils), which are used in making perfumes, in cooking, and in the food,
+#. pharmaceutical, and liquor industries.
 msgid "Aromatic Crops"
-msgstr ""
+msgstr "সুগন্ধি ফসল"
 
 #. Applications:
-#. Context: Also called fall, is the season of the year between summer and winter, lasting from September to November north of the equator and from March to May south of the equator, when fruits and crops become ready to eat and are picked, and leaves fall:
+#. Context: Also called fall, is the season of the year between summer and
+#. winter, lasting from September to November north of the equator and from
+#. March to May south of the equator, when fruits and crops become ready to
+#. eat and are picked, and leaves fall:
 msgid "Autumn"
-msgstr ""
+msgstr "শরত"
 
 #. Applications:
 #. Context: Bark is the outermost layers of stems and roots of woody plants.
 msgid "Bark"
-msgstr ""
+msgstr "গাছের ছাল"
 
 #. Applications:
-#. Context: A plot of ground in which plants are growing - As in "the gardener planted a bed of roses"
+#. Context: A plot of ground in which plants are growing - As in "the gardener
+#. planted a bed of roses"
 msgid "Bed"
-msgstr ""
+msgstr "বিছানা"
 
 #. Applications:
-#. Context: Bio-energy is renewable energy made available from materials derived from biological sources.
+#. Context: Bio-energy is renewable energy made available from materials
+#. derived from biological sources.
 msgid "Bio Energy"
-msgstr ""
+msgstr "জৈব শক্তি"
 
 #. Applications:
-#. Context: Biotechnology is the use of living systems and organisms to develop or make useful products, or "any technological application that uses biological systems, living organisms or derivatives thereof, to make or modify products or processes for specific use"
+#. Context: Biotechnology is the use of living systems and organisms to
+#. develop or make useful products, or "any technological application that
+#. uses biological systems, living organisms or derivatives thereof, to make
+#. or modify products or processes for specific use"
 msgid "Bio Technology"
-msgstr ""
+msgstr "বায়োটেকনোলজি"
 
 #. Applications:
 #. Context: Soil organic matter
 msgid "Bio-carbon"
-msgstr ""
+msgstr "জৈব-কার্বন"
 
 #. Applications:
-#. Context: Biodiversity refers to the variety of life. It is seen in the number of species in an ecosystem or on the entire Earth. Biodiversity gets used as a measure of the health of biological systems, and to see if there is a danger that too many species become extinct.
+#. Context: Biodiversity refers to the variety of life. It is seen in the
+#. number of species in an ecosystem or on the entire Earth. Biodiversity gets
+#. used as a measure of the health of biological systems, and to see if there
+#. is a danger that too many species become extinct.
 msgid "Biodiversity"
-msgstr ""
+msgstr "জীববৈচিত্র্য"
 
 #. Applications:
-#. Context: A Bio fertilizer (also bio-fertilizer) is a substance which contains living microorganisms which, when applied to seed, plant surfaces, or soil, colonizes the rhizosphere or the interior of the plant and promotes growth by increasing the supply or availability of primary nutrients to the host plant.
+#. Context: A Bio fertilizer (also bio-fertilizer) is a substance which
+#. contains living microorganisms which, when applied to seed, plant surfaces,
+#. or soil, colonizes the rhizosphere or the interior of the plant and
+#. promotes growth by increasing the supply or availability of primary
+#. nutrients to the host plant.
 msgid "Biofertilizer"
-msgstr ""
+msgstr "বায়োফার্টালাইজার"
 
 #. Applications:
-#. Context: Biological control is an environmentally sound and effective means of reducing or mitigating pests and diseases pest effects through the use of natural enemies.
+#. Context: Biological control is an environmentally sound and effective means
+#. of reducing or mitigating pests and diseases pest effects through the use
+#. of natural enemies.
 msgid "Biological Control"
-msgstr ""
+msgstr "জৈব নিয়ন্ত্রণ"
 
 #. Applications:
-#. Context: Biomass is biological material derived from living, or recently living organisms.
+#. Context: Biomass is biological material derived from living, or recently
+#. living organisms.
 msgid "Biomass"
-msgstr ""
+msgstr "জৈববস্তু"
 
 #. Applications:
-#. Context: Blanket-spraying is the spraying of a larger area than spot-spraying.
+#. Context: Blanket-spraying is the spraying of a larger area than spot-
+#. spraying.
 msgid "Blanket spray"
-msgstr ""
+msgstr "ব্ল্যাঙ্কেট স্প্রে"
 
 #. Applications:
 #. Context: Branches of a plant
 msgid "Branches"
-msgstr ""
+msgstr "শাখা-প্রশাখা"
 
 #. Applications:
-#. Context: A cash crop is an agricultural crop which is grown for sale to return a profit. It is typically purchased by parties separate from a farm.
+#. Context: A cash crop is an agricultural crop which is grown for sale to
+#. return a profit. It is typically purchased by parties separate from a farm.
 msgid "cash crops"
-msgstr ""
+msgstr "অর্থকরী ফসল"
 
 #. Applications:
 #. Context: Cattle is a word to describe animals which are mammals.
 msgid "Cattle"
-msgstr ""
+msgstr "গবাদি পশু"
 
 #. Applications:
 #. Context: Cereal is a kind of grain used for making human and animal food.
 msgid "Cereal"
-msgstr ""
+msgstr "খাদ্যশস্য"
 
 #. Applications:
-#. Context: Cereal is a kind of grain used for making human and animal food. Millets refers to several species of cereals which produce small grains compared to those of maize.
+#. Context: Cereal is a kind of grain used for making human and animal food.
+#. Millets refers to several species of cereals which produce small grains
+#. compared to those of maize.
 msgid "Cereals and Millets"
-msgstr ""
+msgstr "সিরিয়াল এবং ভুট্টা"
 
 #. Applications:
-#. Context: Climate is a measure of the average pattern of variation in temperature, humidity, atmospheric pressure, wind, precipitation, atmospheric particle count and other meteorological variables in a given region over long periods of time.
+#. Context: Climate is a measure of the average pattern of variation in
+#. temperature, humidity, atmospheric pressure, wind, precipitation,
+#. atmospheric particle count and other meteorological variables in a given
+#. region over long periods of time.
 msgid "Climate"
-msgstr ""
+msgstr "জলবায়ু"
 
 #. Applications:
-#. Context: A clonal colony or gene is a group of genetically identical individuals, such as plants, fungi, or bacteria, that have grown in a given location, all originating vegetatively, not sexually, from a single ancestor.
+#. Context: A clonal colony or gene is a group of genetically identical
+#. individuals, such as plants, fungi, or bacteria, that have grown in a given
+#. location, all originating vegetatively, not sexually, from a single
+#. ancestor.
 msgid "Clonal plant"
 msgstr ""
 
 #. Applications:
-#. Context: machine that harvests grain crops (reaping, threshing, and winnowing)
+#. Context: machine that harvests grain crops (reaping, threshing, and
+#. winnowing)
 msgid "Combine harvester"
 msgstr ""
 
 #. Applications:
-#. Context: Boards specially established by government of India for promotion of some of the traditional commodities of exports having high export potentials. These boards are supplimentary to the Export Promotion Councils.
+#. Context: Boards specially established by government of India for promotion
+#. of some of the traditional commodities of exports having high export
+#. potentials. These boards are supplimentary to the Export Promotion
+#. Councils.
 msgid "Commodity Boards"
 msgstr ""
 
 #. Applications:
-#. Context: A commodities exchange is a baleine exchange where various commodities and derivatives products are traded. Most commodity markets across the world trade in agricultural products and other raw materials (like wheat, barley, sugar, maize, cotton, cocoa, coffee, milk products, pork bellies, oil, metals, etc.) and contracts based on them.
+#. Context: A commodities exchange is a baleine exchange where various
+#. commodities and derivatives products are traded. Most commodity markets
+#. across the world trade in agricultural products and other raw materials
+#. (like wheat, barley, sugar, maize, cotton, cocoa, coffee, milk products,
+#. pork bellies, oil, metals, etc.) and contracts based on them.
 msgid "Commodity Exchange & Trade"
 msgstr ""
 
 #. Applications:
-#. Context: Companion planting and combining means growing plants together that like or benefit each other.
+#. Context: Companion planting and combining means growing plants together
+#. that like or benefit each other.
 msgid "Companion planting"
 msgstr ""
 
 #. Applications:
-#. Context:Compost is organic matter that has been decomposed and recycled as a fertilizer and soil amendment.
+#. Context:Compost is organic matter that has been decomposed and recycled as
+#. a fertilizer and soil amendment.
 msgid "Compost"
 msgstr ""
 
 #. Applications:
-#. Context: A crop is any cultivated plant, fungus, or alga that is harvested for food, clothing, livestock fodder, biofuel, medicine, or other uses.
+#. Context: A crop is any cultivated plant, fungus, or alga that is harvested
+#. for food, clothing, livestock fodder, biofuel, medicine, or other uses.
 msgid "Crop"
 msgstr ""
 
@@ -237,37 +300,50 @@ msgid "Crop production"
 msgstr ""
 
 #. Applications:
-#. Context: Protecting method used for crop from dieseases, pest and other environment factors.
+#. Context: Protecting method used for crop from dieseases, pest and other
+#. environment factors.
 msgid "Crop Protection"
 msgstr ""
 
 #. Applications:
-#. Context: Crop rotation is the practice of growing a series of dissimilar/different types of crops in the same area in sequential seasons.
+#. Context: Crop rotation is the practice of growing a series of
+#. dissimilar/different types of crops in the same area in sequential seasons.
 msgid "Crop rotation"
 msgstr ""
 
 #. Applications:
-#. Context: A measurement of the amount of a crop that was harvested per unit of land area.
+#. Context: A measurement of the amount of a crop that was harvested per unit
+#. of land area.
 msgid "Crop yield"
 msgstr ""
 
 #. Applications:
-#. Context: Loosening and breaking up (tilling) of the soil. The soil around existing plants is cultivated (by hand using a hoe, or by machine using a cultivator) to destroy weeds and promote growth by increasing soil aeration and water infiltration. Soil being prepared for the planting of a crop is cultivated by a harrow or plow.
+#. Context: Loosening and breaking up (tilling) of the soil. The soil around
+#. existing plants is cultivated (by hand using a hoe, or by machine using a
+#. cultivator) to destroy weeds and promote growth by increasing soil aeration
+#. and water infiltration. Soil being prepared for the planting of a crop is
+#. cultivated by a harrow or plow.
 msgid "Cultivation"
 msgstr ""
 
 #. Applications:
-#. Context: A cultivator is both a general term for any tool that is used to prepare soil for planting, and the name of four specific tools: a piece of machinery attached to a tractor, a small engine-propelled machine, a hand-action tool, and a traditional hand-tool.
+#. Context: A cultivator is both a general term for any tool that is used to
+#. prepare soil for planting, and the name of four specific tools: a piece of
+#. machinery attached to a tractor, a small engine-propelled machine, a hand-
+#. action tool, and a traditional hand-tool.
 msgid "Cultivator"
 msgstr ""
 
 #. Applications:
-#. Context: A cutting is a piece of a plant (e.g. shoot, twig, leaf, root or other plant part) removed from a parent plant and  capable of rooting, used to grow a whole new plant, a clone.
+#. Context: A cutting is a piece of a plant (e.g. shoot, twig, leaf, root or
+#. other plant part) removed from a parent plant and  capable of rooting, used
+#. to grow a whole new plant, a clone.
 msgid "Cuttings"
 msgstr ""
 
 #. Applications:
-#. Context: To remove buds from (a plant) to promote better blooms from the remaining buds or control the shape of the plant.
+#. Context: To remove buds from (a plant) to promote better blooms from the
+#. remaining buds or control the shape of the plant.
 msgid "De-budding"
 msgstr ""
 
@@ -277,237 +353,294 @@ msgid "Disaster Management"
 msgstr ""
 
 #. Applications:
-#. Context: Diversification of agriculture refers to the shift from the regional dominance of one crop to regional production of a number of crops.
+#. Context: Diversification of agriculture refers to the shift from the
+#. regional dominance of one crop to regional production of a number of crops.
 msgid "Diversification (agricultural & crop)"
 msgstr ""
 
-#: Applications:
-#. Context: The removal of excess water either from the ground surface or from the rootzone, is called drainage.
+#. Context: The removal of excess water either from the ground surface or from
+#. the rootzone, is called drainage.
+#: Applications
 msgid "Drainage"
 msgstr ""
 
-#: Applications:
-#. Context: Drip (or micro) irrigation, also known as trickle irrigation, functions as its name suggests. In this system water falls drop by drop just at the position of roots. Water is delivered at or near the root zone of plants, drop by drop. This method can be the most water-efficient method of irrigation, if managed properly, since evaporation and runoff are minimized.
+#. Context: Drip (or micro) irrigation, also known as trickle irrigation,
+#. functions as its name suggests. In this system water falls drop by drop
+#. just at the position of roots. Water is delivered at or near the root zone
+#. of plants, drop by drop. This method can be the most water-efficient method
+#. of irrigation, if managed properly, since evaporation and runoff are
+#. minimized.
+#: Applications
 msgid "Drip irrigaton"
 msgstr ""
 
-#: Applications:
-#. Context: Drought is a climatic anomaly, characterized by deficient supply of moisture resulting either from sub-normal rainfall, erratic rainfall distribution, higher water need or a combination of all the three factors.
+#. Context: Drought is a climatic anomaly, characterized by deficient supply
+#. of moisture resulting either from sub-normal rainfall, erratic rainfall
+#. distribution, higher water need or a combination of all the three factors.
+#: Applications
 msgid "Drought"
 msgstr ""
 
-#: Applications:
 #. Context: Management of drought situation
+#: Applications
 msgid "Drought Management"
 msgstr ""
 
-#: Applications:
-#. Context: Dryland farming is an agricultural technique for non-irrigated cultivation of drylands.
+#. Context: Dryland farming is an agricultural technique for non-irrigated
+#. cultivation of drylands.
+#: Applications
 msgid "Dryland Agriculture"
 msgstr ""
 
-#: Applications:
-#. Context: The burrowing and feeding activity of earthworms have numerous beneficial effects on overall soil quality for crop production. The following soil properties can be improved by earthworms.
+#. Context: The burrowing and feeding activity of earthworms have numerous
+#. beneficial effects on overall soil quality for crop production. The
+#. following soil properties can be improved by earthworms.
+#: Applications
 msgid "Earth worm"
 msgstr ""
 
-#: Applications:
 #. Context: Various machinery used in agriculture
+#: Applications
 msgid "Farm Machinery"
 msgstr ""
 
-#: Applications:
-#. Context: This is the traditional manure and is mostly readily available to the farmers. Farm yard manure is a decomposed mixture of Cattle dung and urine with straw and litter used as bedding material and residues from the fodder fed to the cattle.
+#. Context: This is the traditional manure and is mostly readily available to
+#. the farmers. Farm yard manure is a decomposed mixture of Cattle dung and
+#. urine with straw and litter used as bedding material and residues from the
+#. fodder fed to the cattle.
+#: Applications
 msgid "Farm Yard Manure"
 msgstr ""
 
-#: Applications:
-#. Context: A farmer (also called an agriculturer) is a person engaged in agriculture, raising living organisms for food or raw materials.
+#. Context: A farmer (also called an agriculturer) is a person engaged in
+#. agriculture, raising living organisms for food or raw materials.
+#: Applications
 msgid "Farmer"
 msgstr ""
 
-#: Applications:
 #. Context: Group formed by farmer
+#: Applications
 msgid "Farmer's Association"
 msgstr ""
 
-#: Applications:
-#. Context: Innovations play an important role in food production as well as in optimizing resource utilization by farmers. An innovation is an idea, practice or object that is perceived as new by an individual or others in a given system.
+#. Context: Innovations play an important role in food production as well as
+#. in optimizing resource utilization by farmers. An innovation is an idea,
+#. practice or object that is perceived as new by an individual or others in a
+#. given system.
+#: Applications
 msgid "Farmer's Innovation"
 msgstr ""
 
-#: Applications:
-#. Context: A farm is an area of land that is devoted primarily to agricultural processes or an area of water that is devoted primarily to aquacultural processes, in order to produce and manage such commodities as fibres, grains, livestock, or fuel. It is the basic production facility in food production.
+#. Context: A farm is an area of land that is devoted primarily to
+#. agricultural processes or an area of water that is devoted primarily to
+#. aquacultural processes, in order to produce and manage such commodities as
+#. fibres, grains, livestock, or fuel. It is the basic production facility in
+#. food production.
+#: Applications
 msgid "Farming"
 msgstr ""
 
-#: IApplications:
-#. Context: n agriculture, fences are used to keep animals in or out of an area. They can be made from a wide variety of materials, depending on terrain, location and animals to be confined.
+#. Context: n agriculture, fences are used to keep animals in or out of an
+#. area. They can be made from a wide variety of materials, depending on
+#. terrain, location and animals to be confined.
+#: IApplications
 msgid "Fence"
 msgstr ""
 
-#: Applications:
-#. Context: Fertilizers are combinations of the nutrients that plants must have to grow, in a form they can use.
+#. Context: Fertilizers are combinations of the nutrients that plants must
+#. have to grow, in a form they can use.
+#: Applications
 msgid "Fertilizer"
 msgstr ""
 
-#: Applications:
-#. Context: Fibre crops are field crops grown for their fibers, which are traditionally used to make paper, cloth, or rope.
+#. Context: Fibre crops are field crops grown for their fibers, which are
+#. traditionally used to make paper, cloth, or rope.
+#: Applications
 msgid "Fibre crops"
 msgstr ""
 
-#: Applications:
-#. Context: In agriculture, a field is an area of land, enclosed or otherwise, used for agricultural purposes.
+#. Context: In agriculture, a field is an area of land, enclosed or otherwise,
+#. used for agricultural purposes.
+#: Applications
 msgid "Field"
 msgstr ""
 
-#: Applications:
-#. Context: Fishery is an entity engaged in raising or harvesting fish which is determined by some authority to be a fishery.
+#. Context: Fishery is an entity engaged in raising or harvesting fish which
+#. is determined by some authority to be a fishery.
+#: Applications
 msgid "Fishery"
 msgstr ""
 
-#: Applications:
-#. Context: In surface (furrow, flood, or level basin) irrigation systems, water moves across the surface of agricultural lands, in order to wet it and infiltrate into the soil.
+#. Context: In surface (furrow, flood, or level basin) irrigation systems,
+#. water moves across the surface of agricultural lands, in order to wet it
+#. and infiltrate into the soil.
+#: Applications
 msgid "Flood irrigation"
 msgstr ""
 
-#: Applications:
-#. Context: A flower is the reproductive structure found in flowering plants (plants of the division Magnoliophyta, also called angiosperms).
+#. Context: A flower is the reproductive structure found in flowering plants
+#. (plants of the division Magnoliophyta, also called angiosperms).
+#: Applications
 msgid "Flower"
 msgstr ""
 
-#: Applications:
-#. Context: Floriculture, or flower farming, is a discipline of horticulture concerned with the cultivation of flowering and ornamental plants for gardens and for floristry, comprising the floral industry.
+#. Context: Floriculture, or flower farming, is a discipline of horticulture
+#. concerned with the cultivation of flowering and ornamental plants for
+#. gardens and for floristry, comprising the floral industry.
+#: Applications
 msgid "Floriculture"
 msgstr ""
 
-#: Applications:
 #. Context: The time and process of budding and unfolding of blossoms
+#: Applications
 msgid "Flowering"
 msgstr ""
 
-#: Applications:
 #. Context: Foliage is a mass noun that refers to leaves collectively.
+#: Applications
 msgid "Foliage"
 msgstr ""
 
-#: Applications:
-#. Context: Forage crops are crops grown specifically to be grazed by livestock or conserved as hay or silage.
+#. Context: Forage crops are crops grown specifically to be grazed by
+#. livestock or conserved as hay or silage.
+#: Applications
 msgid "Forage crop"
 msgstr ""
 
-#: Applications:
-#. Context: Fungicides are biocidal chemical compounds or biological organisms used to kill or inhibit fungi or fungal spores.
+#. Context: Fungicides are biocidal chemical compounds or biological organisms
+#. used to kill or inhibit fungi or fungal spores.
+#: Applications
 msgid "Fungicide"
 msgstr ""
 
-#: Applications:
-#. Context: A fungus is any member of a large group of eukaryotic organisms that includes microorganisms such as yeasts and molds as well as the more familiar mushrooms.
+#. Context: A fungus is any member of a large group of eukaryotic organisms
+#. that includes microorganisms such as yeasts and molds as well as the more
+#. familiar mushrooms.
+#: Applications
 msgid "Fungus"
 msgstr ""
 
-#: Applications:
 #. Context: process by which a plant grows from a seed
+#: Applications
 msgid "Germination"
 msgstr ""
 
-#: Applications:
-#. Context: Germination is the process by which a plant grows from a seed. The most common example of germination is the sprouting of a seedling from a seed of an angiosperm or gymnosperm.
+#. Context: Germination is the process by which a plant grows from a seed. The
+#. most common example of germination is the sprouting of a seedling from a
+#. seed of an angiosperm or gymnosperm.
+#: Applications
 msgid "Seed Germination"
 msgstr ""
 
-#: Applications:
-#. Context: Grafting or graftage is a horticultural technique whereby tissues from one plant are inserted into those of another so that the two sets of vascular tissues may join together.
+#. Context: Grafting or graftage is a horticultural technique whereby tissues
+#. from one plant are inserted into those of another so that the two sets of
+#. vascular tissues may join together.
+#: Applications
 msgid "Grafting"
 msgstr ""
 
-#: Applications:
-#. Context: Grains are small, hard, dry seeds, with or without attached hulls or fruit layers, harvested for human or animal consumption.
+#. Context: Grains are small, hard, dry seeds, with or without attached hulls
+#. or fruit layers, harvested for human or animal consumption.
+#: Applications
 msgid "Grain"
 msgstr ""
 
-#: Applications:
-#. Context: It refers manure which we are available from crops standing or buried under soil.
+#. Context: It refers manure which we are available from crops standing or
+#. buried under soil.
+#: Applications
 msgid "Green Manuring"
 msgstr ""
 
-#: Applications:
-#. Context: Greenhouses are frames of inflated structure covered with a transparent material in which crops are grown under controlled environment conditions.
+#. Context: Greenhouses are frames of inflated structure covered with a
+#. transparent material in which crops are grown under controlled environment
+#. conditions.
+#: Applications
 msgid "Greenhouse Cultivation"
 msgstr ""
 
-#: Applications:
-#. Context: Hand sprayers are often used to apply small quantities of pesticides.
+#. Context: Hand sprayers are often used to apply small quantities of
+#. pesticides.
+#: Applications
 msgid "Hand sprayer"
 msgstr ""
 
-#: Applications:
-#. Context: Renovation pruning, which can be considered to be hard pruning for the purpose of renewing a plant, is carried out on woody plants which have become neglected or overgrown.
+#. Context: Renovation pruning, which can be considered to be hard pruning for
+#. the purpose of renewing a plant, is carried out on woody plants which have
+#. become neglected or overgrown.
+#: Applications
 msgid "Hard Pruning"
 msgstr ""
 
-#: Applications:
-#. Context: Tool to implement for breaking up and smoothing out the surface of the soil
+#. Context: Tool to implement for breaking up and smoothing out the surface of
+#. the soil
+#: Applications
 msgid "Harrow"
 msgstr ""
 
-#: Applications:
 #. Context: Harvest is the process of gathering mature crops from the fields.
+#: Applications
 msgid "Harvest"
 msgstr ""
 
-#: Applications:
 #. Context: Machine that harvest the crops.
+#: Applications
 msgid "Harvester"
 msgstr ""
 
-#: Applications:
 #. Context: Measurement of land
+#: Applications
 msgid "Hectare"
 msgstr ""
 
-#: Applications:
-#. Context: A row of closely planted shrubs or low-growing trees forming a fence or boundary.
+#. Context: A row of closely planted shrubs or low-growing trees forming a
+#. fence or boundary.
+#: Applications
 msgid "Hedge"
 msgstr ""
 
 #. Applications:
-#. Context: 
+#. Context:
 msgid "Herb"
 msgstr ""
 
-#: Applications:
-#. Context: Herbicides, also commonly known as weedkillers, are pesticides used to kill unwanted plants.
+#. Context: Herbicides, also commonly known as weedkillers, are pesticides
+#. used to kill unwanted plants.
+#: Applications
 msgid "Herbicide"
 msgstr ""
 
-#: Applications:
-#. Context: Horticulture is the branch of agriculture that deals with the art, science, technology, and business of plant cultivation. It includes the cultivation of fruits, vegetables, flowers and ornamental trees and plants.
+#. Context: Horticulture is the branch of agriculture that deals with the art,
+#. science, technology, and business of plant cultivation. It includes the
+#. cultivation of fruits, vegetables, flowers and ornamental trees and plants.
+#: Applications
 msgid "Horticulture"
 msgstr ""
 
-#: Applications:
-#. Context: In biology a hybrid is an offspring of two animals or plants of different breeds, varieties, species, or genera.
+#. Context: In biology a hybrid is an offspring of two animals or plants of
+#. different breeds, varieties, species, or genera.
+#: Applications
 msgid "Hybrid"
 msgstr ""
 
-#: Applications:
 #. Context: Organisms that may be beneficial or harmful to the crops.
+#: Applications
 msgid "insect"
 msgstr ""
 
-#: Applications:
 #. Context: An insecticide is a substance used to kill insects.
+#: Applications
 msgid "insecticide"
 msgstr ""
 
-#: Applications:
-#. Context: It is a dynamic approach which can be applied to any farming system around the world.
+#. Context: It is a dynamic approach which can be applied to any farming
+#. system around the world.
+#: Applications
 msgid "Integrated Farming"
 msgstr ""
 
-#: Applications:
-#. Context: Intercropping is a multiple cropping practice involving growing two or more crops in proximity.
+#. Context: Intercropping is a multiple cropping practice involving growing
+#. two or more crops in proximity.
+#: Applications
 msgid "Intercropping"
 msgstr ""
 
@@ -515,562 +648,668 @@ msgstr ""
 msgid "Irrigation"
 msgstr ""
 
-#: Applications:
-#. Context: It is the management of irrigation for the corps as per requirement
+#. Context: It is the management of irrigation for the corps as per
+#. requirement
+#: Applications
 msgid "Irrigation Management"
 msgstr ""
 
-#: Applications:
-#. Context: Kharif crops or monsoon crops are cultivated and harvested during the rainy (monsoon) season.
+#. Context: Kharif crops or monsoon crops are cultivated and harvested during
+#. the rainy (monsoon) season.
+#: Applications
 msgid "Kharif crop"
 msgstr ""
 
-#: Applications:
-#. Context: Land preparation are the activities carried out before growing any crop in the field.
+#. Context: Land preparation are the activities carried out before growing any
+#. crop in the field.
+#: Applications
 msgid "Land Preparation"
 msgstr ""
 
-#: Applications:
-#. Context: Landscaping refers to any activity that modifies the visible features of an area of land
+#. Context: Landscaping refers to any activity that modifies the visible
+#. features of an area of land
+#: Applications
 msgid "Landscaping"
 msgstr ""
 
-#: Applications:
-#. Context: Layering is a means of plant propagation in which a portion of an aerial stem grows roots while still attached to the parent plant and then detaches as an independent plant.
+#. Context: Layering is a means of plant propagation in which a portion of an
+#. aerial stem grows roots while still attached to the parent plant and then
+#. detaches as an independent plant.
+#: Applications
 msgid "Layering"
 msgstr ""
 
-#: Applications:
-#. Context: A leaf is an organ of a vascular plant and is the principal lateral appendage of the stem..
+#. Context: A leaf is an organ of a vascular plant and is the principal
+#. lateral appendage of the stem..
+#: Applications
 msgid "Leaves"
 msgstr ""
 
-#: Applications:
-#. Context: Light pruning or trimming keeps your hedge in shape and encourages healthy, dense growth..
+#. Context: Light pruning or trimming keeps your hedge in shape and encourages
+#. healthy, dense growth..
+#: Applications
 msgid "Light Pruning"
 msgstr ""
 
-#: Applications:
-#. Context: Livestock are domesticated animals raised in an agricultural setting to produce commodities such as food, fiber and labor..
+#. Context: Livestock are domesticated animals raised in an agricultural
+#. setting to produce commodities such as food, fiber and labor..
+#: Applications
 msgid "Livestock"
 msgstr ""
 
-#: Applications:
-#. Context: Manure is organic matter used as organic fertilizer in agriculture. Manures contribute to the fertility of the soil..
+#. Context: Manure is organic matter used as organic fertilizer in
+#. agriculture. Manures contribute to the fertility of the soil..
+#: Applications
 msgid "Manure"
 msgstr ""
 
-#: Applications:
 #. Context: It is the place for selling agro products.
+#: Applications
 msgid "Market"
 msgstr ""
 
-#: Applications:
 #. Context: Crops which are grown for medicinal purposes.
+#: Applications
 msgid "Medicinal Crops"
 msgstr ""
 
-#: Applications:
 #. Context: Cutting of plants to medium range.
+#: Applications
 msgid "Medium Pruning"
 msgstr ""
 
-#: Applications:
 #. Context: A microclimate is the distinctive climate of a small-scale area.
+#: Applications
 msgid "Micro climate"
 msgstr ""
 
-#: Applications:
-#. Context: Moisture refers to the presence of a liquid, especially water, often in trace amounts. Small amounts of water may be found, for example, in the air (humidity), in foods, and in various commercial products.
+#. Context: Moisture refers to the presence of a liquid, especially water,
+#. often in trace amounts. Small amounts of water may be found, for example,
+#. in the air (humidity), in foods, and in various commercial products.
+#: Applications
 msgid "Moisture"
 msgstr ""
 
-#: Applications:
-#. Context: Monsoon is traditionally defined as a seasonal reversing wind accompanied by corresponding changes in precipitation,but is now used to describe seasonal changes in atmospheric circulation and precipitation associated with the asymmetric heating of land and sea.
+#. Context: Monsoon is traditionally defined as a seasonal reversing wind
+#. accompanied by corresponding changes in precipitation,but is now used to
+#. describe seasonal changes in atmospheric circulation and precipitation
+#. associated with the asymmetric heating of land and sea.
+#: Applications
 msgid "Monsoon"
 msgstr ""
 
-#: Applications:
-#. Context: The Minimum Support Price (MSP) Scheme is a scheme of the Government of India (GOI) to safeguard the interests of the farmers.
+#. Context: The Minimum Support Price (MSP) Scheme is a scheme of the
+#. Government of India (GOI) to safeguard the interests of the farmers.
+#: Applications
 msgid "MSP (Minimum support Price)"
 msgstr ""
 
-#: Applications:
-#. Context: Mulch is simply a protective layer of a material that is spread on top of the soil.  
+#. Context: Mulch is simply a protective layer of a material that is spread on
+#. top of the soil.
+#: Applications
 msgid "Mulching"
 msgstr ""
 
-#: Applications:
-#. Context: Nitrogen is an essential building block of amino and nucleic acids, essential to life on Earth
+#. Context: Nitrogen is an essential building block of amino and nucleic
+#. acids, essential to life on Earth
+#: Applications
 msgid "Nitrogen"
 msgstr ""
 
-#: Applications:
-#. Context: A nozzle is a device designed to control the direction or characteristics of a fluid flow (especially to increase velocity) as it exits (or enters) an enclosed chamber or pipe.
+#. Context: A nozzle is a device designed to control the direction or
+#. characteristics of a fluid flow (especially to increase velocity) as it
+#. exits (or enters) an enclosed chamber or pipe.
+#: Applications
 msgid "Nozzle"
 msgstr ""
 
-#: Applications:
-#. Context: A nursery is a place where plants are propagated and grown to usable size.
+#. Context: A nursery is a place where plants are propagated and grown to
+#. usable size.
+#: Applications
 msgid "Nursery"
 msgstr ""
 
 #. Applications:
-#. Context: 
+#. Context:
 msgid "Nutrients"
 msgstr ""
 
-#: Applications:
 #. Context: Lack of desired nutrients for the plants in the soil.
+#: Applications
 msgid "Nutrient Deficiencies"
 msgstr ""
 
-#: Applications:
 #. Context: Management of the nutrients required for plant growth..
+#: Applications
 msgid "Nutrient Management"
 msgstr ""
 
-#: Applications:
 #. Context: Plants which contains oil. Eg. Sunflower, Groundnuts etc.
+#: Applications
 msgid "Oil seeds"
 msgstr ""
 
-#: Applications:
 #. Context: Certification for doing organic farming
+#: Applications
 msgid "Organic certification"
 msgstr ""
 
-#: Applications:
-#. Context: Organic farming is a form of agriculture that relies on techniques such as crop rotation, green manure, compost, and biological pest control.
+#. Context: Organic farming is a form of agriculture that relies on techniques
+#. such as crop rotation, green manure, compost, and biological pest control.
+#: Applications
 msgid "Organic farming"
 msgstr ""
 
-#: Applications:
 #. Context: Principles and Practices for getting Organic Food
+#: Applications
 msgid "Organic Farming practices"
 msgstr ""
 
-#: IApplications:
 #. Context: nputs and Techniques required for organic farming.
+#: IApplications
 msgid "Organic inputs and techniques"
 msgstr ""
 
-#: Applications:
-#. Context: Since plants get carbon, hydrogen, and oxygen from the air and water, there is little farmers and gardeners can do to control  how much of these nutrients a plant can use.
+#. Context: Since plants get carbon, hydrogen, and oxygen from the air and
+#. water, there is little farmers and gardeners can do to control  how much of
+#. these nutrients a plant can use.
+#: Applications
 msgid "Oxygen"
 msgstr ""
 
-#: Applications:
-#. Context: (Biology) an animal or plant that lives in or on another (the host) from which it obtains nourishment.
+#. Context: (Biology) an animal or plant that lives in or on another (the
+#. host) from which it obtains nourishment.
+#: Applications
 msgid "Parasites"
 msgstr ""
 
-#: Applications:
-#. Context: A parasitoid is an organism that spends a significant portion of its life history attached to or within a single host organism in a relationship that is in essence parasitic.
+#. Context: A parasitoid is an organism that spends a significant portion of
+#. its life history attached to or within a single host organism in a
+#. relationship that is in essence parasitic.
+#: Applications
 msgid "Parasitoid"
 msgstr ""
 
-#: Applications:
-#. Context: A pathogen in the oldest and broadest sense is anything that can produce disease.
+#. Context: A pathogen in the oldest and broadest sense is anything that can
+#. produce disease.
+#: Applications
 msgid "pathogen"
 msgstr ""
 
-#: Applications:
-#. Context: “Pest” refers to any animal or plant causing harm or damage to people or their animals, crops, or possessions, even if it only causes annoyance.
+#. Context: “Pest” refers to any animal or plant causing harm or damage to
+#. people or their animals, crops, or possessions, even if it only causes
+#. annoyance.
+#: Applications
 msgid "Pest"
 msgstr ""
 
-#: Applications:
-#. Context: Controlling of pest and diseases affecting crop's health and growth
+#. Context: Controlling of pest and diseases affecting crop's health and
+#. growth
+#: Applications
 msgid "Pest and Disease Control"
 msgstr ""
 
-#: Applications:
-#. Context: Pesticides are substances meant for attracting, reducing, destroying, or mitigating any pest.
+#. Context: Pesticides are substances meant for attracting, reducing,
+#. destroying, or mitigating any pest.
+#: Applications
 msgid "Pesticide"
 msgstr ""
 
-#: Applications:
 #. Context: pH is a measure of the acidity or basicity.
+#: Applications
 msgid "pH"
 msgstr ""
 
-#: Applications:
-#. Context: The process of capturing light energy and converting it to sugar energy, in the presence of chlorophyll using CO2 and H2O
+#. Context: The process of capturing light energy and converting it to sugar
+#. energy, in the presence of chlorophyll using CO2 and H2O
+#: Applications
 msgid "Photosynthesis"
 msgstr ""
 
-#: Applications:
-#. Context: Plants make plant growth regulators, often called phytohormones, these are substances use to regulate growth and development of the plant.
+#. Context: Plants make plant growth regulators, often called phytohormones,
+#. these are substances use to regulate growth and development of the plant.
+#: Applications
 msgid "Plant growth regulators"
 msgstr ""
 
-#: Applications:
-#. Context: Plant nutrition is the study of the chemical elements and compounds that are necessary for plant growth, and also of their external supply and internal metabolism.
+#. Context: Plant nutrition is the study of the chemical elements and
+#. compounds that are necessary for plant growth, and also of their external
+#. supply and internal metabolism.
+#: Applications
 msgid "Plant nutrient"
 msgstr ""
 
-#: Applications:
-#. Context: Plantation crops constitute a large group of crops. The major plantation crops include coconut, arecanut, oil palm, cashew, tea, coffee and rubber; the minor plantation crops include cocoa.
+#. Context: Plantation crops constitute a large group of crops. The major
+#. plantation crops include coconut, arecanut, oil palm, cashew, tea, coffee
+#. and rubber; the minor plantation crops include cocoa.
+#: Applications
 msgid "Plantation Crops"
 msgstr ""
 
-#: Applications:
 #. Context: It is the structure used for planting the plants.
+#: Applications
 msgid "Planting pit"
 msgstr ""
 
-#: Applications:
-#. Context: Plants, also called green plants, are multicellular eukaryotes of the kingdom Plantae.
+#. Context: Plants, also called green plants, are multicellular eukaryotes of
+#. the kingdom Plantae.
+#: Applications
 msgid "Plants"
 msgstr ""
 
-#: Applications:
-#. Context: The plough or plow is a tool (or machine) used in farming for initial cultivation of soil in preparation for sowing seed or planting to loosen or turn the soil.
+#. Context: The plough or plow is a tool (or machine) used in farming for
+#. initial cultivation of soil in preparation for sowing seed or planting to
+#. loosen or turn the soil.
+#: Applications
 msgid "Plough"
 msgstr ""
 
-#: Applications:
 #. Context: Removal of plant parts by hand.
+#: Applications
 msgid "Pluck"
 msgstr ""
 
 #. Applications:
-#. Context: 
+#. Context:
 msgid "Policies and schemes"
 msgstr ""
 
-#: Applications:
-#. Context: Pollination is the process by which pollen is transferred from the anther (male part) to the stigma (female part) of the plant, thereby enabling fertilization and reproduction.
+#. Context: Pollination is the process by which pollen is transferred from the
+#. anther (male part) to the stigma (female part) of the plant, thereby
+#. enabling fertilization and reproduction.
+#: Applications
 msgid "Pollination"
 msgstr ""
 
-#: Applications:
-#. Context: Post harvest technology are those which starts immediately after harvesting of crops.
+#. Context: Post harvest technology are those which starts immediately after
+#. harvesting of crops.
+#: Applications
 msgid "Post Harvest Technology"
 msgstr ""
 
-#: Applications:
 #. Context: Potassium (K) is an essential nutrient for plant growth.
+#: Applications
 msgid "Pottasium"
 msgstr ""
 
-#: Applications:
-#. Context: Poultry are domesticated birds kept by humans for the eggs they produce, their meat, their feathers, or sometimes as pets.
+#. Context: Poultry are domesticated birds kept by humans for the eggs they
+#. produce, their meat, their feathers, or sometimes as pets.
+#: Applications
 msgid "Poultry"
 msgstr ""
 
-#: Applications:
-#. Context: Pruning is a horticultural and silvicultural practice involving the selective removal of parts of a plant, such as branches, buds, or roots.
+#. Context: Pruning is a horticultural and silvicultural practice involving
+#. the selective removal of parts of a plant, such as branches, buds, or
+#. roots.
+#: Applications
 msgid "Pruning"
 msgstr ""
 
-#: Applications:
-#. Context: A pulse sometimes called a "grain legume” is an annual leguminous crop yielding from one to twelve seeds of variable size, shape, and color within a pod.
+#. Context: A pulse sometimes called a "grain legume” is an annual leguminous
+#. crop yielding from one to twelve seeds of variable size, shape, and color
+#. within a pod.
+#: Applications
 msgid "Pulses"
 msgstr ""
 
-#: Applications:
 #. Context: Measurement of harvested crops
+#: Applications
 msgid "Quintal"
 msgstr ""
 
-#: Applications:
 #. Context: Crops that are grown during winter season.
+#: Applications
 msgid "Rabi crop"
 msgstr ""
 
-#: Applications:
 #. Context: Season
+#: Applications
 msgid "Rainy"
 msgstr ""
 
-#: Applications:
-#. Context: Rejuvenation pruning and renewal pruning are two techniques that includes removal of old and unwanted parts of the plant.
+#. Context: Rejuvenation pruning and renewal pruning are two techniques that
+#. includes removal of old and unwanted parts of the plant.
+#: Applications
 msgid "Rejuvenation Pruning"
 msgstr ""
 
-#: Applications:
 #. Context: Tool used for fattening land after ploughing
+#: Applications
 msgid "Roller"
 msgstr ""
 
-#: Applications:
-#. Context: In vascular plants, the root is the organ of a plant that typically lies below the surface of the soil.
+#. Context: In vascular plants, the root is the organ of a plant that
+#. typically lies below the surface of the soil.
+#: Applications
 msgid "Root"
 msgstr ""
 
-#: Applications:
-#. Context: A rootstock is part of a plant, often an underground part, from which new above-ground growth can be produced. It can refer to a rhizome or underground stem.
+#. Context: A rootstock is part of a plant, often an underground part, from
+#. which new above-ground growth can be produced. It can refer to a rhizome or
+#. underground stem.
+#: Applications
 msgid "Root stock"
 msgstr ""
 
-#: Applications:
 #. Context: Type of soil
+#: Applications
 msgid "Sand"
 msgstr ""
 
-#: Applications:
-#. Context: It is the part of the plant which is used for grafting over the root stock.
+#. Context: It is the part of the plant which is used for grafting over the
+#. root stock.
+#: Applications
 msgid "Scion"
 msgstr ""
 
-#: Applications:
-#. Context: A season is a division of the year, marked by changes in weather, ecology, and hours of daylight.
+#. Context: A season is a division of the year, marked by changes in weather,
+#. ecology, and hours of daylight.
+#: Applications
 msgid "Season"
 msgstr ""
 
-#: Applications:
-#. Context: Seed certification is a legally sanctioned system for quality control of seed multiplication and production.
+#. Context: Seed certification is a legally sanctioned system for quality
+#. control of seed multiplication and production.
+#: Applications
 msgid "Seed certification"
 msgstr ""
 
-#: Applications:
-#. Context: Seed certification is a legally sanctioned system for quality control of seed multiplication and production.
+#. Context: Seed certification is a legally sanctioned system for quality
+#. control of seed multiplication and production.
+#: Applications
 msgid "Seed Processing"
 msgstr ""
 
-#: Applications:
-#. Context: Storage may be defined as the preservation of viable seeds from the time of collection until they are required for sowing
+#. Context: Storage may be defined as the preservation of viable seeds from
+#. the time of collection until they are required for sowing
+#: Applications
 msgid "Seed Storage"
 msgstr ""
 
-#: Applications:
-#. Context: Lab where the seeds are tested for germination and other properties.
+#. Context: Lab where the seeds are tested for germination and other
+#. properties.
+#: Applications
 msgid "Seed Testing lab"
 msgstr ""
 
-#: Applications:
-#. Context: In agriculture and horticulture, a seed treatment or seed dressing is a chemical, typically antimicrobial or fungidal, with which seeds are treated (or "dressed") prior to planting.
+#. Context: In agriculture and horticulture, a seed treatment or seed dressing
+#. is a chemical, typically antimicrobial or fungidal, with which seeds are
+#. treated (or "dressed") prior to planting.
+#: Applications
 msgid "Seed treatment"
 msgstr ""
 
-#: Applications:
-#. Context: A seedling is a young plant sporophyte developing out of a plant embryo from a seed.
+#. Context: A seedling is a young plant sporophyte developing out of a plant
+#. embryo from a seed.
+#: Applications
 msgid "Seedling"
 msgstr ""
 
-#: Applications:
-#. Context: embryonic plant enclosed in a protective outer covering called the seed.
+#. Context: embryonic plant enclosed in a protective outer covering called the
+#. seed.
+#: Applications
 msgid "Seeds"
 msgstr ""
 
-#: Applications:
-#. Context: Sericulture, or silk farming, is the rearing of silkworms for the production of silk.
+#. Context: Sericulture, or silk farming, is the rearing of silkworms for the
+#. production of silk.
+#: Applications
 msgid "Sericulture"
 msgstr ""
 
-#: Applications:
-#. Context: In botany, shoots consist of stems including their appendages, the leaves and lateral buds, flowering stems and flower buds.
+#. Context: In botany, shoots consist of stems including their appendages, the
+#. leaves and lateral buds, flowering stems and flower buds.
+#: Applications
 msgid "Shoot"
 msgstr ""
 
-#: Applications:
-#. Context: A shrub is distinguished from a tree by its multiple stems and shorter height, usually under 6 m (20 ft) tall..
+#. Context: A shrub is distinguished from a tree by its multiple stems and
+#. shorter height, usually under 6 m (20 ft) tall..
+#: Applications
 msgid "shrub"
 msgstr ""
 
-#: Applications:
-#. Context: Silviculture is the practice of controlling the establishment, growth, composition, health, and quality of forests to meet diverse needs and values.
+#. Context: Silviculture is the practice of controlling the establishment,
+#. growth, composition, health, and quality of forests to meet diverse needs
+#. and values.
+#: Applications
 msgid "Silviculture"
 msgstr ""
 
-#: Applications:
-#. Context: A light skiffing (removal of the congested branches, shoots, etc. from the top.
+#. Context: A light skiffing (removal of the congested branches, shoots, etc.
+#. from the top.
+#: Applications
 msgid "Skiffing"
 msgstr ""
 
-#: Applications:
-#. Context: Social forestry means the management and protection of forests and afforestation on barren lands with the purpose of helping in the environmental, social and rural development.
+#. Context: Social forestry means the management and protection of forests and
+#. afforestation on barren lands with the purpose of helping in the
+#. environmental, social and rural development.
+#: Applications
 msgid "Social forestry"
 msgstr ""
 
-#: Applications:
-#. Context: Soil is the mixture of minerals, organic matter, gases, liquids, and the myriad of organisms that together support plant life.
+#. Context: Soil is the mixture of minerals, organic matter, gases, liquids,
+#. and the myriad of organisms that together support plant life.
+#: Applications
 msgid "Soil"
 msgstr ""
 
-#: Applications:
 #. Context: The supply of oxygen to roots in adequate quantities.
+#: Applications
 msgid "Soil aeration"
 msgstr ""
 
-#: Applications:
 #. Context: conservation+of+soil+and+water.
+#: Applications
 msgid "Soil and Water Conservation"
 msgstr ""
 
-#: Applications:
-#. Context: Refers to the ability of the soil to supply essential plant nutrients.
+#. Context: Refers to the ability of the soil to supply essential plant
+#. nutrients.
+#: Applications
 msgid "Soil fertility"
 msgstr ""
 
-#: Applications:
-#. Context: Soil organisms break down organic matter, making nutrients available for uptake by plants and other organisms.
+#. Context: Soil organisms break down organic matter, making nutrients
+#. available for uptake by plants and other organisms.
+#: Applications
 msgid "Soil organism"
 msgstr ""
 
-#: Applications:
-#. Context: Soil test is the analysis of a soil sample to determine nutrient and contaminated content, composition, and other characteristics such as the acidity or pH level.
+#. Context: Soil test is the analysis of a soil sample to determine nutrient
+#. and contaminated content, composition, and other characteristics such as
+#. the acidity or pH level.
+#: Applications
 msgid "Soil test"
 msgstr ""
 
-#: Applications:
 #. Context: Practice of growing plants
+#: Applications
 msgid "Sowing"
 msgstr ""
 
-#: Applications:
 #. Context: Crops grown for spice.
+#: Applications
 msgid "Spice Crops"
 msgstr ""
 
-#: Applications:
 #. Context: A sprayer is a device used to spray a liquid.
+#: Applications
 msgid "Sprayer"
 msgstr ""
 
-#: Applications:
-#. Context: The sprinkler system irrigates the field drop by drop. Sprinkler irrigation is a method of applying irrigation water which is similar to natural rainfall.
+#. Context: The sprinkler system irrigates the field drop by drop. Sprinkler
+#. irrigation is a method of applying irrigation water which is similar to
+#. natural rainfall.
+#: Applications
 msgid "Sprinkler irrigaton"
 msgstr ""
 
-#: Applications:
-#. Context: Many different food groups contain a carbohydrate known as starch. Using an iodine solution, we can test for the presence of starch. When starch is present, the iodine changes from brown to blue-black or purple.
+#. Context: Many different food groups contain a carbohydrate known as starch.
+#. Using an iodine solution, we can test for the presence of starch. When
+#. starch is present, the iodine changes from brown to blue-black or purple.
+#: Applications
 msgid "Starch test"
 msgstr ""
 
-#: Applications:
-#. Context: A stem is one of two main structural axes of a vascular plant, the other being the root.
+#. Context: A stem is one of two main structural axes of a vascular plant, the
+#. other being the root.
+#: Applications
 msgid "Stem"
 msgstr ""
 
-#: Applications:
-#. Context: An agricultural subsidy is a governmental subsidy paid to farmers and agribusinesses to supplement their income, manage the supply of agricultural commodities, and influence the cost and supply of such commodities.
+#. Context: An agricultural subsidy is a governmental subsidy paid to farmers
+#. and agribusinesses to supplement their income, manage the supply of
+#. agricultural commodities, and influence the cost and supply of such
+#. commodities.
+#: Applications
 msgid "Subsidy"
 msgstr ""
 
-#: Applications:
-#. Context: Sugar crops are used to produce alcohol and ethanol. In certain countries, sugar cane is eaten raw in minor quantities. It also is used in the preparation of juices and for animal feed.
+#. Context: Sugar crops are used to produce alcohol and ethanol. In certain
+#. countries, sugar cane is eaten raw in minor quantities. It also is used in
+#. the preparation of juices and for animal feed.
+#: Applications
 msgid "Sugar Crops"
 msgstr ""
 
-#: Applications:
-#. Context: Summer is the warmest of the four temperate seasons, falling between spring and autumn.
+#. Context: Summer is the warmest of the four temperate seasons, falling
+#. between spring and autumn.
+#: Applications
 msgid "Summer"
 msgstr ""
 
-#: Applications:
-#. Context: Sustainable agriculture is the production of food, fiber, or other plant or animal products using farming techniques that protect the environment, public health, human communities, and animal welfare.
+#. Context: Sustainable agriculture is the production of food, fiber, or other
+#. plant or animal products using farming techniques that protect the
+#. environment, public health, human communities, and animal welfare.
+#: Applications
 msgid "Sustainable Agriculture"
 msgstr ""
 
-#: Applications:
 #. Context: Growing of the plants on the terrace.
+#: Applications
 msgid "Terrace garden"
 msgstr ""
 
-#: Applications:
-#. Context: Tillage is the agricultural preparation of soil by mechanical agitation of various types, such as digging, stirring, and overturning.
+#. Context: Tillage is the agricultural preparation of soil by mechanical
+#. agitation of various types, such as digging, stirring, and overturning.
+#: Applications
 msgid "Tillage"
 msgstr ""
 
-#: Applications:
-#. Context: Tipping is part of canopy management and involves removing the top 2cm of the growth tip of a shoot. There are several reasons for tipping a vineyard.
+#. Context: Tipping is part of canopy management and involves removing the top
+#. 2cm of the growth tip of a shoot. There are several reasons for tipping a
+#. vineyard.
+#: Applications
 msgid "Tipping"
 msgstr ""
 
-#: Applications:
 #. Context: Instruments which are used to reduce drudggery in agriculture.
+#: Applications
 msgid "Tools and equipment"
 msgstr ""
 
-#: Applications:
-#. Context: Topdressing is the application a blended soil mixture over the surface of turf grass.
+#. Context: Topdressing is the application a blended soil mixture over the
+#. surface of turf grass.
+#: Applications
 msgid "Top dressing"
 msgstr ""
 
-#: Applications:
-#. Context: A tractor is an engineering vehicle specifically designed to deliver a high tractive effort (or torque) at slow speeds, for the purposes of hauling a trailer or machinery used in agriculture or construction.
+#. Context: A tractor is an engineering vehicle specifically designed to
+#. deliver a high tractive effort (or torque) at slow speeds, for the purposes
+#. of hauling a trailer or machinery used in agriculture or construction.
+#: Applications
 msgid "Tractor"
 msgstr ""
 
-#: Applications:
 #. Context: Method of giving desirable shape to the plants.
+#: Applications
 msgid "Training"
 msgstr ""
 
-#: Applications:
 #. Context: Transplanting seedling into the main field
+#: Applications
 msgid "Transplantation"
 msgstr ""
 
-#: Applications:
-#. Context: This plant is described as a medium-sized, evergreen, monoecious tree up to 20 meters tall and 80 cm in diameter. I
+#. Context: This plant is described as a medium-sized, evergreen, monoecious
+#. tree up to 20 meters tall and 80 cm in diameter. I
+#: Applications
 msgid "Trees"
 msgstr ""
 
-#: Applications:
-#. Context: The trenches between the rows allow for water drainage during heavy rainstorms and provide a little more space between the crops.
+#. Context: The trenches between the rows allow for water drainage during
+#. heavy rainstorms and provide a little more space between the crops.
+#: Applications
 msgid "Trenches"
 msgstr ""
 
-#: Applications:
-#. Context: Trunk (or bole) refers to the main wooden axis of a tree which is an important diagnostic feature in tree identification, and which often differs markedly from the bottom of the trunk to the top, depending on the species.
+#. Context: Trunk (or bole) refers to the main wooden axis of a tree which is
+#. an important diagnostic feature in tree identification, and which often
+#. differs markedly from the bottom of the trunk to the top, depending on the
+#. species.
+#: Applications
 msgid "Trunk"
 msgstr ""
 
-#: Applications:
 #. Context: Uproot seedlings by holding a few at a time and pulling sideways.
+#: Applications
 msgid "Uproot"
 msgstr ""
 
-#: Applications:
 #. Context: Value addition for the agri product.
+#: Applications
 msgid "Value addition"
 msgstr ""
 
-#: Applications:
 #. Context: Crop are grown for vegetable purpose.
+#: Applications
 msgid "Vegetable crops"
 msgstr ""
 
-#: Applications:
-#. Context: Vegetative reproduction (vegetative propagation, vegetative multiplication, vegetative cloning) is a form of asexual reproduction in plants. It is a process by which new organisms arise without production of seeds or spores It can occur naturally or be induced by horticulturists.
+#. Context: Vegetative reproduction (vegetative propagation, vegetative
+#. multiplication, vegetative cloning) is a form of asexual reproduction in
+#. plants. It is a process by which new organisms arise without production of
+#. seeds or spores It can occur naturally or be induced by horticulturists.
+#: Applications
 msgid "Vegetative Propagation"
 msgstr ""
 
-#: Applications:
-#. Context: Vermicompost is the product or process of composting using various worms.
+#. Context: Vermicompost is the product or process of composting using various
+#. worms.
+#: Applications
 msgid "Vermi-composting"
 msgstr ""
 
-#: Applications:
 #. Context: Management of water as per the requirement of the plants.
+#: Applications
 msgid "Water Management"
 msgstr ""
 
-#: Applications:
 #. Context: Management of water by using various structures.
+#: Applications
 msgid "Watershed Management"
 msgstr ""
 
-#: Applications:
-#. Context: plant considered undesirable in a particular situation or unwanted plants.
+#. Context: plant considered undesirable in a particular situation or unwanted
+#. plants.
+#: Applications
 msgid "Weed"
 msgstr ""
 
-#: Applications:
 #. Context: Control of weeds.
+#: Applications
 msgid "Weed Management"
 msgstr ""
 
-#: Applications:
 #. Context: Removal of Weeds by hands
+#: Applications
 msgid "Weeding"
 msgstr ""
 
-#: Applications:
-#. Context: Winter is the coldest season of the year in polar climates and temperate climates, between autumn and spring.
+#. Context: Winter is the coldest season of the year in polar climates and
+#. temperate climates, between autumn and spring.
+#: Applications
 msgid "Winter"
 msgstr ""
