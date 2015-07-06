@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-05-03 11:20+0530\n"
-"PO-Revision-Date: 2015-07-06 00:58:45.021037\n"
+"PO-Revision-Date: 2015-07-06 02:51:15.737353\n"
 "Last-Translator: Ayan Choudhury <ping2ayan@gmail.com>\n"
 "Language-Team: none\n"
 "Language: bn_IN\n"
@@ -246,13 +246,13 @@ msgstr "জলবায়ু"
 #. location, all originating vegetatively, not sexually, from a single
 #. ancestor.
 msgid "Clonal plant"
-msgstr ""
+msgstr "ক্লোনাল উদ্ভিদ"
 
 #. Applications:
 #. Context: machine that harvests grain crops (reaping, threshing, and
 #. winnowing)
 msgid "Combine harvester"
-msgstr ""
+msgstr "সংযুক্ত ফসল কাটা"
 
 #. Applications:
 #. Context: Boards specially established by government of India for promotion
@@ -260,7 +260,7 @@ msgstr ""
 #. potentials. These boards are supplimentary to the Export Promotion
 #. Councils.
 msgid "Commodity Boards"
-msgstr ""
+msgstr "কমোডিটি বোর্ড"
 
 #. Applications:
 #. Context: A commodities exchange is a baleine exchange where various
@@ -269,53 +269,53 @@ msgstr ""
 #. (like wheat, barley, sugar, maize, cotton, cocoa, coffee, milk products,
 #. pork bellies, oil, metals, etc.) and contracts based on them.
 msgid "Commodity Exchange & Trade"
-msgstr ""
+msgstr "পণ্য বিনিময় ও বাণিজ্য"
 
 #. Applications:
 #. Context: Companion planting and combining means growing plants together
 #. that like or benefit each other.
 msgid "Companion planting"
-msgstr ""
+msgstr "কম্প্যানিয়ন লাগানো"
 
 #. Applications:
 #. Context:Compost is organic matter that has been decomposed and recycled as
 #. a fertilizer and soil amendment.
 msgid "Compost"
-msgstr ""
+msgstr "সার"
 
 #. Applications:
 #. Context: A crop is any cultivated plant, fungus, or alga that is harvested
 #. for food, clothing, livestock fodder, biofuel, medicine, or other uses.
 msgid "Crop"
-msgstr ""
+msgstr "ফসল"
 
 #. Applications:
 #. Context: Diseases affecting crops
 msgid "Crop Diseases"
-msgstr ""
+msgstr "ফসলের রোগ"
 
 #. Applications:
 #. Context: Production of crop
 msgid "Crop production"
-msgstr ""
+msgstr "ফসলের উতপাদন"
 
 #. Applications:
 #. Context: Protecting method used for crop from dieseases, pest and other
 #. environment factors.
 msgid "Crop Protection"
-msgstr ""
+msgstr "ফসলের সুরক্ষা"
 
 #. Applications:
 #. Context: Crop rotation is the practice of growing a series of
 #. dissimilar/different types of crops in the same area in sequential seasons.
 msgid "Crop rotation"
-msgstr ""
+msgstr "ফসল পরিবর্তন"
 
 #. Applications:
 #. Context: A measurement of the amount of a crop that was harvested per unit
 #. of land area.
 msgid "Crop yield"
-msgstr ""
+msgstr "ফসল উৎপাদন"
 
 #. Applications:
 #. Context: Loosening and breaking up (tilling) of the soil. The soil around
@@ -324,7 +324,7 @@ msgstr ""
 #. and water infiltration. Soil being prepared for the planting of a crop is
 #. cultivated by a harrow or plow.
 msgid "Cultivation"
-msgstr ""
+msgstr "চাষ"
 
 #. Applications:
 #. Context: A cultivator is both a general term for any tool that is used to
@@ -332,31 +332,31 @@ msgstr ""
 #. machinery attached to a tractor, a small engine-propelled machine, a hand-
 #. action tool, and a traditional hand-tool.
 msgid "Cultivator"
-msgstr ""
+msgstr "কৃষক"
 
 #. Applications:
 #. Context: A cutting is a piece of a plant (e.g. shoot, twig, leaf, root or
 #. other plant part) removed from a parent plant and  capable of rooting, used
 #. to grow a whole new plant, a clone.
 msgid "Cuttings"
-msgstr ""
+msgstr "কাটা টুকরা"
 
 #. Applications:
 #. Context: To remove buds from (a plant) to promote better blooms from the
 #. remaining buds or control the shape of the plant.
 msgid "De-budding"
-msgstr ""
+msgstr "দে উদীয়মান"
 
 #. Applications:
 #. Context: If any natural disaster, it need some steps to recover.
 msgid "Disaster Management"
-msgstr ""
+msgstr "দুর্যোগ ব্যবস্থাপনা"
 
 #. Applications:
 #. Context: Diversification of agriculture refers to the shift from the
 #. regional dominance of one crop to regional production of a number of crops.
 msgid "Diversification (agricultural & crop)"
-msgstr ""
+msgstr "বহুমুখীকরণ (কৃষি ও শস্য)"
 
 #. Context: The removal of excess water either from the ground surface or from
 #. the rootzone, is called drainage.
