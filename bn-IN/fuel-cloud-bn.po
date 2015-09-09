@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-12-23 16:29+0530\n"
-"PO-Revision-Date: 2015-02-21 21:29:05\n"
+"PO-Revision-Date: 2015-02-21 01:46+0000\n"
 "Last-Translator: Ayan Choudhury <ping2ayan@gmail.com>\n"
 "Language-Team: none\n"
 "Language: bn_IN\n"
@@ -139,7 +139,7 @@ msgstr "স্থাপত্য"
 #. Context: Cloud architecture
 msgctxt "Cloud architecture"
 msgid "Architecture"
-msgstr ""
+msgstr "স্থাপত্য"
 
 #. Applications:
 #. Context: To associate floating IP
