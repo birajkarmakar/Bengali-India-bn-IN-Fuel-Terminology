@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-05-03 11:20+0530\n"
-"PO-Revision-Date: 2015-07-06 02:51:15.737353\n"
+"PO-Revision-Date: 2015-09-09 04:44+0000\n"
 "Last-Translator: Ayan Choudhury <ping2ayan@gmail.com>\n"
 "Language-Team: none\n"
 "Language: bn_IN\n"
@@ -362,7 +362,7 @@ msgstr "বহুমুখীকরণ (কৃষি ও শস্য)"
 #. the rootzone, is called drainage.
 #: Applications
 msgid "Drainage"
-msgstr ""
+msgstr "নিষ্কাশন"
 
 #. Context: Drip (or micro) irrigation, also known as trickle irrigation,
 #. functions as its name suggests. In this system water falls drop by drop
@@ -372,37 +372,37 @@ msgstr ""
 #. minimized.
 #: Applications
 msgid "Drip irrigaton"
-msgstr ""
+msgstr "ক্ষরা সেচ"
 
 #. Context: Drought is a climatic anomaly, characterized by deficient supply
 #. of moisture resulting either from sub-normal rainfall, erratic rainfall
 #. distribution, higher water need or a combination of all the three factors.
 #: Applications
 msgid "Drought"
-msgstr ""
+msgstr "খরা"
 
 #. Context: Management of drought situation
 #: Applications
 msgid "Drought Management"
-msgstr ""
+msgstr "খরা ম্যানেজমেন্ট"
 
 #. Context: Dryland farming is an agricultural technique for non-irrigated
 #. cultivation of drylands.
 #: Applications
 msgid "Dryland Agriculture"
-msgstr ""
+msgstr "শুষ্ক ভূমি কৃষি"
 
 #. Context: The burrowing and feeding activity of earthworms have numerous
 #. beneficial effects on overall soil quality for crop production. The
 #. following soil properties can be improved by earthworms.
 #: Applications
 msgid "Earth worm"
-msgstr ""
+msgstr "স্থল কীট"
 
 #. Context: Various machinery used in agriculture
 #: Applications
 msgid "Farm Machinery"
-msgstr ""
+msgstr "কৃষি যন্ত্রপাতি"
 
 #. Context: This is the traditional manure and is mostly readily available to
 #. the farmers. Farm yard manure is a decomposed mixture of Cattle dung and
@@ -410,18 +410,18 @@ msgstr ""
 #. fodder fed to the cattle.
 #: Applications
 msgid "Farm Yard Manure"
-msgstr ""
+msgstr "খামার গজ সার"
 
 #. Context: A farmer (also called an agriculturer) is a person engaged in
 #. agriculture, raising living organisms for food or raw materials.
 #: Applications
 msgid "Farmer"
-msgstr ""
+msgstr "কৃষক"
 
 #. Context: Group formed by farmer
 #: Applications
 msgid "Farmer's Association"
-msgstr ""
+msgstr "কৃষক সমিতি"
 
 #. Context: Innovations play an important role in food production as well as
 #. in optimizing resource utilization by farmers. An innovation is an idea,
@@ -429,7 +429,7 @@ msgstr ""
 #. given system.
 #: Applications
 msgid "Farmer's Innovation"
-msgstr ""
+msgstr "কৃষকদের ইনোভেশন"
 
 #. Context: A farm is an area of land that is devoted primarily to
 #. agricultural processes or an area of water that is devoted primarily to
@@ -438,297 +438,297 @@ msgstr ""
 #. food production.
 #: Applications
 msgid "Farming"
-msgstr ""
+msgstr "কৃষি"
 
 #. Context: n agriculture, fences are used to keep animals in or out of an
 #. area. They can be made from a wide variety of materials, depending on
 #. terrain, location and animals to be confined.
 #: IApplications
 msgid "Fence"
-msgstr ""
+msgstr "বেড়া"
 
 #. Context: Fertilizers are combinations of the nutrients that plants must
 #. have to grow, in a form they can use.
 #: Applications
 msgid "Fertilizer"
-msgstr ""
+msgstr "সার"
 
 #. Context: Fibre crops are field crops grown for their fibers, which are
 #. traditionally used to make paper, cloth, or rope.
 #: Applications
 msgid "Fibre crops"
-msgstr ""
+msgstr "ফাইবার ফসল"
 
 #. Context: In agriculture, a field is an area of land, enclosed or otherwise,
 #. used for agricultural purposes.
 #: Applications
 msgid "Field"
-msgstr ""
+msgstr "ক্ষেত্র"
 
 #. Context: Fishery is an entity engaged in raising or harvesting fish which
 #. is determined by some authority to be a fishery.
 #: Applications
 msgid "Fishery"
-msgstr ""
+msgstr "জলকর"
 
 #. Context: In surface (furrow, flood, or level basin) irrigation systems,
 #. water moves across the surface of agricultural lands, in order to wet it
 #. and infiltrate into the soil.
 #: Applications
 msgid "Flood irrigation"
-msgstr ""
+msgstr "বন্যা সেচ"
 
 #. Context: A flower is the reproductive structure found in flowering plants
 #. (plants of the division Magnoliophyta, also called angiosperms).
 #: Applications
 msgid "Flower"
-msgstr ""
+msgstr "ফুল"
 
 #. Context: Floriculture, or flower farming, is a discipline of horticulture
 #. concerned with the cultivation of flowering and ornamental plants for
 #. gardens and for floristry, comprising the floral industry.
 #: Applications
 msgid "Floriculture"
-msgstr ""
+msgstr "ফুলের চাষ"
 
 #. Context: The time and process of budding and unfolding of blossoms
 #: Applications
 msgid "Flowering"
-msgstr ""
+msgstr "পুষ্পোদ্গম"
 
 #. Context: Foliage is a mass noun that refers to leaves collectively.
 #: Applications
 msgid "Foliage"
-msgstr ""
+msgstr "পর্ণরাজি"
 
 #. Context: Forage crops are crops grown specifically to be grazed by
 #. livestock or conserved as hay or silage.
 #: Applications
 msgid "Forage crop"
-msgstr ""
+msgstr "ঘাস ফসল"
 
 #. Context: Fungicides are biocidal chemical compounds or biological organisms
 #. used to kill or inhibit fungi or fungal spores.
 #: Applications
 msgid "Fungicide"
-msgstr ""
+msgstr "ছত্রাকনাশক"
 
 #. Context: A fungus is any member of a large group of eukaryotic organisms
 #. that includes microorganisms such as yeasts and molds as well as the more
 #. familiar mushrooms.
 #: Applications
 msgid "Fungus"
-msgstr ""
+msgstr "ছাতা"
 
 #. Context: process by which a plant grows from a seed
 #: Applications
 msgid "Germination"
-msgstr ""
+msgstr "অঙ্কুর"
 
 #. Context: Germination is the process by which a plant grows from a seed. The
 #. most common example of germination is the sprouting of a seedling from a
 #. seed of an angiosperm or gymnosperm.
 #: Applications
 msgid "Seed Germination"
-msgstr ""
+msgstr "বীজ অঙ্কুর"
 
 #. Context: Grafting or graftage is a horticultural technique whereby tissues
 #. from one plant are inserted into those of another so that the two sets of
 #. vascular tissues may join together.
 #: Applications
 msgid "Grafting"
-msgstr ""
+msgstr "কোদাল"
 
 #. Context: Grains are small, hard, dry seeds, with or without attached hulls
 #. or fruit layers, harvested for human or animal consumption.
 #: Applications
 msgid "Grain"
-msgstr ""
+msgstr "শস্য"
 
 #. Context: It refers manure which we are available from crops standing or
 #. buried under soil.
 #: Applications
 msgid "Green Manuring"
-msgstr ""
+msgstr "সবুজ সার"
 
 #. Context: Greenhouses are frames of inflated structure covered with a
 #. transparent material in which crops are grown under controlled environment
 #. conditions.
 #: Applications
 msgid "Greenhouse Cultivation"
-msgstr ""
+msgstr "গ্রিনহাউস চাষ"
 
 #. Context: Hand sprayers are often used to apply small quantities of
 #. pesticides.
 #: Applications
 msgid "Hand sprayer"
-msgstr ""
+msgstr "হস্তচালিত সিঞ্চক"
 
 #. Context: Renovation pruning, which can be considered to be hard pruning for
 #. the purpose of renewing a plant, is carried out on woody plants which have
 #. become neglected or overgrown.
 #: Applications
 msgid "Hard Pruning"
-msgstr ""
+msgstr "শক্তভাবে কাটা"
 
 #. Context: Tool to implement for breaking up and smoothing out the surface of
 #. the soil
 #: Applications
 msgid "Harrow"
-msgstr ""
+msgstr "মই"
 
 #. Context: Harvest is the process of gathering mature crops from the fields.
 #: Applications
 msgid "Harvest"
-msgstr ""
+msgstr "ফসল"
 
 #. Context: Machine that harvest the crops.
 #: Applications
 msgid "Harvester"
-msgstr ""
+msgstr "ফসল কাটার যন্ত্র"
 
 #. Context: Measurement of land
 #: Applications
 msgid "Hectare"
-msgstr ""
+msgstr "হেক্টর"
 
 #. Context: A row of closely planted shrubs or low-growing trees forming a
 #. fence or boundary.
 #: Applications
 msgid "Hedge"
-msgstr ""
+msgstr "প্রতিবন্ধক"
 
 #. Applications:
 #. Context:
 msgid "Herb"
-msgstr ""
+msgstr "ঔষধি"
 
 #. Context: Herbicides, also commonly known as weedkillers, are pesticides
 #. used to kill unwanted plants.
 #: Applications
 msgid "Herbicide"
-msgstr ""
+msgstr "উদ্ভিদনাশক"
 
 #. Context: Horticulture is the branch of agriculture that deals with the art,
 #. science, technology, and business of plant cultivation. It includes the
 #. cultivation of fruits, vegetables, flowers and ornamental trees and plants.
 #: Applications
 msgid "Horticulture"
-msgstr ""
+msgstr "উদ্যানপালন"
 
 #. Context: In biology a hybrid is an offspring of two animals or plants of
 #. different breeds, varieties, species, or genera.
 #: Applications
 msgid "Hybrid"
-msgstr ""
+msgstr "হাইব্রীড"
 
 #. Context: Organisms that may be beneficial or harmful to the crops.
 #: Applications
 msgid "insect"
-msgstr ""
+msgstr "পোকা"
 
 #. Context: An insecticide is a substance used to kill insects.
 #: Applications
 msgid "insecticide"
-msgstr ""
+msgstr "কীটনাশক বস্তু"
 
 #. Context: It is a dynamic approach which can be applied to any farming
 #. system around the world.
 #: Applications
 msgid "Integrated Farming"
-msgstr ""
+msgstr "চাষ"
 
 #. Context: Intercropping is a multiple cropping practice involving growing
 #. two or more crops in proximity.
 #: Applications
 msgid "Intercropping"
-msgstr ""
+msgstr "ইন্টারক্রপিং"
 
 #: Irrigation is the artificial application of water to the land or soil.
 msgid "Irrigation"
-msgstr ""
+msgstr "সেচ"
 
 #. Context: It is the management of irrigation for the corps as per
 #. requirement
 #: Applications
 msgid "Irrigation Management"
-msgstr ""
+msgstr "সেচ ব্যবস্থাপনা"
 
 #. Context: Kharif crops or monsoon crops are cultivated and harvested during
 #. the rainy (monsoon) season.
 #: Applications
 msgid "Kharif crop"
-msgstr ""
+msgstr "খরিফ ফসল"
 
 #. Context: Land preparation are the activities carried out before growing any
 #. crop in the field.
 #: Applications
 msgid "Land Preparation"
-msgstr ""
+msgstr "জমি প্রস্তুতি"
 
 #. Context: Landscaping refers to any activity that modifies the visible
 #. features of an area of land
 #: Applications
 msgid "Landscaping"
-msgstr ""
+msgstr "ল্যান্ডস্কেপিং"
 
 #. Context: Layering is a means of plant propagation in which a portion of an
 #. aerial stem grows roots while still attached to the parent plant and then
 #. detaches as an independent plant.
 #: Applications
 msgid "Layering"
-msgstr ""
+msgstr "লেয়ার করা"
 
 #. Context: A leaf is an organ of a vascular plant and is the principal
 #. lateral appendage of the stem..
 #: Applications
 msgid "Leaves"
-msgstr ""
+msgstr "পাতা"
 
 #. Context: Light pruning or trimming keeps your hedge in shape and encourages
 #. healthy, dense growth..
 #: Applications
 msgid "Light Pruning"
-msgstr ""
+msgstr "লাইট প্রুনিং"
 
 #. Context: Livestock are domesticated animals raised in an agricultural
 #. setting to produce commodities such as food, fiber and labor..
 #: Applications
 msgid "Livestock"
-msgstr ""
+msgstr "পশুসম্পত্তি"
 
 #. Context: Manure is organic matter used as organic fertilizer in
 #. agriculture. Manures contribute to the fertility of the soil..
 #: Applications
 msgid "Manure"
-msgstr ""
+msgstr "সার"
 
 #. Context: It is the place for selling agro products.
 #: Applications
 msgid "Market"
-msgstr ""
+msgstr "বাজার"
 
 #. Context: Crops which are grown for medicinal purposes.
 #: Applications
 msgid "Medicinal Crops"
-msgstr ""
+msgstr "ঔষধি ফসল"
 
 #. Context: Cutting of plants to medium range.
 #: Applications
 msgid "Medium Pruning"
-msgstr ""
+msgstr "মধ্যম কেঁটে"
 
 #. Context: A microclimate is the distinctive climate of a small-scale area.
 #: Applications
 msgid "Micro climate"
-msgstr ""
+msgstr "মাইক্রো জলবায়ু"
 
 #. Context: Moisture refers to the presence of a liquid, especially water,
 #. often in trace amounts. Small amounts of water may be found, for example,
 #. in the air (humidity), in foods, and in various commercial products.
 #: Applications
 msgid "Moisture"
-msgstr ""
+msgstr "বাষ্প"
 
 #. Context: Monsoon is traditionally defined as a seasonal reversing wind
 #. accompanied by corresponding changes in precipitation,but is now used to
@@ -736,428 +736,428 @@ msgstr ""
 #. associated with the asymmetric heating of land and sea.
 #: Applications
 msgid "Monsoon"
-msgstr ""
+msgstr "মৌসুমি বায়ু"
 
 #. Context: The Minimum Support Price (MSP) Scheme is a scheme of the
 #. Government of India (GOI) to safeguard the interests of the farmers.
 #: Applications
 msgid "MSP (Minimum support Price)"
-msgstr ""
+msgstr "MSP (নূন্যতম সাপোর্ট দাম)"
 
 #. Context: Mulch is simply a protective layer of a material that is spread on
 #. top of the soil.
 #: Applications
 msgid "Mulching"
-msgstr ""
+msgstr "সহজতর"
 
 #. Context: Nitrogen is an essential building block of amino and nucleic
 #. acids, essential to life on Earth
 #: Applications
 msgid "Nitrogen"
-msgstr ""
+msgstr "নাইট্রোজেন"
 
 #. Context: A nozzle is a device designed to control the direction or
 #. characteristics of a fluid flow (especially to increase velocity) as it
 #. exits (or enters) an enclosed chamber or pipe.
 #: Applications
 msgid "Nozzle"
-msgstr ""
+msgstr "অগ্রভাগ"
 
 #. Context: A nursery is a place where plants are propagated and grown to
 #. usable size.
 #: Applications
 msgid "Nursery"
-msgstr ""
+msgstr "শিশুশালা"
 
 #. Applications:
 #. Context:
 msgid "Nutrients"
-msgstr ""
+msgstr "পুষ্টি"
 
 #. Context: Lack of desired nutrients for the plants in the soil.
 #: Applications
 msgid "Nutrient Deficiencies"
-msgstr ""
+msgstr "পুষ্টির ঘাটতি"
 
 #. Context: Management of the nutrients required for plant growth..
 #: Applications
 msgid "Nutrient Management"
-msgstr ""
+msgstr "পুষ্টির ব্যবস্থাপনা"
 
 #. Context: Plants which contains oil. Eg. Sunflower, Groundnuts etc.
 #: Applications
 msgid "Oil seeds"
-msgstr ""
+msgstr "তৈলবীজ"
 
 #. Context: Certification for doing organic farming
 #: Applications
 msgid "Organic certification"
-msgstr ""
+msgstr "জৈব সার্টিফিকেশন"
 
 #. Context: Organic farming is a form of agriculture that relies on techniques
 #. such as crop rotation, green manure, compost, and biological pest control.
 #: Applications
 msgid "Organic farming"
-msgstr ""
+msgstr "জৈব কৃষি"
 
 #. Context: Principles and Practices for getting Organic Food
 #: Applications
 msgid "Organic Farming practices"
-msgstr ""
+msgstr "জৈব চাষ অনুশীলন"
 
 #. Context: nputs and Techniques required for organic farming.
 #: IApplications
 msgid "Organic inputs and techniques"
-msgstr ""
+msgstr "জৈব ইনপুট ও কৌশল"
 
 #. Context: Since plants get carbon, hydrogen, and oxygen from the air and
 #. water, there is little farmers and gardeners can do to control  how much of
 #. these nutrients a plant can use.
 #: Applications
 msgid "Oxygen"
-msgstr ""
+msgstr "অক্সিজেন"
 
 #. Context: (Biology) an animal or plant that lives in or on another (the
 #. host) from which it obtains nourishment.
 #: Applications
 msgid "Parasites"
-msgstr ""
+msgstr "প্যারাসাইট"
 
 #. Context: A parasitoid is an organism that spends a significant portion of
 #. its life history attached to or within a single host organism in a
 #. relationship that is in essence parasitic.
 #: Applications
 msgid "Parasitoid"
-msgstr ""
+msgstr "প্যারাসিটয়েড"
 
 #. Context: A pathogen in the oldest and broadest sense is anything that can
 #. produce disease.
 #: Applications
 msgid "pathogen"
-msgstr ""
+msgstr "প্যাথোজেন"
 
 #. Context: “Pest” refers to any animal or plant causing harm or damage to
 #. people or their animals, crops, or possessions, even if it only causes
 #. annoyance.
 #: Applications
 msgid "Pest"
-msgstr ""
+msgstr "কীটপতঙ্গ"
 
 #. Context: Controlling of pest and diseases affecting crop's health and
 #. growth
 #: Applications
 msgid "Pest and Disease Control"
-msgstr ""
+msgstr "কীটপতঙ্গ ও রোগ নিয়ন্ত্রণ"
 
 #. Context: Pesticides are substances meant for attracting, reducing,
 #. destroying, or mitigating any pest.
 #: Applications
 msgid "Pesticide"
-msgstr ""
+msgstr "কীটনাশক"
 
 #. Context: pH is a measure of the acidity or basicity.
 #: Applications
 msgid "pH"
-msgstr ""
+msgstr "pH"
 
 #. Context: The process of capturing light energy and converting it to sugar
 #. energy, in the presence of chlorophyll using CO2 and H2O
 #: Applications
 msgid "Photosynthesis"
-msgstr ""
+msgstr "সালোকসংশ্লেষ"
 
 #. Context: Plants make plant growth regulators, often called phytohormones,
 #. these are substances use to regulate growth and development of the plant.
 #: Applications
 msgid "Plant growth regulators"
-msgstr ""
+msgstr "উদ্ভিদ বৃদ্ধি নিয়ন্ত্রকদের"
 
 #. Context: Plant nutrition is the study of the chemical elements and
 #. compounds that are necessary for plant growth, and also of their external
 #. supply and internal metabolism.
 #: Applications
 msgid "Plant nutrient"
-msgstr ""
+msgstr "উদ্ভিদ পুষ্টির"
 
 #. Context: Plantation crops constitute a large group of crops. The major
 #. plantation crops include coconut, arecanut, oil palm, cashew, tea, coffee
 #. and rubber; the minor plantation crops include cocoa.
 #: Applications
 msgid "Plantation Crops"
-msgstr ""
+msgstr "বাগানের ফসল"
 
 #. Context: It is the structure used for planting the plants.
 #: Applications
 msgid "Planting pit"
-msgstr ""
+msgstr "বৃক্ষরোপণের পিট"
 
 #. Context: Plants, also called green plants, are multicellular eukaryotes of
 #. the kingdom Plantae.
 #: Applications
 msgid "Plants"
-msgstr ""
+msgstr "গাছপালা"
 
 #. Context: The plough or plow is a tool (or machine) used in farming for
 #. initial cultivation of soil in preparation for sowing seed or planting to
 #. loosen or turn the soil.
 #: Applications
 msgid "Plough"
-msgstr ""
+msgstr "ঋক্ষমণ্ডল"
 
 #. Context: Removal of plant parts by hand.
 #: Applications
 msgid "Pluck"
-msgstr ""
+msgstr "ছোঁ"
 
 #. Applications:
 #. Context:
 msgid "Policies and schemes"
-msgstr ""
+msgstr "প্রকল্প ও নীতিসমূহ"
 
 #. Context: Pollination is the process by which pollen is transferred from the
 #. anther (male part) to the stigma (female part) of the plant, thereby
 #. enabling fertilization and reproduction.
 #: Applications
 msgid "Pollination"
-msgstr ""
+msgstr "পরাগযোগ"
 
 #. Context: Post harvest technology are those which starts immediately after
 #. harvesting of crops.
 #: Applications
 msgid "Post Harvest Technology"
-msgstr ""
+msgstr "পোস্ট হার্ভেস্ট প্রযুক্তি"
 
 #. Context: Potassium (K) is an essential nutrient for plant growth.
 #: Applications
 msgid "Pottasium"
-msgstr ""
+msgstr "পটাশিয়াম"
 
 #. Context: Poultry are domesticated birds kept by humans for the eggs they
 #. produce, their meat, their feathers, or sometimes as pets.
 #: Applications
 msgid "Poultry"
-msgstr ""
+msgstr "পোল্ট্রি"
 
 #. Context: Pruning is a horticultural and silvicultural practice involving
 #. the selective removal of parts of a plant, such as branches, buds, or
 #. roots.
 #: Applications
 msgid "Pruning"
-msgstr ""
+msgstr "কেঁটে সাফ করা"
 
 #. Context: A pulse sometimes called a "grain legume” is an annual leguminous
 #. crop yielding from one to twelve seeds of variable size, shape, and color
 #. within a pod.
 #: Applications
 msgid "Pulses"
-msgstr ""
+msgstr "ডাল"
 
 #. Context: Measurement of harvested crops
 #: Applications
 msgid "Quintal"
-msgstr ""
+msgstr "কুইনটাল"
 
 #. Context: Crops that are grown during winter season.
 #: Applications
 msgid "Rabi crop"
-msgstr ""
+msgstr "রবি ফসল"
 
 #. Context: Season
 #: Applications
 msgid "Rainy"
-msgstr ""
+msgstr "বৃষ্টিবহুল"
 
 #. Context: Rejuvenation pruning and renewal pruning are two techniques that
 #. includes removal of old and unwanted parts of the plant.
 #: Applications
 msgid "Rejuvenation Pruning"
-msgstr ""
+msgstr "নবজীবন কেঁটে সাফ"
 
 #. Context: Tool used for fattening land after ploughing
 #: Applications
 msgid "Roller"
-msgstr ""
+msgstr "বেলন"
 
 #. Context: In vascular plants, the root is the organ of a plant that
 #. typically lies below the surface of the soil.
 #: Applications
 msgid "Root"
-msgstr ""
+msgstr "মূল"
 
 #. Context: A rootstock is part of a plant, often an underground part, from
 #. which new above-ground growth can be produced. It can refer to a rhizome or
 #. underground stem.
 #: Applications
 msgid "Root stock"
-msgstr ""
+msgstr "রুট স্টক"
 
 #. Context: Type of soil
 #: Applications
 msgid "Sand"
-msgstr ""
+msgstr "বালি"
 
 #. Context: It is the part of the plant which is used for grafting over the
 #. root stock.
 #: Applications
 msgid "Scion"
-msgstr ""
+msgstr "তরূণ বংশধর"
 
 #. Context: A season is a division of the year, marked by changes in weather,
 #. ecology, and hours of daylight.
 #: Applications
 msgid "Season"
-msgstr ""
+msgstr "ঋতু"
 
 #. Context: Seed certification is a legally sanctioned system for quality
 #. control of seed multiplication and production.
 #: Applications
 msgid "Seed certification"
-msgstr ""
+msgstr "বীজ প্রত্যয়ন"
 
 #. Context: Seed certification is a legally sanctioned system for quality
 #. control of seed multiplication and production.
 #: Applications
 msgid "Seed Processing"
-msgstr ""
+msgstr "বীজ প্রক্রিয়াজাতকরণ"
 
 #. Context: Storage may be defined as the preservation of viable seeds from
 #. the time of collection until they are required for sowing
 #: Applications
 msgid "Seed Storage"
-msgstr ""
+msgstr "বীজ সংগ্রহস্থল"
 
 #. Context: Lab where the seeds are tested for germination and other
 #. properties.
 #: Applications
 msgid "Seed Testing lab"
-msgstr ""
+msgstr "বীজ পরীক্ষাগার"
 
 #. Context: In agriculture and horticulture, a seed treatment or seed dressing
 #. is a chemical, typically antimicrobial or fungidal, with which seeds are
 #. treated (or "dressed") prior to planting.
 #: Applications
 msgid "Seed treatment"
-msgstr ""
+msgstr "বীজ পরিচর্যা"
 
 #. Context: A seedling is a young plant sporophyte developing out of a plant
 #. embryo from a seed.
 #: Applications
 msgid "Seedling"
-msgstr ""
+msgstr "চারা"
 
 #. Context: embryonic plant enclosed in a protective outer covering called the
 #. seed.
 #: Applications
 msgid "Seeds"
-msgstr ""
+msgstr "বীজ"
 
 #. Context: Sericulture, or silk farming, is the rearing of silkworms for the
 #. production of silk.
 #: Applications
 msgid "Sericulture"
-msgstr ""
+msgstr "রেশমগুটির চাষ"
 
 #. Context: In botany, shoots consist of stems including their appendages, the
 #. leaves and lateral buds, flowering stems and flower buds.
 #: Applications
 msgid "Shoot"
-msgstr ""
+msgstr "অঙ্কুর"
 
 #. Context: A shrub is distinguished from a tree by its multiple stems and
 #. shorter height, usually under 6 m (20 ft) tall..
 #: Applications
 msgid "shrub"
-msgstr ""
+msgstr "গুল্ম"
 
 #. Context: Silviculture is the practice of controlling the establishment,
 #. growth, composition, health, and quality of forests to meet diverse needs
 #. and values.
 #: Applications
 msgid "Silviculture"
-msgstr ""
+msgstr "সিলভিকালচার"
 
 #. Context: A light skiffing (removal of the congested branches, shoots, etc.
 #. from the top.
 #: Applications
 msgid "Skiffing"
-msgstr ""
+msgstr "স্কিফিং"
 
 #. Context: Social forestry means the management and protection of forests and
 #. afforestation on barren lands with the purpose of helping in the
 #. environmental, social and rural development.
 #: Applications
 msgid "Social forestry"
-msgstr ""
+msgstr "সামাজিক বন"
 
 #. Context: Soil is the mixture of minerals, organic matter, gases, liquids,
 #. and the myriad of organisms that together support plant life.
 #: Applications
 msgid "Soil"
-msgstr ""
+msgstr "মাটি"
 
 #. Context: The supply of oxygen to roots in adequate quantities.
 #: Applications
 msgid "Soil aeration"
-msgstr ""
+msgstr "মাটি বাতান্বয়ন"
 
 #. Context: conservation+of+soil+and+water.
 #: Applications
 msgid "Soil and Water Conservation"
-msgstr ""
+msgstr "মাটি এবং জল সংরক্ষণ"
 
 #. Context: Refers to the ability of the soil to supply essential plant
 #. nutrients.
 #: Applications
 msgid "Soil fertility"
-msgstr ""
+msgstr "মাটির উর্বরতা"
 
 #. Context: Soil organisms break down organic matter, making nutrients
 #. available for uptake by plants and other organisms.
 #: Applications
 msgid "Soil organism"
-msgstr ""
+msgstr "মাটি জীব"
 
 #. Context: Soil test is the analysis of a soil sample to determine nutrient
 #. and contaminated content, composition, and other characteristics such as
 #. the acidity or pH level.
 #: Applications
 msgid "Soil test"
-msgstr ""
+msgstr "মাটি পরীক্ষা"
 
 #. Context: Practice of growing plants
 #: Applications
 msgid "Sowing"
-msgstr ""
+msgstr "বপন"
 
 #. Context: Crops grown for spice.
 #: Applications
 msgid "Spice Crops"
-msgstr ""
+msgstr "মশলার ফসল"
 
 #. Context: A sprayer is a device used to spray a liquid.
 #: Applications
 msgid "Sprayer"
-msgstr ""
+msgstr "সিঞ্চক"
 
 #. Context: The sprinkler system irrigates the field drop by drop. Sprinkler
 #. irrigation is a method of applying irrigation water which is similar to
 #. natural rainfall.
 #: Applications
 msgid "Sprinkler irrigaton"
-msgstr ""
+msgstr "স্প্রিংকলার সেচ"
 
 #. Context: Many different food groups contain a carbohydrate known as starch.
 #. Using an iodine solution, we can test for the presence of starch. When
 #. starch is present, the iodine changes from brown to blue-black or purple.
 #: Applications
 msgid "Starch test"
-msgstr ""
+msgstr "মাড় পরীক্ষা"
 
 #. Context: A stem is one of two main structural axes of a vascular plant, the
 #. other being the root.
 #: Applications
 msgid "Stem"
-msgstr ""
+msgstr "ডাঁটা"
 
 #. Context: An agricultural subsidy is a governmental subsidy paid to farmers
 #. and agribusinesses to supplement their income, manage the supply of
@@ -1165,85 +1165,85 @@ msgstr ""
 #. commodities.
 #: Applications
 msgid "Subsidy"
-msgstr ""
+msgstr "ভর্তুকি"
 
 #. Context: Sugar crops are used to produce alcohol and ethanol. In certain
 #. countries, sugar cane is eaten raw in minor quantities. It also is used in
 #. the preparation of juices and for animal feed.
 #: Applications
 msgid "Sugar Crops"
-msgstr ""
+msgstr "চিনির ফসল"
 
 #. Context: Summer is the warmest of the four temperate seasons, falling
 #. between spring and autumn.
 #: Applications
 msgid "Summer"
-msgstr ""
+msgstr "গ্রীষ্ম"
 
 #. Context: Sustainable agriculture is the production of food, fiber, or other
 #. plant or animal products using farming techniques that protect the
 #. environment, public health, human communities, and animal welfare.
 #: Applications
 msgid "Sustainable Agriculture"
-msgstr ""
+msgstr "টেকসই কৃষি"
 
 #. Context: Growing of the plants on the terrace.
 #: Applications
 msgid "Terrace garden"
-msgstr ""
+msgstr "ছাদের বাগান"
 
 #. Context: Tillage is the agricultural preparation of soil by mechanical
 #. agitation of various types, such as digging, stirring, and overturning.
 #: Applications
 msgid "Tillage"
-msgstr ""
+msgstr "কৃষিকার্য"
 
 #. Context: Tipping is part of canopy management and involves removing the top
 #. 2cm of the growth tip of a shoot. There are several reasons for tipping a
 #. vineyard.
 #: Applications
 msgid "Tipping"
-msgstr ""
+msgstr "টিপিং"
 
 #. Context: Instruments which are used to reduce drudggery in agriculture.
 #: Applications
 msgid "Tools and equipment"
-msgstr ""
+msgstr "সরঞ্জাম ও যন্ত্রপাতি"
 
 #. Context: Topdressing is the application a blended soil mixture over the
 #. surface of turf grass.
 #: Applications
 msgid "Top dressing"
-msgstr ""
+msgstr "শীর্ষ সস"
 
 #. Context: A tractor is an engineering vehicle specifically designed to
 #. deliver a high tractive effort (or torque) at slow speeds, for the purposes
 #. of hauling a trailer or machinery used in agriculture or construction.
 #: Applications
 msgid "Tractor"
-msgstr ""
+msgstr "ট্র্যাক্টর"
 
 #. Context: Method of giving desirable shape to the plants.
 #: Applications
 msgid "Training"
-msgstr ""
+msgstr "প্রশিক্ষণ"
 
 #. Context: Transplanting seedling into the main field
 #: Applications
 msgid "Transplantation"
-msgstr ""
+msgstr "অন্যত্র স্থাপন"
 
 #. Context: This plant is described as a medium-sized, evergreen, monoecious
 #. tree up to 20 meters tall and 80 cm in diameter. I
 #: Applications
 msgid "Trees"
-msgstr ""
+msgstr "গাছ"
 
 #. Context: The trenches between the rows allow for water drainage during
 #. heavy rainstorms and provide a little more space between the crops.
 #: Applications
 msgid "Trenches"
-msgstr ""
+msgstr "খাত"
 
 #. Context: Trunk (or bole) refers to the main wooden axis of a tree which is
 #. an important diagnostic feature in tree identification, and which often
@@ -1251,22 +1251,22 @@ msgstr ""
 #. species.
 #: Applications
 msgid "Trunk"
-msgstr ""
+msgstr "ট্রাঙ্ক"
 
 #. Context: Uproot seedlings by holding a few at a time and pulling sideways.
 #: Applications
 msgid "Uproot"
-msgstr ""
+msgstr "উপড়াইয়া ফেলা"
 
 #. Context: Value addition for the agri product.
 #: Applications
 msgid "Value addition"
-msgstr ""
+msgstr "মূল্য সংযোজন"
 
 #. Context: Crop are grown for vegetable purpose.
 #: Applications
 msgid "Vegetable crops"
-msgstr ""
+msgstr "উদ্ভিজ্জ ফসল"
 
 #. Context: Vegetative reproduction (vegetative propagation, vegetative
 #. multiplication, vegetative cloning) is a form of asexual reproduction in
@@ -1274,42 +1274,42 @@ msgstr ""
 #. seeds or spores It can occur naturally or be induced by horticulturists.
 #: Applications
 msgid "Vegetative Propagation"
-msgstr ""
+msgstr "অঙ্গজ বিস্তার"
 
 #. Context: Vermicompost is the product or process of composting using various
 #. worms.
 #: Applications
 msgid "Vermi-composting"
-msgstr ""
+msgstr "ভার্মিকম্পোজিটিং"
 
 #. Context: Management of water as per the requirement of the plants.
 #: Applications
 msgid "Water Management"
-msgstr ""
+msgstr "পানি ব্যবস্থাপনা"
 
 #. Context: Management of water by using various structures.
 #: Applications
 msgid "Watershed Management"
-msgstr ""
+msgstr "ওয়াটারশেড ম্যানেজমেন্ট"
 
 #. Context: plant considered undesirable in a particular situation or unwanted
 #. plants.
 #: Applications
 msgid "Weed"
-msgstr ""
+msgstr "আগাছা"
 
 #. Context: Control of weeds.
 #: Applications
 msgid "Weed Management"
-msgstr ""
+msgstr "আগাছা ব্যবস্থাপনা"
 
 #. Context: Removal of Weeds by hands
 #: Applications
 msgid "Weeding"
-msgstr ""
+msgstr "নিড়ানি"
 
 #. Context: Winter is the coldest season of the year in polar climates and
 #. temperate climates, between autumn and spring.
 #: Applications
 msgid "Winter"
-msgstr ""
+msgstr "শীত"
